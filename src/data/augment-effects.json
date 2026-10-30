@@ -1,0 +1,520 @@
+{
+  "source": {
+    "pt": "https://op.gg/pt/lol/modes/aram-mayhem",
+    "en": "https://op.gg/en/lol/modes/aram-mayhem",
+    "retrieved": "2026-10-30",
+    "patch": "26.21"
+  },
+  "effects": {
+    "https://arammayhem.com/augments/infinite-recursion/": {
+      "pt": "Recebe 60 de Aceleração de Habilidade, mais 3 de Aceleração de Habilidade por eliminação.",
+      "en": "Gain 60 Ability Haste, plus 3 Ability Haste per takedown.",
+      "incomplete": false
+    },
+    "https://arammayhem.com/augments/eureka/": {
+      "pt": "Recebe Aceleração de Habilidade equivalente a 30% do Poder de Habilidade.",
+      "en": "Gain Ability Haste equal to 30% Ability Power.",
+      "incomplete": false
+    },
+    "https://arammayhem.com/augments/jeweled-gauntlet/": {
+      "pt": "Suas Habilidades podem causar Acerto Crítico.\n\nRecebe  [não informado] de Chance de Acerto Crítico.",
+      "en": "Your Abilities can Critically Strike.\n\nGain  [not provided] Crit Chance.",
+      "incomplete": true
+    },
+    "https://arammayhem.com/augments/quest-wooglets-witchcap/": {
+      "pt": "Recebe um Bastão Desnecessariamente Grande imediatamente.\n\nMISSÃO: tenha Capuz da Morte de Rabadon e Ampulheta de Zhonya.\n\nRECOMPENSA: recebe Chapéu Mágico de Wooglet.",
+      "en": "Immediately gain a Needlessly Large Rod.\n\nQUEST: Possess Rabadon's Deathcap and Zhonya's Hourglass.\n\nREWARD: Gain Wooglet's Witchcap.",
+      "incomplete": false
+    },
+    "https://arammayhem.com/augments/bees/": {
+      "pt": "Periodicamente, sua próxima Habilidade que acertar um Campeão inimigo lançará uma colmeia de Abelhas que explode, causando Lentidão e Dano Mágico por um breve período.\n\nAs Abelhas aplicam efeitos  de contato.",
+      "en": "Periodically, your next Ability hit against an enemy champion launches a hive of Bees that explodes, Slowing and dealing magic damage over a short duration.\n\nBees apply  On-Hit effects.",
+      "incomplete": false
+    },
+    "https://arammayhem.com/augments/shrink-engine/": {
+      "pt": "Eliminações concedem um acúmulo que deixa você 4% menor, 8 de Aceleração de Habilidade e 1% de Velocidade de Movimento.\n\nPerde 65.0 de Velocidade de Movimento",
+      "en": "Takedowns grant a stack that makes you 4% smaller, grants 8 Ability Haste, and 1% Movement Speed.\n\nLose 65.0 Movement Speed",
+      "incomplete": false
+    },
+    "https://arammayhem.com/augments/recursion/": {
+      "pt": "Recebe 60 de Aceleração de Habilidade.",
+      "en": "Gain 60 Ability Haste.",
+      "incomplete": false
+    },
+    "https://arammayhem.com/augments/warlock-juicebox/": {
+      "pt": "Recebe [não informado] de Vampirismo Universal.",
+      "en": "Gain [not provided] Omnivamp.",
+      "incomplete": true
+    },
+    "https://arammayhem.com/augments/phenomenal-evil/": {
+      "pt": "Recebe permanentemente 1 de Poder de Habilidade ao causar dano a Campeões inimigos com habilidades.\n\nSe obtiver como seu segundo Aprimoramento, começa com 40 de Poder de Habilidade.",
+      "en": "Permanently gain 1 Ability Power when you damage enemy champions with Abilities.\n\nIf taken as your second Augment, starts with 40 Ability Power.",
+      "incomplete": false
+    },
+    "https://arammayhem.com/augments/upgrade-stormsurge/": {
+      "pt": "O efeito Dilúvio do Ápice da Tempestade agora sempre detona em uma área, causando Dano Mágico com base na Vida máxima.\n\nCampeões inimigos atingidos pela explosão inicial são marcados por Dilúvio.\n\nRecebe 500 de ouro.",
+      "en": "Stormsurge's Squall now always detonates in an area, dealing max Health magic damage.\n\nEnemy champions caught in the initial blast are marked by Squall.\n\nGain 500 Gold.",
+      "incomplete": false
+    },
+    "https://arammayhem.com/augments/adapt/": {
+      "pt": "Converte Dano de Ataque adicional em Poder de Habilidade. Recebe 15% de Poder de Habilidade.",
+      "en": "Convert Bonus Attack Damage to Ability Power. Gain 15% Ability Power.",
+      "incomplete": false
+    },
+    "https://arammayhem.com/augments/twin-fire/": {
+      "pt": "Ao causar dano com uma Habilidade, você lança 1 + [não informado] projéteis que causam [não informado] de Dano Mágico cada.\n\nRecebe  25% de Chance de Acerto Crítico.",
+      "en": "On ability damage, fire 1 plus [not provided] missiles that deal [not provided] magic damage each.\n\nGain  25% Critical Strike Chance.",
+      "incomplete": true
+    },
+    "https://arammayhem.com/augments/stay-resolute/": {
+      "pt": "Ao causar dano a Campeões inimigos, [não informado] concede [não informado] de Armadura e Resistência Mágica.",
+      "en": "When [not provided] damages enemy champions, gain [not provided] Armor and Magic Resistance.",
+      "incomplete": true
+    },
+    "https://arammayhem.com/augments/witchful-thinking/": {
+      "pt": "Recebe 20 - 80 de Poder de Habilidade.",
+      "en": "Gain 20 - 80 Ability Power.",
+      "incomplete": false
+    },
+    "https://arammayhem.com/augments/upgrade-zhonyas/": {
+      "pt": "Reduz o Tempo de Recarga de Ampulheta de Zhonya para 45s. Você agora pode se mover durante a estase de Ampulheta de Zhonya, Armaguarda da Caçadora ou Chapéu Mágico de Wooglet e recebe 50% de Velocidade de Movimento durante o efeito.",
+      "en": "Reduce Zhonya's Hourglass Cooldown to 45 seconds. You can now move when in Zhonya's Hourglass, Seeker's Armguard, or Wooglet's Witchcap stasis and gain 50% Movement Speed during it.",
+      "incomplete": false
+    },
+    "https://arammayhem.com/augments/infernal-conduit/": {
+      "pt": "Suas Habilidades aplicam Queimadura cumulativa, que causa dano ao longo do tempo.\n\nSeus efeitos de Queimadura reduzem os Tempos de Recarga das Habilidades básicas.",
+      "en": "Your Abilities apply stacking Burn that deals damage over time.\n\nYour Burn effects reduce your basic Ability Cooldowns.",
+      "incomplete": false
+    },
+    "https://arammayhem.com/augments/transmute-prismatic/": {
+      "pt": "Recebe um  Aprimoramento Prismático aleatório.",
+      "en": "Gain a random  Prismatic Augment.",
+      "incomplete": false
+    },
+    "https://arammayhem.com/augments/homeguard/": {
+      "pt": "Recebe 100% de Velocidade de Movimento. Desativa por 6s depois de sofrer dano.",
+      "en": "Gain 100% Movement Speed, disabled for 6 seconds after taking damage.",
+      "incomplete": false
+    },
+    "https://arammayhem.com/augments/blue-barrier/": {
+      "pt": "Recebe um Escudo equivalente a 200% - 450% do  Mana gasto por 1.5s.\n\nConcede um Escudo de até 300 - 800.",
+      "en": "Gain 200% - 450% of the  Mana you spend as a Shield for 1.5 seconds.\n\nShields up to 300 - 800",
+      "incomplete": false
+    },
+    "https://arammayhem.com/augments/mind-to-matter/": {
+      "pt": "Recebe um aumento de Vida máxima equivalente à metade do Mana.",
+      "en": "Increase max Health by half of your Mana.",
+      "incomplete": false
+    },
+    "https://arammayhem.com/augments/ultimate-recursion/": {
+      "pt": "Recebe 50 de Aceleração da Habilidade Ultimate.",
+      "en": "Gain 50 Ultimate Ability Haste.",
+      "incomplete": false
+    },
+    "https://arammayhem.com/augments/mad-scientist/": {
+      "pt": "Ao ressuscitar, aumenta de tamanho (recebendo 30% de Força Adaptativa e 20% de Vida) ou diminui de tamanho (recebendo 70 de Aceleração de Habilidade e 40% de Velocidade de Movimento).",
+      "en": "On each Revive, you grow large (gaining 30% Adaptive Force and 20% Health) or tiny (gaining 70 Ability Haste and 40% Movement Speed).",
+      "incomplete": false
+    },
+    "https://arammayhem.com/augments/transmute-chaos/": {
+      "pt": "Recebe 2 Aprimoramento(s) aleatório(s).",
+      "en": "Gain 2 random Augments.",
+      "incomplete": false
+    },
+    "https://arammayhem.com/augments/weapon-of-destiny/": {
+      "pt": "Seu primeiro item Lendário se torna a Arma do Destino, recebendo um aumento de atributos a cada eliminação de Campeão.",
+      "en": "Your first Legendary Item becomes the Weapon of Destiny, gaining increased stats for every earned champion takedown.",
+      "incomplete": false
+    },
+    "https://arammayhem.com/augments/goredrink/": {
+      "pt": "Recebe 15% de Vampirismo Universal.",
+      "en": "Gain 15% Omnivamp.",
+      "incomplete": false
+    },
+    "https://arammayhem.com/augments/stackosaurusrex/": {
+      "pt": "Ao receber Acúmulos permanentes em uma Habilidade, recebe mais 100%!",
+      "en": "When you gain permanent Stacks of an Ability, gain 100% more!",
+      "incomplete": false
+    },
+    "https://arammayhem.com/augments/erosion/": {
+      "pt": "Causar dano a inimigos fragmenta 1.5% de Armadura e Resistência Mágica por 4s, podendo chegar a 30.01% com 20 acúmulos.",
+      "en": "Damaging enemies shreds 1.5% Armor and Magic Resist for 4s, up to 30.01% at 20 stacks.",
+      "incomplete": false
+    },
+    "https://arammayhem.com/augments/dont-change-the-channel/": {
+      "pt": "Recebe um Escudo para cada segundo que passar Canalizando.",
+      "en": "Gain a Shield for every second you spend Channeling.",
+      "incomplete": false
+    },
+    "https://arammayhem.com/augments/ice-cold/": {
+      "pt": "Seus efeitos de Lentidão reduzem a Velocidade de Movimento em mais 75.",
+      "en": "Your Slowing effects reduce Movement Speed by an extra 75.",
+      "incomplete": false
+    },
+    "https://arammayhem.com/augments/back-to-basics/": {
+      "pt": "Sua ultimate está selada. Recebe 35% de Dano de Habilidade, Cura e Escudo e 70 de Aceleração de Habilidade.",
+      "en": "Your Ultimate Ability is sealed. Gain 35% Ability Damage, Healing, Shielding, and 70 Ability Haste.",
+      "incomplete": false
+    },
+    "https://arammayhem.com/augments/giant-slayer/": {
+      "pt": "Diminui de tamanho, recebe Velocidade de Movimento adicional e causa dano adicional a Campeões com base no quanto eles são maiores que você.",
+      "en": "Become tiny, gain Movement Speed, and gain bonus damage to champions based on how much larger they are than you.",
+      "incomplete": false
+    },
+    "https://arammayhem.com/augments/ethereal-weapon/": {
+      "pt": "Suas Habilidades aplicam efeitos ao contato. 1s de Tempo de Recarga por alvo.",
+      "en": "Your Abilities apply On-Hit effects. 1 second Cooldown per target.",
+      "incomplete": false
+    },
+    "https://arammayhem.com/augments/escape-plan/": {
+      "pt": "Recebe Escudo, Velocidade de Movimento e efeito de encolhimento que decaem ao chegar a 35% de Vida.",
+      "en": "Gain a massive decaying Shield, decaying Movement Speed, and a decaying shrink effect upon reaching 35% Health.",
+      "incomplete": false
+    },
+    "https://arammayhem.com/augments/shadow-runner/": {
+      "pt": "Após usar uma Habilidade de avanço ou teleporte, ou depois de sair de Furtividade, recebe 300 de Velocidade de Movimento por 2s.",
+      "en": "After using a Dash, Blink, or Teleport Ability or exiting Stealth, gain 300 Movement Speed for 2 seconds.",
+      "incomplete": false
+    },
+    "https://arammayhem.com/augments/the-boom-and-the-bass/": {
+      "pt": "Após conjurar uma Habilidade, seu próximo Ataque é mais rápido, causa Dano Mágico adicional e concede Velocidade de Movimento decrescente.",
+      "en": "After casting an Ability, your next Attack is faster, deals bonus magic damage, and grants you decaying Move Speed.",
+      "incomplete": false
+    },
+    "https://arammayhem.com/augments/zealot/": {
+      "pt": "Recebe [não informado] de Chance de Acerto Crítico e [não informado] de Velocidade de Ataque.",
+      "en": "Gain [not provided] Critical Strike Chance and [not provided] Attack Speed.",
+      "incomplete": true
+    },
+    "https://arammayhem.com/augments/deft/": {
+      "pt": "Recebe 60% de Velocidade de Ataque.",
+      "en": "Gain 60% Attack Speed.",
+      "incomplete": false
+    },
+    "https://arammayhem.com/augments/take-em-down-down-down/": {
+      "pt": "Ataques e Habilidades causam Dano Mágico adicional e aplicam acúmulos a Campeões inimigos.\n\nCom o máximo de acúmulos, você os consome para causar Dano Mágico com base na Vida perdida, além de recuperar Vida dependendo do dano causado.",
+      "en": "Attacks and Abilities deal bonus magic damage and apply stacks to enemy champions.\n\nAt max stacks, consume them to deal missing Health magic damage and you restore Health based on the damage dealt.",
+      "incomplete": false
+    },
+    "https://arammayhem.com/augments/leg-day/": {
+      "pt": "Recebe 50 de Velocidade de Movimento e 50% de Resistência a Lentidão.",
+      "en": "Gain 50 Movement Speed and 50% Slow Resist.",
+      "incomplete": false
+    },
+    "https://arammayhem.com/augments/clown-college/": {
+      "pt": "Recebe o Feitiço de Invocador Enganar.\nRecebe a Passiva Apunhalar.\n\nQuando você morre, causa uma grande quantidade de Dano Verdadeiro e Temor aos inimigos próximos.",
+      "en": "Gain Deceive Summoner Spell.\nGain Backstab Passive.\n\nWhen you die, deal a large amount of true damage and Fear nearby enemies.",
+      "incomplete": false
+    },
+    "https://arammayhem.com/augments/final-form/": {
+      "pt": "Após conjurar sua ultimate, recebe 50% de Escudo com base na Vida máxima, 20% de Vampirismo Universal e 30% de Velocidade de Movimento adicional por 10s (20s de Tempo de Recarga).",
+      "en": "After casting your Ultimate, gain a 50% max Health Shield, 20% Omnivamp and 30% bonus Movement Speed for 10 seconds. (20 seconds Cooldown).",
+      "incomplete": false
+    },
+    "https://arammayhem.com/augments/magic-missile/": {
+      "pt": "Causar dano de Habilidade lança 3 projéteis, e cada um causa uma porcentagem da Vida máxima como Dano Verdadeiro com base na distância percorrida.",
+      "en": "Dealing Ability damage fires 3 missiles, each dealing percent max Health true damage based on distance traveled.",
+      "incomplete": false
+    },
+    "https://arammayhem.com/augments/enchanting-butterflies/": {
+      "pt": "Conceder Cura ou Escudo a Campeões aliados reúne Borboletas.\n\nDepois de juntar 7 Borboletas, causar dano a um Campeão inimigo disparará todas para causar Dano Mágico.",
+      "en": "Healing or Shielding allied champions gathers Butterflies.\n\nAfter collecting 7 Butterflies, damaging an enemy champion fires all of them to deal Magic damage.",
+      "incomplete": false
+    },
+    "https://arammayhem.com/augments/purist-caster/": {
+      "pt": "Recebe 10 de Velocidade de Ataque",
+      "en": "Gain 10 Attack Speed",
+      "incomplete": false
+    },
+    "https://arammayhem.com/augments/goliath/": {
+      "pt": "Aumenta de tamanho, recebendo 35% de Vida e 15% de Força Adaptativa.",
+      "en": "Become large, gaining 35% Health and 15% Adaptive Force.",
+      "incomplete": false
+    },
+    "https://arammayhem.com/augments/armored-impact/": {
+      "pt": "Após conjurar uma Habilidade, seu próximo Ataque causará [não informado] de Dano Físico adicional aos inimigos próximos.",
+      "en": "After casting an Ability, your next Attack deals [not provided] bonus physical damage to nearby enemies.",
+      "incomplete": true
+    },
+    "https://arammayhem.com/augments/tank-engine/": {
+      "pt": "Recebe um acúmulo que aumenta seu tamanho e a Vida máxima com eliminações. Perde acúmulos ao morrer.",
+      "en": "On takedown, gain a stack that increases your size and max Health. Lose stacks on death.",
+      "incomplete": false
+    },
+    "https://arammayhem.com/augments/quest-steel-your-heart/": {
+      "pt": "MISSÃO: tenha um Coração de Aço com pelo menos 300 acúmulos.\n\nRECOMPENSA: multiplica os acúmulos do seu Coração de Aço por 3.",
+      "en": "QUEST: Possess Heartsteel with 300+ stacks.\n\nREWARD: Multiply your Heartsteel stacks by 3.",
+      "incomplete": false
+    },
+    "https://arammayhem.com/augments/heavy-hitter/": {
+      "pt": "Seus Ataques causam Dano Físico adicional equivalente a 3.5% da sua Vida máxima.",
+      "en": "Your Attacks deal additional physical damage equal to 3.5% of your max Health.",
+      "incomplete": false
+    },
+    "https://arammayhem.com/augments/upgrade-immolate/": {
+      "pt": "Resplendor Vazio e Égide de Fogo Solar concedem 12 de ouro por alvo afetado por Imolar. Recebe 250 de ouro.",
+      "en": "Hollow Radiance and Sunfire Aegis grant 12 Gold per target affected with Immolate. Gain 250 Gold.",
+      "incomplete": false
+    },
+    "https://arammayhem.com/augments/swift-and-safe/": {
+      "pt": "Recebe um Escudo após um avanço ou teleporte.",
+      "en": "Gain a Shield after a Dash or Blink.",
+      "incomplete": false
+    },
+    "https://arammayhem.com/augments/lich-brain/": {
+      "pt": "Recebe [não informado] de Poder de Habilidade.",
+      "en": "Gain [not provided] Ability Power.",
+      "incomplete": true
+    },
+    "https://arammayhem.com/augments/dual-wield/": {
+      "pt": "Ao atacar, você lança um projétil que causa 40% do dano e aplica efeitos ao contato com 40% de eficácia.\n\nRecebe 10% de Velocidade de Ataque total.",
+      "en": "When you Attack, fire a bolt that deals 40% damage and applies your On-Hit effects at 40% effectiveness.\n\nGain 10% total Attack Speed.",
+      "incomplete": false
+    },
+    "https://arammayhem.com/augments/soul-siphon/": {
+      "pt": "Cura 12% do dano causado por Acertos Críticos.\n\nRecebe  25% de Chance de Crítico.",
+      "en": "Heal for 12% of damage done by Critical Strikes.\n\nGain  25% Crit chance.",
+      "incomplete": false
+    },
+    "https://arammayhem.com/augments/upgrade-infinity-edge/": {
+      "pt": "Recebe 500 de ouro.\nTer o Gume do Infinito faz com que sua Chance de Acerto Crítico conceda de Dano de Acerto Crítico aleatoriamente a cada ataque.",
+      "en": "Gain 500 Gold.\nHaving Infinity Edge allows your Critical Strike Chance to grant random Critical Strike Damage each Attack.",
+      "incomplete": false
+    },
+    "https://arammayhem.com/augments/blunt-force/": {
+      "pt": "Recebe 20%  de Dano de Ataque.",
+      "en": "Gain 20%  Attack Damage.",
+      "incomplete": false
+    },
+    "https://arammayhem.com/augments/tank-it-or-leave-it/": {
+      "pt": "Você pode realizar Defesas Críticas usando sua Chance de Crítico (máximo de 50%), podendo reduzir o dano sofrido.\n\nRecebe  25% de Chance de Crítico.",
+      "en": "You can Critically Defend using your Crit Chance (max 50% chance), giving you a chance to reduce damage.\n\nGain  25% Crit Chance.",
+      "incomplete": false
+    },
+    "https://arammayhem.com/augments/escapade/": {
+      "pt": "Converte Poder de Habilidade em Dano de Ataque adicional. Recebe 15% de Dano de Ataque.",
+      "en": "Convert Ability Power to Bonus Attack Damage. Gain 15% Attack Damage.",
+      "incomplete": false
+    },
+    "https://arammayhem.com/augments/draw-your-sword/": {
+      "pt": "Agora você é atacante corpo a corpo. Recebe 24% de Dano de Ataque, 24% de Vida, 20% de Velocidade de Ataque, 20% de Roubo de Vida e 20% de Velocidade de Movimento (aumento com base no Alcance de Ataque perdido).",
+      "en": "You are now melee. Gain 24% Attack Damage, 24% Health, 20% Attack Speed, 20% Lifesteal, and 20% Move Speed (each further increased based on Attack Range lost).",
+      "incomplete": false
+    },
+    "https://arammayhem.com/augments/still-here/": {
+      "pt": "Recebe  2% de Velocidade de Ataque e  0.35% de Roubo de Vida para cada 1% de  Vida perdida.",
+      "en": "Gain  2% Attack Speed and  0.35% Lifesteal for each 1% of missing  Health.",
+      "incomplete": false
+    },
+    "https://arammayhem.com/augments/vulnerability/": {
+      "pt": "Seus efeitos de dano ao longo do tempo e de itens podem causar Acertos Críticos.\n\nRecebe  25% de Chance de Crítico.",
+      "en": "Your Item and damage over time effects can Critically Strike.\n\nGain  25% Crit chance.",
+      "incomplete": false
+    },
+    "https://arammayhem.com/augments/ultra-hydra/": {
+      "pt": "Recebe uma Tiamat ao concluir um item de Hidra.\n\nMISSÃO: tenha Hidra Raivosa, Hidra Profana e Hidra Titânica\n\nRECOMPENSA:: recebe Ultra-Hidra",
+      "en": "Gain a Tiamat when completing a Hydra Item.\n\nQUEST: Gain Ravenous Hydra, Profane Hydra and Titanic Hydra.\n\nREWARD: Gain Ultra Hydra.",
+      "incomplete": false
+    },
+    "https://arammayhem.com/augments/scopiest-weapons/": {
+      "pt": "Recebe [não informado] de Alcance de Ataque.",
+      "en": "Gain [not provided] Attack Range.",
+      "incomplete": true
+    },
+    "https://arammayhem.com/augments/dashing/": {
+      "pt": "Suas habilidades de avanço, salto e teleporte recebem 175 de Aceleração de Habilidade.",
+      "en": "Your dash, leap, blink, or teleport Abilities gain 175 Ability Haste.",
+      "incomplete": false
+    },
+    "https://arammayhem.com/augments/symphony-of-war/": {
+      "pt": "Recebe as Runas Essenciais Ritmo Fatal e Conquistador.\nRitmo Fatal – Atacar Campeões concede Velocidade de Ataque, acumulando até 6 vezes. Com 6 acúmulos, seus ataques disparam um projétil que causa dano adicional.\nConquistador: ganha acúmulos de Força Adaptativa ao atacar Campeões inimigos. Após alcançar 12 acúmulos, cura uma parte do dano causado a Campeões.",
+      "en": "Gain the Lethal Tempo and Conqueror Keystone Runes.\nLethal Tempo - Attacking champions grants Attack Speed, stacking up to 6 times. At 6 stacks, your Attacks launch a bolt that deals additional damage.\nConqueror: Gain stacks of Adaptive Force when attacking enemy champions. After reaching 12 stacks, heal for a portion of damage you deal to champions.",
+      "incomplete": false
+    },
+    "https://arammayhem.com/augments/mystic-punch/": {
+      "pt": "ao contato reduz o Tempo de Recarga das suas Habilidades em 1.25s .",
+      "en": "On-Hit reduce the cooldown of your abilities by 1.25 seconds .",
+      "incomplete": false
+    },
+    "https://arammayhem.com/augments/flow-of-spirit/": {
+      "pt": "Conjurar [não informado] concede  de Velocidade de Ataque por um período.",
+      "en": "Casting [not provided] grants you  Attack Speed for a duration.",
+      "incomplete": true
+    },
+    "https://arammayhem.com/augments/biggest-snowball-ever/": {
+      "pt": "Recebe 100 de Aceleração de Habilidade com a Bola de Neve.\n\nSua bola de neve está GRANDE e vai passar pelas tropas. Ela causa Lentidão, Arremessa ao Ar e causa dano adicional aos Campeões.\n\nSe não tiver uma Bola de Neve, você recebe uma.",
+      "en": "Gain 100 Ability Haste on Snowball.\n\nYour snowball is BIG and will pass through minions. It Slows, Knocks Up champions, and deals additional damage.\n\nIf you don't have one, gain a Snowball.",
+      "incomplete": false
+    },
+    "https://arammayhem.com/augments/big-shot/": {
+      "pt": "Recebe 35% de Dano de Acerto Crítico e 25% de Dano de Ataque adicional.\n\n75% da sua Velocidade de Ataque é convertida em Dano de Acerto Crítico.\n(1% da Velocidade de Ataque é convertida em 0.7",
+      "en": "Gain 35% Critical Strike Damage and 25% bonus Attack Damage.\n\n75% of your Attack Speed is converted into Critical Strike Damage.\n(1% Attack Speed to 0.7",
+      "incomplete": false
+    },
+    "https://arammayhem.com/augments/tap-dancer/": {
+      "pt": "Seus ataques concedem Velocidade de Ataque. Recebe Velocidade de Ataque com base na sua Velocidade de Movimento.",
+      "en": "Your Attacks grant you Movement Speed. Gain Attack Speed based on your Movement Speed.",
+      "incomplete": false
+    },
+    "https://arammayhem.com/augments/scopier-weapons/": {
+      "pt": "Recebe [não informado] de Alcance de Ataque.",
+      "en": "Gain [not provided] Attack Range.",
+      "incomplete": true
+    },
+    "https://arammayhem.com/augments/critical-rhythm/": {
+      "pt": "Seu ataque básico acumula 6% de Velocidade de Ataque com Acertos Críticos, até 10 acúmulos.\n\nRecebe  25% de Chance de Crítico.",
+      "en": "Your basic Attack stacks 6% Attack Speed on Critical Strikes up to 10 stacks.\n\nGain  25% Crit chance.",
+      "incomplete": false
+    },
+    "https://arammayhem.com/augments/from-beginning-to-end/": {
+      "pt": "Recebe as Runas Essenciais Primeiro Ataque e Colheita Sombria.",
+      "en": "Gain the First Strike and Dark Harvest Keystone Runes.",
+      "incomplete": false
+    },
+    "https://arammayhem.com/augments/upgrade-deaths-dance/": {
+      "pt": "Recebe  250.\n\nA Dor Ignorada de Dança da Morte aumenta para [não informado] do dano sofrido, e cura mais instantaneamente ao participar de uma eliminação.",
+      "en": "Gain  250.\n\nDeath's Dance's Ignore Pain is increased to [not provided] of damage received, and heals for more instantly when scoring a takedown.",
+      "incomplete": true
+    },
+    "https://arammayhem.com/augments/spin-to-win/": {
+      "pt": "Suas Habilidades de giro recebem 30 de Aceleração de Habilidade e causam 30% a mais de dano, aumentado para 50% para Ultimates",
+      "en": "Your spin Abilities gain 30 Ability Haste and deal 30% more damage, increase to 50% for Ultimates",
+      "incomplete": false
+    },
+    "https://arammayhem.com/augments/dive-bomber/": {
+      "pt": "Explode quando você morre, causando muito Dano Verdadeiro.",
+      "en": "Explodes when you die, dealing massive true damage.",
+      "incomplete": false
+    },
+    "https://arammayhem.com/augments/echo-cast/": {
+      "pt": "Conjurar [não informado] envia um clone na direção da posição do seu mouse e reconjura.",
+      "en": "Casting your [not provided] sends a clone toward your mouse position and recasts it.",
+      "incomplete": true
+    },
+    "https://arammayhem.com/augments/courage-of-the-colossus/": {
+      "pt": "Recebe [não informado] de Escudo depois de Imobilizar ou Prender ao chão um Campeão inimigo.",
+      "en": "Gain [not provided] Shield after Immobilizing or Grounding an enemy champion.",
+      "incomplete": true
+    },
+    "https://arammayhem.com/augments/cruelty/": {
+      "pt": "Ao Imobilizar ou Prender ao chão um Campeão, invoca um cometa que cai após um intervalo, causando Dano Mágico aos inimigos próximos.",
+      "en": "On Immobilizing or Grounding a champion, summon a comet that lands after a delay, dealing magic damage to nearby enemies.",
+      "incomplete": false
+    },
+    "https://arammayhem.com/augments/archmage/": {
+      "pt": "Conjurar uma habilidade restitui o custo de outra habilidade aleatória em 30% do Tempo de Recarga da habilidade original.",
+      "en": "Casting a spell refunds another random spell's cost by 30% of the original spell's Cooldown.",
+      "incomplete": false
+    },
+    "https://arammayhem.com/augments/spell-split/": {
+      "pt": "Seu projétil de [não informado] se divide em dois ao atingir um alvo, no alcance máximo ou ao reconjurar.",
+      "en": "Your [not provided] missile splits into two on hit, at max Range, or when Recast.",
+      "incomplete": true
+    },
+    "https://arammayhem.com/augments/celestial-body/": {
+      "pt": "Recebe 1500 de Vida, mas causa 10% a menos de dano.",
+      "en": "Gain 1500 Health, but you deal 10% less damage.",
+      "incomplete": false
+    },
+    "https://arammayhem.com/augments/stuck-in-here-with-me/": {
+      "pt": "Após usar sua ultimate, recebe 50% de redução de dano por 2s. Depois disso, você Provoca os inimigos no interior por 2s.\n\nRecebe 30 de Aceleração da Habilidade Ultimate.",
+      "en": "After using your Ultimate, gain 50% damage reduction for 2 seconds, after which you Taunt enemies inside for 2 seconds.\n\nGain 30 Ultimate Ability Haste.",
+      "incomplete": false
+    },
+    "https://arammayhem.com/augments/circle-of-death/": {
+      "pt": "A cura e a Regeneração de Vida concedidas por você também causam Dano Mágico ao Campeão inimigo mais próximo.",
+      "en": "Healing and Health Regen also deals magic damage to the nearest enemy champion.",
+      "incomplete": false
+    },
+    "https://arammayhem.com/augments/master-of-duality/": {
+      "pt": "Seus Ataques concedem 6 - 18 de Poder de Habilidade e suas Habilidades que causam dano a inimigos concedem 3 - 9 de Dano de Ataque.\n\nO fortalecimento acumula e se renova infinitamente, mas dura 5s.",
+      "en": "Your Attacks grant you 6 - 18 Ability Power and your Abilities that damage enemies grant you 3 - 9 Attack Damage.\n\nThis buff stacks and refreshes infinitely but lasts 5 seconds.",
+      "incomplete": false
+    },
+    "https://arammayhem.com/augments/cant-touch-this/": {
+      "pt": "Conjurar sua ultimate torna você Invulnerável por 2s (8s de Tempo de Recarga).",
+      "en": "Casting your Ultimate makes you Invulnerable for 2 seconds (8s Cooldown).",
+      "incomplete": false
+    },
+    "https://arammayhem.com/augments/hextech-soul/": {
+      "pt": "Periodicamente, sua próxima Habilidade ou Ataque que causa dano gera uma explosão de raios que se propaga para os inimigos, causando dano e Lentidão.",
+      "en": "Periodically your next damaging Ability or Attack triggers a lightning blast, chaining through enemies to deal damage and Slow.",
+      "incomplete": false
+    },
+    "https://arammayhem.com/augments/windspeakers-blessing/": {
+      "pt": "Suas curas e Escudos também aumentam a Armadura e Resistência Mágica do alvo em 30 - 60 por 3s.",
+      "en": "Your Healing and Shielding also increases the target's Armor and Magic Resist by 30 - 60 for 3 seconds.",
+      "incomplete": false
+    },
+    "https://arammayhem.com/augments/group-hug/": {
+      "pt": "Conceder Cura ou Escudo a um Campeão aliado com [não informado] conjura o feitiço também em 2 Campeões aliados próximos.",
+      "en": "Healing or Shielding an allied champion with [not provided] casts that spell again on 2 other nearby allied champions.",
+      "incomplete": true
+    },
+    "https://arammayhem.com/augments/protein-shake/": {
+      "pt": "Recebe [não informado]% de Resistência do Escudo e Cura com base na Armadura e na Resistência Mágica adicionais.",
+      "en": "Gain [not provided]% Heal and Shield Power based on bonus Armor and Magic Resist.",
+      "incomplete": true
+    },
+    "https://arammayhem.com/augments/empyrean-promise/": {
+      "pt": "Recebe 15% de Potência de Escudo e Cura. Recebe o Feitiço de Invocador Promessa Empírea.\n\nVigilância\nTeleporta-se até um aliado e concede [não informado] de Escudo por 3s ao chegar no local.",
+      "en": "Gain 15% Heal and Shield power. Gain Empyrean Promise as a Summoner Spell.\n\nVigilance\nTeleport to an ally and grant [not provided] Shield for 3 seconds after landing.",
+      "incomplete": true
+    },
+    "https://arammayhem.com/augments/wee-woo-wee-woo/": {
+      "pt": "Ao se mover em direção a aliados com Vida baixa, você recebe Velocidade de Movimento. Suas curas e Escudos ficam mais fortes com base na Vida perdida do alvo.",
+      "en": "When moving towards allies with low Health, gain Movement Speed. Your Healing and Shielding are greater based on how low your target's Health is.",
+      "incomplete": false
+    },
+    "https://arammayhem.com/augments/fruitify/": {
+      "pt": "Eliminações criam explosões de Frutas.\n\nA fruta restaura Vida e Mana.",
+      "en": "Takedowns create explosions of Fruit.\n\nFruit restores Health and Mana.",
+      "incomplete": false
+    },
+    "https://arammayhem.com/augments/first-aid-kit/": {
+      "pt": "Recebe 20% de cura e Resistência do Escudo.",
+      "en": "Gain 20% Heal and Shield Power.",
+      "incomplete": false
+    },
+    "https://arammayhem.com/augments/sonic-boom/": {
+      "pt": "Fortalecer, curar ou conceder Escudo para um aliado causa dano e Lentidão aos inimigos ao redor dele.",
+      "en": "Buffing, Healing, or Shielding your ally deals damage and Slows enemies surrounding them.",
+      "incomplete": false
+    },
+    "https://arammayhem.com/augments/sonata/": {
+      "pt": "A cada 10s, conjura automaticamente Ária da Perseverança e Canção da Celeridade em uma melodia alternada.\n\nÁria da Perseverança cura aliados próximos e concede uma aura protetora temporária. \n\nCanção da Celeridade gera uma aura temporária que concede Velocidade de Movimento adicional.",
+      "en": "Every 10 seconds, automatically cast the Aria of Perseverence and Song of Celerity in an alternating melody.\n\nAria of Perseverence heals nearby allies and grants a temporary shielding aura. \n\nSong of Celerity grants a temporary aura that provides bonus Movement Speed.",
+      "incomplete": false
+    },
+    "https://arammayhem.com/augments/slap-around/": {
+      "pt": "Sempre que Imobilizar ou Prender ao chão um inimigo, você receberá um acúmulo que concede 10 de Força Adaptativa. Perde 50% dos acúmulos ao morrer.",
+      "en": "Each time you Immobilize or Ground an enemy, gain a stack granting 10 Adaptive Force. Lose 50% stacks on death.",
+      "incomplete": false
+    },
+    "https://arammayhem.com/augments/ultimate-awakening/": {
+      "pt": "Recebe 30 de Aceleração da Habilidade Ultimate.\nApós usar sua Ultimate, redefine as habilidades básicas e recebe 300 de Aceleração de Habilidade Básica por 15s (20s de Tempo de Recarga).",
+      "en": "Gain 30 Ultimate Ability Haste.\nAfter using your Ultimate, refresh your basic abilities and gain 300 basic ability haste for 15s. (20s Cooldown)",
+      "incomplete": false
+    },
+    "https://arammayhem.com/augments/all-for-you/": {
+      "pt": "Suas curas e Escudos são 30% mais fortes em aliados.",
+      "en": "Your Heals and Shields are 30% stronger when used on an ally.",
+      "incomplete": false
+    },
+    "https://arammayhem.com/augments/critical-healing/": {
+      "pt": "Sua cura e Escudos podem causar 40% de Acerto Crítico adicional. Recebe 25% de Chance de Crítico.",
+      "en": "Your healing and Shields can Critically Strike for 40% bonus amount. Gain 25% Crit Chance.",
+      "incomplete": false
+    },
+    "https://arammayhem.com/augments/sap-magic/": {
+      "pt": "A cada 20s, seu próximo Ataque causa Dano Físico adicional e restaura Vida ao contato.\n\nConjurar uma Habilidade reduz o Tempo de Recarga desse efeito.",
+      "en": "Every 20 seconds, your next Attack deals bonus physical damage and restores Health On-Hit.\n\nCasting an Ability reduces this effect's cooldown.",
+      "incomplete": false
+    },
+    "https://arammayhem.com/augments/fey-magic/": {
+      "pt": "Causar dano com a ultimate Polimorfa os inimigos por 2s (15s de Tempo de Recarga).",
+      "en": "Damaging with your Ultimate Polymorphs enemies for 2 seconds (15 second Cooldown).",
+      "incomplete": false
+    }
+  }
+}
