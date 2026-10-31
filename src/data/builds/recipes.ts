@@ -1,0 +1,42 @@
+import type { Identity } from '../../domain/buildTypes'
+export type Recipe = { name: string; identity: Identity; sequence: string[]; core: string[]; purpose: string }
+const recipe = (name: string, identity: Identity, sequence: string, purpose: string): Recipe => ({ name, identity, sequence: sequence.split(' '), core: [sequence.split(' ')[0]], purpose })
+// Reusable item combinations. Assignment and rationale are explicit for each champion in championPlans.ts.
+export const recipes = {
+  resourcePoke: recipe('AP / Poke sem mana', 'mage', '4628 3020 4645 3089 3135 3157', 'Dano de habilidades à distância, sem investimento em mana.'),
+  poke: recipe('AP / Poke', 'mage', '6655 3020 4628 3089 3135 3157', 'Mana, alcance e dano de habilidades.'),
+  pick: recipe('AP / Combo', 'mage', '6655 3020 4645 3089 3135 3157', 'Dano concentrado após acertar controle.'),
+  burn: recipe('AP / Dano contínuo', 'mage', '2503 3020 6653 3116 3089 3135', 'Mana e dano repetido em combates prolongados.'),
+  pet: recipe('AP / Invocações', 'mage', '6653 3020 3116 3089 3135 3157', 'Dano de invocações e controle de espaço.'),
+  battle: recipe('AP / Combate prolongado', 'mage', '6657 3111 3003 4629 3089 3135', 'Mana, vida e conjuração repetida; itens de Lágrima precisam acumular.'),
+  drain: recipe('AP / Sustentação', 'mage', '4633 3020 4629 3089 3157 3135', 'AP e permanência na luta sem comprar mana.'),
+  dash: recipe('AP / Aproximação', 'mage', '3152 3020 4645 3089 3157 3135', 'Aproximação e combo de habilidades, sem investimento em mana.'),
+  spellblade: recipe('AP / Ataque fortalecido', 'mage', '3100 3020 4645 3089 3157 3135', 'Alterna conjuração e ataques para ativar Perdição de Lich.'),
+  apHit: recipe('AP / Ao contato', 'mage', '3115 3006 4633 3089 3100 3135', 'Velocidade de ataque, AP e efeitos ao contato.'),
+  ulti: recipe('AP / Ultimate', 'mage', '3118 3020 6653 3089 3135 3157', 'Mana e investimento em ultimates que causam dano.'),
+  meme: recipe('AP / Efeitos dos objetos', 'mage', '3100 3020 4646 3089 3157 3135', 'Experimento com dano mágico dos próprios objetos; não transforma habilidades físicas em AP.'),
+  crit: recipe('AD / Crítico', 'attack', '3031 3006 3046 3036 3072 3094', 'Crítico, ataques básicos e alcance do efeito de Canhão Fumegante.'),
+  heavy: recipe('AD / Disparos fortes', 'attack', '6676 3006 3031 3094 3036 3072', 'Prioriza dano por disparo e crítico.'),
+  cast: recipe('AD / Habilidades e crítico', 'attack', '3508 3006 3031 6675 3036 3072', 'AD, mana e ataques entre habilidades.'),
+  hit: recipe('AD / Ao contato', 'attack', '3153 3006 3124 3085 3302 3091', 'Ataques repetidos e efeitos ao contato; Furacão exige ataques à distância.'),
+  meleeHit: recipe('AD / Ataques rápidos', 'attack', '3153 3006 3124 3302 3091 3748', 'Ataques próximos e efeitos ao contato, sem Furacão.'),
+  spellAD: recipe('AD / Conjuração', 'attack', '3078 3158 3004 6694 3161 3072', 'AD, mana e uso frequente de habilidades; Manamune precisa acumular.'),
+  assassin: recipe('AD / Letalidade', 'fighter', '3142 3158 6698 6694 3814 6696', 'AD e penetração para combos físicos.'),
+  duel: recipe('AD / Duelista', 'fighter', '3078 3111 6610 3053 6333 3065', 'Conjuração entre ataques, AD e sustentação.'),
+  caster: recipe('AD / Lutador de habilidades', 'fighter', '6692 3047 3071 6610 3161 3156', 'AD e aceleração de habilidades; defesa mágica sem Sterak.'),
+  juggernaut: recipe('AD / Lutador', 'fighter', '6631 3047 3071 3053 3742 3065', 'AD, vida e aproximação para lutar perto.'),
+  bruiser: recipe('AD / Vida e ataques', 'fighter', '3748 3047 3071 2501 3053 3065', 'Ataques e dano físico com investimento em vida.'),
+  sustain: recipe('Tanque / Cura própria', 'tank', '2502 3047 3065 6665 3742 3075', 'Resistências e amplificação da cura recebida em combate próximo.'),
+  health: recipe('Tanque / Vida', 'tank', '3084 3111 3083 2502 3065 3075', 'Vida e acesso a ataques próximos para Coração de Aço.'),
+  engage: recipe('Tanque / Iniciação', 'tank', '3119 3111 3110 8020 6665 3083', 'Mana, controle e resistências; Aproximação Invernal precisa acumular.'),
+  armor: recipe('Tanque / Armadura', 'tank', '3068 3047 3110 3075 6665 4401', 'Armadura e presença próxima; não é resposta exclusiva a dano mágico.'),
+  shield: recipe('Tanque / Escudos', 'tank', '3119 3111 6662 3065 6665 3075', 'Mana, controle e aproveitamento de escudos recebidos.'),
+  noManaTank: recipe('Tanque / Resistências', 'tank', '2502 3047 3065 6665 3075 4401', 'Resistências sem gastar ouro em mana.'),
+  guard: recipe('Tanque / Proteção à distância', 'tank', '3190 3158 3109 3107 2504 3110', 'Proteção e resistências sem depender de Coração de Aço ou dano corpo a corpo.'),
+  kite: recipe('Tanque / Controle e recuo', 'tank', '6662 3047 2504 3083 3065 3143', 'Resistências e controle com ataques após conjurar; perde dano.'),
+  pykeDefense: recipe('Defesa / Resistências', 'tank', '3110 3047 3156 6333 3143 4401', 'Resistências e defesa situacional; não promete aumentar a vida máxima de Pyke.'),
+  heal: recipe('Suporte / Cura', 'enchanter', '6617 3158 3107 6621 3222 6616', 'Cura, regeneração e proteção de aliados.'),
+  shieldSupport: recipe('Suporte / Escudos', 'enchanter', '6617 3158 3504 6616 3107 6621', 'Amplifica proteção e efeitos entregues por curas e escudos.'),
+  utility: recipe('Suporte / Controle', 'enchanter', '4005 3158 2065 3107 3190 3102', 'Controle, mobilidade e proteção da equipe.'),
+} satisfies Record<string, Recipe>
+export type RecipeId = keyof typeof recipes

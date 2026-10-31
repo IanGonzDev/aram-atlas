@@ -1,0 +1,5581 @@
+{
+  "patch": "26.21",
+  "dataDragonVersion": "16.21.1",
+  "checkedAt": "2026-10-31",
+  "mayhemRelease": "website:20261031_115543:923b34276709",
+  "items": {
+    "1004": {
+      "id": "1004",
+      "name": "Amuleto da Fada",
+      "english": "Faerie Charm",
+      "icon": "https://ddragon.leagueoflegends.com/cdn/16.21.1/img/item/1004.png",
+      "cost": 200,
+      "description": "50% de Regeneração de Mana base",
+      "descriptionEN": "50% Base Mana Regen",
+      "incomplete": false,
+      "stats": {},
+      "buildsFrom": [],
+      "buildsInto": [
+        "3114",
+        "3012",
+        "4642"
+      ],
+      "groups": [],
+      "mayhem": true,
+      "purchasable": true,
+      "allowedIdentities": [
+        "mage",
+        "fighter",
+        "tank",
+        "enchanter",
+        "attack"
+      ],
+      "patch": "26.21",
+      "source": [
+        {
+          "label": "Riot Data Dragon PT-BR",
+          "url": "https://ddragon.leagueoflegends.com/cdn/16.21.1/data/pt_BR/item.json",
+          "patch": "26.21",
+          "checkedAt": "2026-10-31"
+        },
+        {
+          "label": "Riot Data Dragon EN",
+          "url": "https://ddragon.leagueoflegends.com/cdn/16.21.1/data/en_US/item.json",
+          "patch": "26.21",
+          "checkedAt": "2026-10-31"
+        },
+        {
+          "label": "Catálogo Mayhem · CC BY 4.0",
+          "url": "https://arammayhem.com/data/v1/latest/items.json",
+          "patch": "26.21",
+          "checkedAt": "2026-10-31"
+        }
+      ]
+    },
+    "1011": {
+      "id": "1011",
+      "name": "Cinto do Gigante",
+      "english": "Giant's Belt",
+      "icon": "https://ddragon.leagueoflegends.com/cdn/16.21.1/img/item/1011.png",
+      "cost": 900,
+      "description": "350 de Vida",
+      "descriptionEN": "350 Health",
+      "incomplete": false,
+      "stats": {
+        "FlatHPPoolMod": 350
+      },
+      "buildsFrom": [
+        "1028"
+      ],
+      "buildsInto": [
+        "4637",
+        "3084",
+        "2525",
+        "3039",
+        "3083",
+        "3116",
+        "3119",
+        "3143",
+        "323119",
+        "3748",
+        "6665",
+        "6609",
+        "6667",
+        "8001"
+      ],
+      "groups": [],
+      "mayhem": true,
+      "purchasable": true,
+      "allowedIdentities": [
+        "mage",
+        "fighter",
+        "tank",
+        "enchanter",
+        "attack"
+      ],
+      "patch": "26.21",
+      "source": [
+        {
+          "label": "Riot Data Dragon PT-BR",
+          "url": "https://ddragon.leagueoflegends.com/cdn/16.21.1/data/pt_BR/item.json",
+          "patch": "26.21",
+          "checkedAt": "2026-10-31"
+        },
+        {
+          "label": "Riot Data Dragon EN",
+          "url": "https://ddragon.leagueoflegends.com/cdn/16.21.1/data/en_US/item.json",
+          "patch": "26.21",
+          "checkedAt": "2026-10-31"
+        },
+        {
+          "label": "Catálogo Mayhem · CC BY 4.0",
+          "url": "https://arammayhem.com/data/v1/latest/items.json",
+          "patch": "26.21",
+          "checkedAt": "2026-10-31"
+        }
+      ]
+    },
+    "1028": {
+      "id": "1028",
+      "name": "Cristal de Rubi",
+      "english": "Ruby Crystal",
+      "icon": "https://ddragon.leagueoflegends.com/cdn/16.21.1/img/item/1028.png",
+      "cost": 400,
+      "description": "150 de Vida",
+      "descriptionEN": "150 Health",
+      "incomplete": false,
+      "stats": {
+        "FlatHPPoolMod": 150
+      },
+      "buildsFrom": [],
+      "buildsInto": [
+        "3742",
+        "1011",
+        "3068",
+        "2021",
+        "323222",
+        "323075",
+        "326617",
+        "323107",
+        "3012",
+        "3147",
+        "3067",
+        "3211",
+        "2502",
+        "322526",
+        "2526",
+        "3023",
+        "3044",
+        "3053",
+        "3066",
+        "3075",
+        "3152",
+        "3161",
+        "3801",
+        "3803",
+        "4401",
+        "4635",
+        "6035",
+        "6660",
+        "6662"
+      ],
+      "groups": [],
+      "mayhem": true,
+      "purchasable": true,
+      "allowedIdentities": [
+        "mage",
+        "fighter",
+        "tank",
+        "enchanter",
+        "attack"
+      ],
+      "patch": "26.21",
+      "source": [
+        {
+          "label": "Riot Data Dragon PT-BR",
+          "url": "https://ddragon.leagueoflegends.com/cdn/16.21.1/data/pt_BR/item.json",
+          "patch": "26.21",
+          "checkedAt": "2026-10-31"
+        },
+        {
+          "label": "Riot Data Dragon EN",
+          "url": "https://ddragon.leagueoflegends.com/cdn/16.21.1/data/en_US/item.json",
+          "patch": "26.21",
+          "checkedAt": "2026-10-31"
+        },
+        {
+          "label": "Catálogo Mayhem · CC BY 4.0",
+          "url": "https://arammayhem.com/data/v1/latest/items.json",
+          "patch": "26.21",
+          "checkedAt": "2026-10-31"
+        }
+      ]
+    },
+    "1029": {
+      "id": "1029",
+      "name": "Couraça de Pano",
+      "english": "Cloth Armor",
+      "icon": "https://ddragon.leagueoflegends.com/cdn/16.21.1/img/item/1029.png",
+      "cost": 300,
+      "description": "15 de Armadura",
+      "descriptionEN": "15 Armor",
+      "incomplete": false,
+      "stats": {
+        "FlatArmorMod": 15
+      },
+      "buildsFrom": [],
+      "buildsInto": [
+        "2421",
+        "2420",
+        "1031",
+        "323050",
+        "323190",
+        "2019",
+        "3193",
+        "3047",
+        "3024",
+        "3050",
+        "2524",
+        "3023",
+        "3076",
+        "3082",
+        "3105",
+        "3190"
+      ],
+      "groups": [],
+      "mayhem": true,
+      "purchasable": true,
+      "allowedIdentities": [
+        "mage",
+        "fighter",
+        "tank",
+        "enchanter",
+        "attack"
+      ],
+      "patch": "26.21",
+      "source": [
+        {
+          "label": "Riot Data Dragon PT-BR",
+          "url": "https://ddragon.leagueoflegends.com/cdn/16.21.1/data/pt_BR/item.json",
+          "patch": "26.21",
+          "checkedAt": "2026-10-31"
+        },
+        {
+          "label": "Riot Data Dragon EN",
+          "url": "https://ddragon.leagueoflegends.com/cdn/16.21.1/data/en_US/item.json",
+          "patch": "26.21",
+          "checkedAt": "2026-10-31"
+        },
+        {
+          "label": "Catálogo Mayhem · CC BY 4.0",
+          "url": "https://arammayhem.com/data/v1/latest/items.json",
+          "patch": "26.21",
+          "checkedAt": "2026-10-31"
+        }
+      ]
+    },
+    "1031": {
+      "id": "1031",
+      "name": "Cota de Malha",
+      "english": "Chain Vest",
+      "icon": "https://ddragon.leagueoflegends.com/cdn/16.21.1/img/item/1031.png",
+      "cost": 800,
+      "description": "40 de Armadura",
+      "descriptionEN": "40 Armor",
+      "incomplete": false,
+      "stats": {
+        "FlatArmorMod": 40
+      },
+      "buildsFrom": [
+        "1029"
+      ],
+      "buildsInto": [
+        "3742",
+        "3068",
+        "323002",
+        "3109",
+        "323075",
+        "2502",
+        "3002",
+        "3075",
+        "323109",
+        "6665",
+        "6662"
+      ],
+      "groups": [],
+      "mayhem": true,
+      "purchasable": true,
+      "allowedIdentities": [
+        "mage",
+        "fighter",
+        "tank",
+        "enchanter",
+        "attack"
+      ],
+      "patch": "26.21",
+      "source": [
+        {
+          "label": "Riot Data Dragon PT-BR",
+          "url": "https://ddragon.leagueoflegends.com/cdn/16.21.1/data/pt_BR/item.json",
+          "patch": "26.21",
+          "checkedAt": "2026-10-31"
+        },
+        {
+          "label": "Riot Data Dragon EN",
+          "url": "https://ddragon.leagueoflegends.com/cdn/16.21.1/data/en_US/item.json",
+          "patch": "26.21",
+          "checkedAt": "2026-10-31"
+        },
+        {
+          "label": "Catálogo Mayhem · CC BY 4.0",
+          "url": "https://arammayhem.com/data/v1/latest/items.json",
+          "patch": "26.21",
+          "checkedAt": "2026-10-31"
+        }
+      ]
+    },
+    "1036": {
+      "id": "1036",
+      "name": "Espada Longa",
+      "english": "Long Sword",
+      "icon": "https://ddragon.leagueoflegends.com/cdn/16.21.1/img/item/1036.png",
+      "cost": 350,
+      "description": "10 de Dano de Ataque",
+      "descriptionEN": "10 Attack Damage",
+      "incomplete": false,
+      "stats": {
+        "FlatPhysicalDamageMod": 10
+      },
+      "buildsFrom": [],
+      "buildsInto": [
+        "1053",
+        "4003",
+        "6701",
+        "2015",
+        "2019",
+        "2021",
+        "3077",
+        "6670",
+        "3133",
+        "2517",
+        "323004",
+        "3142",
+        "3004",
+        "2523",
+        "3032",
+        "3035",
+        "3044",
+        "3051",
+        "3155",
+        "6690",
+        "3123",
+        "3134",
+        "6699",
+        "6671",
+        "6692"
+      ],
+      "groups": [],
+      "mayhem": true,
+      "purchasable": true,
+      "allowedIdentities": [
+        "mage",
+        "fighter",
+        "tank",
+        "enchanter",
+        "attack"
+      ],
+      "patch": "26.21",
+      "source": [
+        {
+          "label": "Riot Data Dragon PT-BR",
+          "url": "https://ddragon.leagueoflegends.com/cdn/16.21.1/data/pt_BR/item.json",
+          "patch": "26.21",
+          "checkedAt": "2026-10-31"
+        },
+        {
+          "label": "Riot Data Dragon EN",
+          "url": "https://ddragon.leagueoflegends.com/cdn/16.21.1/data/en_US/item.json",
+          "patch": "26.21",
+          "checkedAt": "2026-10-31"
+        },
+        {
+          "label": "Catálogo Mayhem · CC BY 4.0",
+          "url": "https://arammayhem.com/data/v1/latest/items.json",
+          "patch": "26.21",
+          "checkedAt": "2026-10-31"
+        }
+      ]
+    },
+    "1052": {
+      "id": "1052",
+      "name": "Tomo Amplificador",
+      "english": "Amplifying Tome",
+      "icon": "https://ddragon.leagueoflegends.com/cdn/16.21.1/img/item/1052.png",
+      "cost": 400,
+      "description": "20 de Poder de Habilidade",
+      "descriptionEN": "20 Ability Power",
+      "incomplete": false,
+      "stats": {
+        "FlatMagicDamageMod": 20
+      },
+      "buildsFrom": [],
+      "buildsInto": [
+        "3113",
+        "2421",
+        "2420",
+        "3145",
+        "124011",
+        "4637",
+        "3916",
+        "6656",
+        "3147",
+        "3146",
+        "3802",
+        "4005",
+        "2508",
+        "326616",
+        "3108",
+        "3116",
+        "3124",
+        "4630",
+        "323504",
+        "4628",
+        "4632",
+        "4635",
+        "4642",
+        "4644"
+      ],
+      "groups": [],
+      "mayhem": true,
+      "purchasable": true,
+      "allowedIdentities": [
+        "mage",
+        "fighter",
+        "tank",
+        "enchanter",
+        "attack"
+      ],
+      "patch": "26.21",
+      "source": [
+        {
+          "label": "Riot Data Dragon PT-BR",
+          "url": "https://ddragon.leagueoflegends.com/cdn/16.21.1/data/pt_BR/item.json",
+          "patch": "26.21",
+          "checkedAt": "2026-10-31"
+        },
+        {
+          "label": "Riot Data Dragon EN",
+          "url": "https://ddragon.leagueoflegends.com/cdn/16.21.1/data/en_US/item.json",
+          "patch": "26.21",
+          "checkedAt": "2026-10-31"
+        },
+        {
+          "label": "Catálogo Mayhem · CC BY 4.0",
+          "url": "https://arammayhem.com/data/v1/latest/items.json",
+          "patch": "26.21",
+          "checkedAt": "2026-10-31"
+        }
+      ]
+    },
+    "1058": {
+      "id": "1058",
+      "name": "Bastão Desnecessariamente Grande",
+      "english": "Needlessly Large Rod",
+      "icon": "https://ddragon.leagueoflegends.com/cdn/16.21.1/img/item/1058.png",
+      "cost": 1200,
+      "description": "65 de Poder de Habilidade",
+      "descriptionEN": "65 Ability Power",
+      "incomplete": false,
+      "stats": {
+        "FlatMagicDamageMod": 65
+      },
+      "buildsFrom": [],
+      "buildsInto": [
+        "3157",
+        "4645",
+        "3089",
+        "3102",
+        "3128",
+        "4403"
+      ],
+      "groups": [],
+      "mayhem": true,
+      "purchasable": true,
+      "allowedIdentities": [
+        "mage",
+        "fighter",
+        "tank",
+        "enchanter",
+        "attack"
+      ],
+      "patch": "26.21",
+      "source": [
+        {
+          "label": "Riot Data Dragon PT-BR",
+          "url": "https://ddragon.leagueoflegends.com/cdn/16.21.1/data/pt_BR/item.json",
+          "patch": "26.21",
+          "checkedAt": "2026-10-31"
+        },
+        {
+          "label": "Riot Data Dragon EN",
+          "url": "https://ddragon.leagueoflegends.com/cdn/16.21.1/data/en_US/item.json",
+          "patch": "26.21",
+          "checkedAt": "2026-10-31"
+        },
+        {
+          "label": "Catálogo Mayhem · CC BY 4.0",
+          "url": "https://arammayhem.com/data/v1/latest/items.json",
+          "patch": "26.21",
+          "checkedAt": "2026-10-31"
+        }
+      ]
+    },
+    "2051": {
+      "id": "2051",
+      "name": "Berrante do Guardião",
+      "english": "Guardian's Horn",
+      "icon": "https://ddragon.leagueoflegends.com/cdn/16.21.1/img/item/2051.png",
+      "cost": 950,
+      "description": "150 de Vida\n\nRecuperação: restaura 20 de Vida a cada 5s.\nImpassível: bloqueia 15 de dano sofrido de Ataques e Habilidades de Campeões (25% de eficácia contra Habilidades de dano ao longo do tempo).",
+      "descriptionEN": "150 Health\n\nRecovery: Restores 20 Health every 5 seconds.\nUndaunted: Blocks 15 damage from attacks and spells from champions (25% effectiveness vs. damage over time abilities).",
+      "incomplete": false,
+      "stats": {
+        "FlatHPPoolMod": 150,
+        "FlatHPRegenMod": 4
+      },
+      "buildsFrom": [],
+      "buildsInto": [],
+      "groups": [],
+      "mayhem": true,
+      "purchasable": true,
+      "allowedIdentities": [
+        "mage",
+        "fighter",
+        "tank",
+        "enchanter",
+        "attack"
+      ],
+      "patch": "26.21",
+      "source": [
+        {
+          "label": "Riot Data Dragon PT-BR",
+          "url": "https://ddragon.leagueoflegends.com/cdn/16.21.1/data/pt_BR/item.json",
+          "patch": "26.21",
+          "checkedAt": "2026-10-31"
+        },
+        {
+          "label": "Riot Data Dragon EN",
+          "url": "https://ddragon.leagueoflegends.com/cdn/16.21.1/data/en_US/item.json",
+          "patch": "26.21",
+          "checkedAt": "2026-10-31"
+        },
+        {
+          "label": "Catálogo Mayhem · CC BY 4.0",
+          "url": "https://arammayhem.com/data/v1/latest/items.json",
+          "patch": "26.21",
+          "checkedAt": "2026-10-31"
+        }
+      ]
+    },
+    "2065": {
+      "id": "2065",
+      "name": "Hino Bélico de Shurelya",
+      "english": "Shurelya's Battlesong",
+      "icon": "https://ddragon.leagueoflegends.com/cdn/16.21.1/img/item/2065.png",
+      "cost": 2200,
+      "description": "50 de Poder de Habilidade\n15 de Aceleração de Habilidade\n4% de Velocidade de Movimento\n125% de Regeneração de Mana base\n\nDiscurso Inspirador\nConcede aos aliados próximos 30% de Velocidade de Movimento por 4s.",
+      "descriptionEN": "50 Ability Power\n15 Ability Haste\n4% Move Speed\n125% Base Mana Regen\n\nInspiring Speech\nGrant nearby allies 30% Move Speed for 4 seconds.",
+      "incomplete": false,
+      "stats": {
+        "FlatMagicDamageMod": 50,
+        "PercentMovementSpeedMod": 0.04
+      },
+      "buildsFrom": [
+        "3113",
+        "4642"
+      ],
+      "buildsInto": [],
+      "groups": [],
+      "mayhem": true,
+      "purchasable": true,
+      "allowedIdentities": [
+        "enchanter"
+      ],
+      "patch": "26.21",
+      "source": [
+        {
+          "label": "Riot Data Dragon PT-BR",
+          "url": "https://ddragon.leagueoflegends.com/cdn/16.21.1/data/pt_BR/item.json",
+          "patch": "26.21",
+          "checkedAt": "2026-10-31"
+        },
+        {
+          "label": "Riot Data Dragon EN",
+          "url": "https://ddragon.leagueoflegends.com/cdn/16.21.1/data/en_US/item.json",
+          "patch": "26.21",
+          "checkedAt": "2026-10-31"
+        },
+        {
+          "label": "Catálogo Mayhem · CC BY 4.0",
+          "url": "https://arammayhem.com/data/v1/latest/items.json",
+          "patch": "26.21",
+          "checkedAt": "2026-10-31"
+        }
+      ]
+    },
+    "2501": {
+      "id": "2501",
+      "name": "Armadura Sangrenta do Suserano",
+      "english": "Overlord's Bloodmail",
+      "icon": "https://ddragon.leagueoflegends.com/cdn/16.21.1/img/item/2501.png",
+      "cost": 3300,
+      "description": "30 de Dano de Ataque\n550 de Vida\n\nTirania\nRecebe 2.5% da sua Vida adicional como Dano de Ataque. \n\nRetaliação\nRecebe até 12% de Dano de Ataque aumentado com base no percentual de Vida perdida.",
+      "descriptionEN": "30 Attack Damage\n550 Health\n\nTyranny\nGain 2.5% of your bonus Health as Attack Damage. \n\nRetribution\nGain up to 12% increased Attack Damage based on your percent missing Health.",
+      "incomplete": false,
+      "stats": {
+        "FlatHPPoolMod": 550,
+        "FlatPhysicalDamageMod": 30
+      },
+      "buildsFrom": [
+        "2021",
+        "2021"
+      ],
+      "buildsInto": [],
+      "groups": [],
+      "mayhem": true,
+      "purchasable": true,
+      "allowedIdentities": [
+        "fighter",
+        "attack"
+      ],
+      "patch": "26.21",
+      "source": [
+        {
+          "label": "Riot Data Dragon PT-BR",
+          "url": "https://ddragon.leagueoflegends.com/cdn/16.21.1/data/pt_BR/item.json",
+          "patch": "26.21",
+          "checkedAt": "2026-10-31"
+        },
+        {
+          "label": "Riot Data Dragon EN",
+          "url": "https://ddragon.leagueoflegends.com/cdn/16.21.1/data/en_US/item.json",
+          "patch": "26.21",
+          "checkedAt": "2026-10-31"
+        },
+        {
+          "label": "Catálogo Mayhem · CC BY 4.0",
+          "url": "https://arammayhem.com/data/v1/latest/items.json",
+          "patch": "26.21",
+          "checkedAt": "2026-10-31"
+        }
+      ]
+    },
+    "2502": {
+      "id": "2502",
+      "name": "Desespero Eterno",
+      "english": "Unending Despair",
+      "icon": "https://ddragon.leagueoflegends.com/cdn/16.21.1/img/item/2502.png",
+      "cost": 2800,
+      "description": "400 de Vida\n50 de Armadura\n15 de Aceleração de Habilidade\n\nAngústia\nEnquanto estiver em combate contra Campeões, a cada 4s, causa Dano Mágico a Campeões inimigos próximos e cura 250% do dano causado.",
+      "descriptionEN": "400 Health\n50 Armor\n15 Ability Haste\n\nAnguish\nEvery 4 seconds while in combat with champions, deal magic damage to nearby enemy champions and heal for 250% of the damage dealt.",
+      "incomplete": false,
+      "stats": {
+        "FlatHPPoolMod": 400,
+        "FlatArmorMod": 50
+      },
+      "buildsFrom": [
+        "1031",
+        "3067",
+        "1028"
+      ],
+      "buildsInto": [],
+      "groups": [],
+      "mayhem": true,
+      "purchasable": true,
+      "allowedIdentities": [
+        "tank"
+      ],
+      "patch": "26.21",
+      "source": [
+        {
+          "label": "Riot Data Dragon PT-BR",
+          "url": "https://ddragon.leagueoflegends.com/cdn/16.21.1/data/pt_BR/item.json",
+          "patch": "26.21",
+          "checkedAt": "2026-10-31"
+        },
+        {
+          "label": "Riot Data Dragon EN",
+          "url": "https://ddragon.leagueoflegends.com/cdn/16.21.1/data/en_US/item.json",
+          "patch": "26.21",
+          "checkedAt": "2026-10-31"
+        },
+        {
+          "label": "Catálogo Mayhem · CC BY 4.0",
+          "url": "https://arammayhem.com/data/v1/latest/items.json",
+          "patch": "26.21",
+          "checkedAt": "2026-10-31"
+        }
+      ]
+    },
+    "2503": {
+      "id": "2503",
+      "name": "Tocha de Chamas Negras",
+      "english": "Blackfire Torch",
+      "icon": "https://ddragon.leagueoflegends.com/cdn/16.21.1/img/item/2503.png",
+      "cost": 2800,
+      "description": "80 de Poder de Habilidade\n600 de Mana\n20 de Aceleração de Habilidade\n\nLabareda Nefasta\nHabilidades de dano causam Dano Mágico adicional por 3s.\n\nChamas Negras\nPara cada Campeão inimigo, monstro grande ou monstro épico afetado pela sua Labareda Nefasta, recebe 4% de Poder de Habilidade.",
+      "descriptionEN": "80 Ability Power\n600 Mana\n20 Ability Haste\n\nBaleful Blaze\nDamaging Abilities deals bonus magic damage for 3 seconds.\n\nBlackfire\nFor each enemy champion, epic and large monster affected by your Baleful Blaze, gain 4% Ability Power.",
+      "incomplete": false,
+      "stats": {
+        "FlatMPPoolMod": 600,
+        "FlatMagicDamageMod": 80
+      },
+      "buildsFrom": [
+        "3802",
+        "2508"
+      ],
+      "buildsInto": [],
+      "groups": [],
+      "mayhem": true,
+      "purchasable": true,
+      "allowedIdentities": [
+        "mage"
+      ],
+      "patch": "26.21",
+      "source": [
+        {
+          "label": "Riot Data Dragon PT-BR",
+          "url": "https://ddragon.leagueoflegends.com/cdn/16.21.1/data/pt_BR/item.json",
+          "patch": "26.21",
+          "checkedAt": "2026-10-31"
+        },
+        {
+          "label": "Riot Data Dragon EN",
+          "url": "https://ddragon.leagueoflegends.com/cdn/16.21.1/data/en_US/item.json",
+          "patch": "26.21",
+          "checkedAt": "2026-10-31"
+        },
+        {
+          "label": "Catálogo Mayhem · CC BY 4.0",
+          "url": "https://arammayhem.com/data/v1/latest/items.json",
+          "patch": "26.21",
+          "checkedAt": "2026-10-31"
+        }
+      ]
+    },
+    "2504": {
+      "id": "2504",
+      "name": "Rookern Lamúrico",
+      "english": "Kaenic Rookern",
+      "icon": "https://ddragon.leagueoflegends.com/cdn/16.21.1/img/item/2504.png",
+      "cost": 2900,
+      "description": "400 de Vida\n80 de Resistência Mágica\n100% de Regeneração de Vida base\n\nPerdição dos Magos\nDepois de não sofrer Dano Mágico por 15s, recebe um Escudo Mágico.",
+      "descriptionEN": "400 Health\n80 Magic Resist\n100% Base Health Regen\n\nMagebane\nAfter not taking magic damage for 15 seconds, gain a magic shield.",
+      "incomplete": false,
+      "stats": {
+        "FlatSpellBlockMod": 80,
+        "FlatHPPoolMod": 400
+      },
+      "buildsFrom": [
+        "3211",
+        "1057"
+      ],
+      "buildsInto": [],
+      "groups": [],
+      "mayhem": true,
+      "purchasable": true,
+      "allowedIdentities": [
+        "tank",
+        "enchanter"
+      ],
+      "patch": "26.21",
+      "source": [
+        {
+          "label": "Riot Data Dragon PT-BR",
+          "url": "https://ddragon.leagueoflegends.com/cdn/16.21.1/data/pt_BR/item.json",
+          "patch": "26.21",
+          "checkedAt": "2026-10-31"
+        },
+        {
+          "label": "Riot Data Dragon EN",
+          "url": "https://ddragon.leagueoflegends.com/cdn/16.21.1/data/en_US/item.json",
+          "patch": "26.21",
+          "checkedAt": "2026-10-31"
+        },
+        {
+          "label": "Catálogo Mayhem · CC BY 4.0",
+          "url": "https://arammayhem.com/data/v1/latest/items.json",
+          "patch": "26.21",
+          "checkedAt": "2026-10-31"
+        }
+      ]
+    },
+    "3003": {
+      "id": "3003",
+      "name": "Cajado do Arcanjo",
+      "english": "Archangel's Staff",
+      "icon": "https://ddragon.leagueoflegends.com/cdn/16.21.1/img/item/3003.png",
+      "cost": 2900,
+      "description": "70 de Poder de Habilidade\n600 de Mana\n25 de Aceleração de Habilidade\n\nFascínio\nRecebe Poder de Habilidade equivalente a 1% do Mana adicional.\n\nFluxo de Mana (8s, máximo de 5 cargas)\nAcertar Habilidades concede 5 de Mana máximo (dobrado contra Campeões).\nTransforma-se em Abraço de Seraph com 360 de Mana máximo.",
+      "descriptionEN": "70 Ability Power\n600 Mana\n25 Ability Haste\n\nAwe\nGain Ability Power equal to 1% bonus Mana.\n\nManaflow (8s, max 5 charges)\nLanding Abilities grants 5 max Mana (doubled vs. champions).\nTransforms into Seraph's Embrace at 360 max Mana.",
+      "incomplete": false,
+      "stats": {
+        "FlatMPPoolMod": 600,
+        "FlatMagicDamageMod": 70
+      },
+      "buildsFrom": [
+        "3070",
+        "3802",
+        "3108"
+      ],
+      "buildsInto": [],
+      "groups": [
+        "tear"
+      ],
+      "mayhem": true,
+      "purchasable": true,
+      "allowedIdentities": [
+        "mage"
+      ],
+      "patch": "26.21",
+      "source": [
+        {
+          "label": "Riot Data Dragon PT-BR",
+          "url": "https://ddragon.leagueoflegends.com/cdn/16.21.1/data/pt_BR/item.json",
+          "patch": "26.21",
+          "checkedAt": "2026-10-31"
+        },
+        {
+          "label": "Riot Data Dragon EN",
+          "url": "https://ddragon.leagueoflegends.com/cdn/16.21.1/data/en_US/item.json",
+          "patch": "26.21",
+          "checkedAt": "2026-10-31"
+        },
+        {
+          "label": "Catálogo Mayhem · CC BY 4.0",
+          "url": "https://arammayhem.com/data/v1/latest/items.json",
+          "patch": "26.21",
+          "checkedAt": "2026-10-31"
+        }
+      ]
+    },
+    "3004": {
+      "id": "3004",
+      "name": "Manamune",
+      "english": "Manamune",
+      "icon": "https://ddragon.leagueoflegends.com/cdn/16.21.1/img/item/3004.png",
+      "cost": 2900,
+      "description": "35 de Dano de Ataque\n500 de Mana\n15 de Aceleração de Habilidade\n\nFascínio\nRecebe 0 de Dano de Ataque adicional.\n\nFluxo de Mana (8s, máximo de 4 cargas)\nAcertar Ataques e Habilidades concede 3 de Mana máximo (dobrado contra Campeões).\nTransforma-se em Muramana com 360 de Mana máximo.",
+      "descriptionEN": "35 Attack Damage\n500 Mana\n15 Ability Haste\n\nAwe\nGain  bonus Attack Damage.\n\nManaflow (8s, max 4 charges)\nLanding Attacks and Abilities grants 3 max Mana (doubled vs. champions).\nTransforms into Muramana at 360 max Mana.",
+      "incomplete": false,
+      "stats": {
+        "FlatMPPoolMod": 500,
+        "FlatPhysicalDamageMod": 35
+      },
+      "buildsFrom": [
+        "3070",
+        "3133",
+        "1036"
+      ],
+      "buildsInto": [],
+      "groups": [
+        "tear"
+      ],
+      "mayhem": true,
+      "purchasable": true,
+      "allowedIdentities": [
+        "attack"
+      ],
+      "patch": "26.21",
+      "source": [
+        {
+          "label": "Riot Data Dragon PT-BR",
+          "url": "https://ddragon.leagueoflegends.com/cdn/16.21.1/data/pt_BR/item.json",
+          "patch": "26.21",
+          "checkedAt": "2026-10-31"
+        },
+        {
+          "label": "Riot Data Dragon EN",
+          "url": "https://ddragon.leagueoflegends.com/cdn/16.21.1/data/en_US/item.json",
+          "patch": "26.21",
+          "checkedAt": "2026-10-31"
+        },
+        {
+          "label": "Catálogo Mayhem · CC BY 4.0",
+          "url": "https://arammayhem.com/data/v1/latest/items.json",
+          "patch": "26.21",
+          "checkedAt": "2026-10-31"
+        }
+      ]
+    },
+    "3006": {
+      "id": "3006",
+      "name": "Grevas do Berserker",
+      "english": "Berserker's Greaves",
+      "icon": "https://ddragon.leagueoflegends.com/cdn/16.21.1/img/item/3006.png",
+      "cost": 1100,
+      "description": "30% de Velocidade de Ataque\n45 de Velocidade de Movimento",
+      "descriptionEN": "30% Attack Speed\n45 Move Speed",
+      "incomplete": false,
+      "stats": {
+        "FlatMovementSpeedMod": 45,
+        "PercentAttackSpeedMod": 0.3
+      },
+      "buildsFrom": [
+        "1001",
+        "1042",
+        "1042"
+      ],
+      "buildsInto": [
+        "3172"
+      ],
+      "groups": [
+        "boots"
+      ],
+      "mayhem": true,
+      "purchasable": true,
+      "allowedIdentities": [
+        "mage",
+        "fighter",
+        "tank",
+        "enchanter",
+        "attack"
+      ],
+      "patch": "26.21",
+      "source": [
+        {
+          "label": "Riot Data Dragon PT-BR",
+          "url": "https://ddragon.leagueoflegends.com/cdn/16.21.1/data/pt_BR/item.json",
+          "patch": "26.21",
+          "checkedAt": "2026-10-31"
+        },
+        {
+          "label": "Riot Data Dragon EN",
+          "url": "https://ddragon.leagueoflegends.com/cdn/16.21.1/data/en_US/item.json",
+          "patch": "26.21",
+          "checkedAt": "2026-10-31"
+        },
+        {
+          "label": "Catálogo Mayhem · CC BY 4.0",
+          "url": "https://arammayhem.com/data/v1/latest/items.json",
+          "patch": "26.21",
+          "checkedAt": "2026-10-31"
+        }
+      ]
+    },
+    "3009": {
+      "id": "3009",
+      "name": "Botas da Rapidez",
+      "english": "Boots of Swiftness",
+      "icon": "https://ddragon.leagueoflegends.com/cdn/16.21.1/img/item/3009.png",
+      "cost": 1000,
+      "description": "55 de Velocidade de Movimento\n\nPés Velozes\nReduz a eficácia dos efeitos de Lentidão em 25%.",
+      "descriptionEN": "55 Move Speed\n\nFleetfooted\nReduce the effectiveness of Slows by 25%.",
+      "incomplete": false,
+      "stats": {
+        "FlatMovementSpeedMod": 55
+      },
+      "buildsFrom": [
+        "1001"
+      ],
+      "buildsInto": [
+        "3170"
+      ],
+      "groups": [
+        "boots"
+      ],
+      "mayhem": true,
+      "purchasable": true,
+      "allowedIdentities": [
+        "mage",
+        "fighter",
+        "tank",
+        "enchanter",
+        "attack"
+      ],
+      "patch": "26.21",
+      "source": [
+        {
+          "label": "Riot Data Dragon PT-BR",
+          "url": "https://ddragon.leagueoflegends.com/cdn/16.21.1/data/pt_BR/item.json",
+          "patch": "26.21",
+          "checkedAt": "2026-10-31"
+        },
+        {
+          "label": "Riot Data Dragon EN",
+          "url": "https://ddragon.leagueoflegends.com/cdn/16.21.1/data/en_US/item.json",
+          "patch": "26.21",
+          "checkedAt": "2026-10-31"
+        },
+        {
+          "label": "Catálogo Mayhem · CC BY 4.0",
+          "url": "https://arammayhem.com/data/v1/latest/items.json",
+          "patch": "26.21",
+          "checkedAt": "2026-10-31"
+        }
+      ]
+    },
+    "3020": {
+      "id": "3020",
+      "name": "Sapatos do Feiticeiro",
+      "english": "Sorcerer's Shoes",
+      "icon": "https://ddragon.leagueoflegends.com/cdn/16.21.1/img/item/3020.png",
+      "cost": 1100,
+      "description": "12 de Penetração Mágica\n45 de Velocidade de Movimento",
+      "descriptionEN": "12 Magic Penetration\n45 Move Speed",
+      "incomplete": false,
+      "stats": {
+        "FlatMovementSpeedMod": 45
+      },
+      "buildsFrom": [
+        "1001"
+      ],
+      "buildsInto": [
+        "3175"
+      ],
+      "groups": [
+        "boots"
+      ],
+      "mayhem": true,
+      "purchasable": true,
+      "allowedIdentities": [
+        "mage",
+        "fighter",
+        "tank",
+        "enchanter",
+        "attack"
+      ],
+      "patch": "26.21",
+      "source": [
+        {
+          "label": "Riot Data Dragon PT-BR",
+          "url": "https://ddragon.leagueoflegends.com/cdn/16.21.1/data/pt_BR/item.json",
+          "patch": "26.21",
+          "checkedAt": "2026-10-31"
+        },
+        {
+          "label": "Riot Data Dragon EN",
+          "url": "https://ddragon.leagueoflegends.com/cdn/16.21.1/data/en_US/item.json",
+          "patch": "26.21",
+          "checkedAt": "2026-10-31"
+        },
+        {
+          "label": "Catálogo Mayhem · CC BY 4.0",
+          "url": "https://arammayhem.com/data/v1/latest/items.json",
+          "patch": "26.21",
+          "checkedAt": "2026-10-31"
+        }
+      ]
+    },
+    "3031": {
+      "id": "3031",
+      "name": "Gume do Infinito",
+      "english": "Infinity Edge",
+      "icon": "https://ddragon.leagueoflegends.com/cdn/16.21.1/img/item/3031.png",
+      "cost": 3500,
+      "description": "75 de Dano de Ataque\n25% de Chance de Acerto Crítico\n30% de Dano de Acerto Crítico",
+      "descriptionEN": "75 Attack Damage\n25% Critical Strike Chance\n30% Critical Strike Damage",
+      "incomplete": false,
+      "stats": {
+        "FlatCritChanceMod": 0.25,
+        "FlatPhysicalDamageMod": 75
+      },
+      "buildsFrom": [
+        "1038",
+        "1037",
+        "1018"
+      ],
+      "buildsInto": [],
+      "groups": [],
+      "mayhem": true,
+      "purchasable": true,
+      "allowedIdentities": [
+        "attack"
+      ],
+      "patch": "26.21",
+      "source": [
+        {
+          "label": "Riot Data Dragon PT-BR",
+          "url": "https://ddragon.leagueoflegends.com/cdn/16.21.1/data/pt_BR/item.json",
+          "patch": "26.21",
+          "checkedAt": "2026-10-31"
+        },
+        {
+          "label": "Riot Data Dragon EN",
+          "url": "https://ddragon.leagueoflegends.com/cdn/16.21.1/data/en_US/item.json",
+          "patch": "26.21",
+          "checkedAt": "2026-10-31"
+        },
+        {
+          "label": "Catálogo Mayhem · CC BY 4.0",
+          "url": "https://arammayhem.com/data/v1/latest/items.json",
+          "patch": "26.21",
+          "checkedAt": "2026-10-31"
+        }
+      ]
+    },
+    "3033": {
+      "id": "3033",
+      "name": "Lembrete Mortal",
+      "english": "Mortal Reminder",
+      "icon": "https://ddragon.leagueoflegends.com/cdn/16.21.1/img/item/3033.png",
+      "cost": 3000,
+      "description": "35 de Dano de Ataque\n30% de Penetração de Armadura\n25% de Chance de Acerto Crítico\n\nFeridas Dolorosas\nCausar Dano Físico aplica 40% de Ferimentos a Campeões inimigos por 3s.",
+      "descriptionEN": "35 Attack Damage\n30% Armor Penetration\n25% Critical Strike Chance\n\nGrievous Wounds\nDealing physical damage applies 40% Wounds to enemy champions for 3 seconds.",
+      "incomplete": false,
+      "stats": {
+        "FlatCritChanceMod": 0.25,
+        "FlatPhysicalDamageMod": 35
+      },
+      "buildsFrom": [
+        "3123",
+        "3035",
+        "1018"
+      ],
+      "buildsInto": [],
+      "groups": [
+        "percent-armor-penetration"
+      ],
+      "mayhem": true,
+      "purchasable": true,
+      "allowedIdentities": [
+        "attack"
+      ],
+      "patch": "26.21",
+      "source": [
+        {
+          "label": "Riot Data Dragon PT-BR",
+          "url": "https://ddragon.leagueoflegends.com/cdn/16.21.1/data/pt_BR/item.json",
+          "patch": "26.21",
+          "checkedAt": "2026-10-31"
+        },
+        {
+          "label": "Riot Data Dragon EN",
+          "url": "https://ddragon.leagueoflegends.com/cdn/16.21.1/data/en_US/item.json",
+          "patch": "26.21",
+          "checkedAt": "2026-10-31"
+        },
+        {
+          "label": "Catálogo Mayhem · CC BY 4.0",
+          "url": "https://arammayhem.com/data/v1/latest/items.json",
+          "patch": "26.21",
+          "checkedAt": "2026-10-31"
+        }
+      ]
+    },
+    "3036": {
+      "id": "3036",
+      "name": "Lembranças do Lorde Dominik",
+      "english": "Lord Dominik's Regards",
+      "icon": "https://ddragon.leagueoflegends.com/cdn/16.21.1/img/item/3036.png",
+      "cost": 3300,
+      "description": "35 de Dano de Ataque\n35% de Penetração de Armadura\n25% de Chance de Acerto Crítico\n\nMata-Gigantes\nCausa até 15% de dano adicional a Campeões com base na Vida adicional deles. Adicional de dano máximo atingido com 1500 de Vida adicional.",
+      "descriptionEN": "35 Attack Damage\n35% Armor Penetration\n25% Critical Strike Chance\n\nGiant Slayer\nDeal up to 15% bonus damage against champions based on their bonus Health. Maximum damage bonus reached at 1500 bonus Health.",
+      "incomplete": false,
+      "stats": {
+        "FlatCritChanceMod": 0.25,
+        "FlatPhysicalDamageMod": 35
+      },
+      "buildsFrom": [
+        "3035",
+        "6670"
+      ],
+      "buildsInto": [],
+      "groups": [
+        "percent-armor-penetration"
+      ],
+      "mayhem": true,
+      "purchasable": true,
+      "allowedIdentities": [
+        "attack"
+      ],
+      "patch": "26.21",
+      "source": [
+        {
+          "label": "Riot Data Dragon PT-BR",
+          "url": "https://ddragon.leagueoflegends.com/cdn/16.21.1/data/pt_BR/item.json",
+          "patch": "26.21",
+          "checkedAt": "2026-10-31"
+        },
+        {
+          "label": "Riot Data Dragon EN",
+          "url": "https://ddragon.leagueoflegends.com/cdn/16.21.1/data/en_US/item.json",
+          "patch": "26.21",
+          "checkedAt": "2026-10-31"
+        },
+        {
+          "label": "Catálogo Mayhem · CC BY 4.0",
+          "url": "https://arammayhem.com/data/v1/latest/items.json",
+          "patch": "26.21",
+          "checkedAt": "2026-10-31"
+        }
+      ]
+    },
+    "3046": {
+      "id": "3046",
+      "name": "Dançarina Fantasma",
+      "english": "Phantom Dancer",
+      "icon": "https://ddragon.leagueoflegends.com/cdn/16.21.1/img/item/3046.png",
+      "cost": 2650,
+      "description": "65% de Velocidade de Ataque\n25% de Chance de Acerto Crítico\n10% de Velocidade de Movimento\n\nValsa Espectral\nRecebe efeito Fantasma.",
+      "descriptionEN": "65% Attack Speed\n25% Critical Strike Chance\n10% Move Speed\n\nSpectral Waltz\nBecome Ghosted.",
+      "incomplete": false,
+      "stats": {
+        "FlatCritChanceMod": 0.25,
+        "PercentAttackSpeedMod": 0.65,
+        "PercentMovementSpeedMod": 0.1
+      },
+      "buildsFrom": [
+        "1042",
+        "3086",
+        "1042"
+      ],
+      "buildsInto": [],
+      "groups": [],
+      "mayhem": true,
+      "purchasable": true,
+      "allowedIdentities": [
+        "attack"
+      ],
+      "patch": "26.21",
+      "source": [
+        {
+          "label": "Riot Data Dragon PT-BR",
+          "url": "https://ddragon.leagueoflegends.com/cdn/16.21.1/data/pt_BR/item.json",
+          "patch": "26.21",
+          "checkedAt": "2026-10-31"
+        },
+        {
+          "label": "Riot Data Dragon EN",
+          "url": "https://ddragon.leagueoflegends.com/cdn/16.21.1/data/en_US/item.json",
+          "patch": "26.21",
+          "checkedAt": "2026-10-31"
+        },
+        {
+          "label": "Catálogo Mayhem · CC BY 4.0",
+          "url": "https://arammayhem.com/data/v1/latest/items.json",
+          "patch": "26.21",
+          "checkedAt": "2026-10-31"
+        }
+      ]
+    },
+    "3047": {
+      "id": "3047",
+      "name": "Botas Galvanizadas de Aço",
+      "english": "Plated Steelcaps",
+      "icon": "https://ddragon.leagueoflegends.com/cdn/16.21.1/img/item/3047.png",
+      "cost": 1200,
+      "description": "25 de Armadura\n45 de Velocidade de Movimento\n\nBarricada\nReduz o dano sofrido de Ataques em 10%.",
+      "descriptionEN": "25 Armor\n45 Move Speed\n\nPlating\nReduces incoming damage from Attacks by 10%.",
+      "incomplete": false,
+      "stats": {
+        "FlatMovementSpeedMod": 45,
+        "FlatArmorMod": 25
+      },
+      "buildsFrom": [
+        "1001",
+        "1029"
+      ],
+      "buildsInto": [
+        "3174"
+      ],
+      "groups": [
+        "boots"
+      ],
+      "mayhem": true,
+      "purchasable": true,
+      "allowedIdentities": [
+        "mage",
+        "fighter",
+        "tank",
+        "enchanter",
+        "attack"
+      ],
+      "patch": "26.21",
+      "source": [
+        {
+          "label": "Riot Data Dragon PT-BR",
+          "url": "https://ddragon.leagueoflegends.com/cdn/16.21.1/data/pt_BR/item.json",
+          "patch": "26.21",
+          "checkedAt": "2026-10-31"
+        },
+        {
+          "label": "Riot Data Dragon EN",
+          "url": "https://ddragon.leagueoflegends.com/cdn/16.21.1/data/en_US/item.json",
+          "patch": "26.21",
+          "checkedAt": "2026-10-31"
+        },
+        {
+          "label": "Catálogo Mayhem · CC BY 4.0",
+          "url": "https://arammayhem.com/data/v1/latest/items.json",
+          "patch": "26.21",
+          "checkedAt": "2026-10-31"
+        }
+      ]
+    },
+    "3050": {
+      "id": "3050",
+      "name": "Convergência de Zeke",
+      "english": "Zeke's Convergence",
+      "icon": "https://ddragon.leagueoflegends.com/cdn/16.21.1/img/item/3050.png",
+      "cost": 2200,
+      "description": "300 de Vida\n25 de Armadura\n25 de Resistência Mágica\n10 de Aceleração de Habilidade\n\nTempestade do Raio de Gelo\nConjurar sua ultimate invoca uma tempestade ao seu redor por 5s. A tempestade causa 30 de Dano Mágico por segundo e 30% de Lentidão a Campeões inimigos.",
+      "descriptionEN": "300 Health\n25 Armor\n25 Magic Resist\n10 Ability Haste\n\nFrostfire Tempest\nCasting your Ultimate summons a storm around you for 5 seconds. The storm deals 30 magic damage per second to enemy champions and Slows them by 30%.",
+      "incomplete": false,
+      "stats": {
+        "FlatSpellBlockMod": 25,
+        "FlatHPPoolMod": 300,
+        "FlatArmorMod": 25
+      },
+      "buildsFrom": [
+        "3067",
+        "1029",
+        "1033"
+      ],
+      "buildsInto": [],
+      "groups": [],
+      "mayhem": true,
+      "purchasable": true,
+      "allowedIdentities": [
+        "tank",
+        "enchanter"
+      ],
+      "patch": "26.21",
+      "source": [
+        {
+          "label": "Riot Data Dragon PT-BR",
+          "url": "https://ddragon.leagueoflegends.com/cdn/16.21.1/data/pt_BR/item.json",
+          "patch": "26.21",
+          "checkedAt": "2026-10-31"
+        },
+        {
+          "label": "Riot Data Dragon EN",
+          "url": "https://ddragon.leagueoflegends.com/cdn/16.21.1/data/en_US/item.json",
+          "patch": "26.21",
+          "checkedAt": "2026-10-31"
+        },
+        {
+          "label": "Catálogo Mayhem · CC BY 4.0",
+          "url": "https://arammayhem.com/data/v1/latest/items.json",
+          "patch": "26.21",
+          "checkedAt": "2026-10-31"
+        }
+      ]
+    },
+    "3053": {
+      "id": "3053",
+      "name": "Sinal de Sterak",
+      "english": "Sterak's Gage",
+      "icon": "https://ddragon.leagueoflegends.com/cdn/16.21.1/img/item/3053.png",
+      "cost": 3200,
+      "description": "400 de Vida\n20% de Tenacidade\n\nGarras Caçadoras\nRecebe Dano de Ataque adicional.\n\nSalva-Vidas\nAo sofrer dano que reduziria sua Vida a menos de 30%, concede um Escudo que decai por 4.5s.",
+      "descriptionEN": "400 Health\n20% Tenacity\n\nThe Claws that Catch\nGain bonus Attack Damage.\n\nLifeline\nTaking damage that would reduce your Health below 30% grants a decaying Shield for 4.5 seconds.",
+      "incomplete": false,
+      "stats": {
+        "FlatHPPoolMod": 400
+      },
+      "buildsFrom": [
+        "1037",
+        "2021",
+        "1028"
+      ],
+      "buildsInto": [],
+      "groups": [
+        "lifeline"
+      ],
+      "mayhem": true,
+      "purchasable": true,
+      "allowedIdentities": [
+        "fighter",
+        "attack"
+      ],
+      "patch": "26.21",
+      "source": [
+        {
+          "label": "Riot Data Dragon PT-BR",
+          "url": "https://ddragon.leagueoflegends.com/cdn/16.21.1/data/pt_BR/item.json",
+          "patch": "26.21",
+          "checkedAt": "2026-10-31"
+        },
+        {
+          "label": "Riot Data Dragon EN",
+          "url": "https://ddragon.leagueoflegends.com/cdn/16.21.1/data/en_US/item.json",
+          "patch": "26.21",
+          "checkedAt": "2026-10-31"
+        },
+        {
+          "label": "Catálogo Mayhem · CC BY 4.0",
+          "url": "https://arammayhem.com/data/v1/latest/items.json",
+          "patch": "26.21",
+          "checkedAt": "2026-10-31"
+        }
+      ]
+    },
+    "3065": {
+      "id": "3065",
+      "name": "Semblante Espiritual",
+      "english": "Spirit Visage",
+      "icon": "https://ddragon.leagueoflegends.com/cdn/16.21.1/img/item/3065.png",
+      "cost": 2700,
+      "description": "400 de Vida\n50 de Resistência Mágica\n10 de Aceleração de Habilidade\n100% de Regeneração de Vida base\n\nVitalidade Imensurável\nCuras e Escudos em você são aumentados em 25%.",
+      "descriptionEN": "400 Health\n50 Magic Resist\n10 Ability Haste\n100% Base Health Regen\n\nBoundless Vitality\nHeals and Shields on you are increased by 25%.",
+      "incomplete": false,
+      "stats": {
+        "FlatSpellBlockMod": 50,
+        "FlatHPPoolMod": 400
+      },
+      "buildsFrom": [
+        "3211",
+        "3067"
+      ],
+      "buildsInto": [],
+      "groups": [],
+      "mayhem": true,
+      "purchasable": true,
+      "allowedIdentities": [
+        "mage",
+        "fighter",
+        "tank",
+        "attack"
+      ],
+      "patch": "26.21",
+      "source": [
+        {
+          "label": "Riot Data Dragon PT-BR",
+          "url": "https://ddragon.leagueoflegends.com/cdn/16.21.1/data/pt_BR/item.json",
+          "patch": "26.21",
+          "checkedAt": "2026-10-31"
+        },
+        {
+          "label": "Riot Data Dragon EN",
+          "url": "https://ddragon.leagueoflegends.com/cdn/16.21.1/data/en_US/item.json",
+          "patch": "26.21",
+          "checkedAt": "2026-10-31"
+        },
+        {
+          "label": "Catálogo Mayhem · CC BY 4.0",
+          "url": "https://arammayhem.com/data/v1/latest/items.json",
+          "patch": "26.21",
+          "checkedAt": "2026-10-31"
+        }
+      ]
+    },
+    "3066": {
+      "id": "3066",
+      "name": "Couraça Lunar Alada",
+      "english": "Winged Moonplate",
+      "icon": "https://ddragon.leagueoflegends.com/cdn/16.21.1/img/item/3066.png",
+      "cost": 800,
+      "description": "200 de Vida\n4% de Velocidade de Movimento",
+      "descriptionEN": "200 Health\n4% Move Speed",
+      "incomplete": false,
+      "stats": {
+        "FlatHPPoolMod": 200,
+        "PercentMovementSpeedMod": 0.04
+      },
+      "buildsFrom": [
+        "1028"
+      ],
+      "buildsInto": [
+        "3742",
+        "323002",
+        "3002",
+        "3181",
+        "4401"
+      ],
+      "groups": [],
+      "mayhem": true,
+      "purchasable": true,
+      "allowedIdentities": [
+        "mage",
+        "fighter",
+        "tank",
+        "enchanter",
+        "attack"
+      ],
+      "patch": "26.21",
+      "source": [
+        {
+          "label": "Riot Data Dragon PT-BR",
+          "url": "https://ddragon.leagueoflegends.com/cdn/16.21.1/data/pt_BR/item.json",
+          "patch": "26.21",
+          "checkedAt": "2026-10-31"
+        },
+        {
+          "label": "Riot Data Dragon EN",
+          "url": "https://ddragon.leagueoflegends.com/cdn/16.21.1/data/en_US/item.json",
+          "patch": "26.21",
+          "checkedAt": "2026-10-31"
+        },
+        {
+          "label": "Catálogo Mayhem · CC BY 4.0",
+          "url": "https://arammayhem.com/data/v1/latest/items.json",
+          "patch": "26.21",
+          "checkedAt": "2026-10-31"
+        }
+      ]
+    },
+    "3067": {
+      "id": "3067",
+      "name": "Gema Ardente",
+      "english": "Kindlegem",
+      "icon": "https://ddragon.leagueoflegends.com/cdn/16.21.1/img/item/3067.png",
+      "cost": 800,
+      "description": "200 de Vida\n10 de Aceleração de Habilidade",
+      "descriptionEN": "200 Health\n10 Ability Haste",
+      "incomplete": false,
+      "stats": {
+        "FlatHPPoolMod": 200
+      },
+      "buildsFrom": [
+        "1028",
+        "2022"
+      ],
+      "buildsInto": [
+        "3071",
+        "8020",
+        "323050",
+        "328020",
+        "124011",
+        "323190",
+        "323222",
+        "3165",
+        "6620",
+        "3050",
+        "3109",
+        "6656",
+        "326617",
+        "323107",
+        "2502",
+        "2510",
+        "2524",
+        "2525",
+        "6617",
+        "3065",
+        "3152",
+        "3119",
+        "326620",
+        "3190",
+        "3222",
+        "323109",
+        "323119",
+        "4403",
+        "4629",
+        "4644",
+        "6630",
+        "6632",
+        "8001"
+      ],
+      "groups": [],
+      "mayhem": true,
+      "purchasable": true,
+      "allowedIdentities": [
+        "mage",
+        "fighter",
+        "tank",
+        "enchanter",
+        "attack"
+      ],
+      "patch": "26.21",
+      "source": [
+        {
+          "label": "Riot Data Dragon PT-BR",
+          "url": "https://ddragon.leagueoflegends.com/cdn/16.21.1/data/pt_BR/item.json",
+          "patch": "26.21",
+          "checkedAt": "2026-10-31"
+        },
+        {
+          "label": "Riot Data Dragon EN",
+          "url": "https://ddragon.leagueoflegends.com/cdn/16.21.1/data/en_US/item.json",
+          "patch": "26.21",
+          "checkedAt": "2026-10-31"
+        },
+        {
+          "label": "Catálogo Mayhem · CC BY 4.0",
+          "url": "https://arammayhem.com/data/v1/latest/items.json",
+          "patch": "26.21",
+          "checkedAt": "2026-10-31"
+        }
+      ]
+    },
+    "3068": {
+      "id": "3068",
+      "name": "Égide de Fogo Solar",
+      "english": "Sunfire Aegis",
+      "icon": "https://ddragon.leagueoflegends.com/cdn/16.21.1/img/item/3068.png",
+      "cost": 2800,
+      "description": "350 de Vida\n50 de Armadura\n10 de Aceleração de Habilidade\n\nImolar\nDepois de causar ou sofrer qualquer dano, você causa Dano Mágico por segundo a inimigos próximos por 3s.",
+      "descriptionEN": "350 Health\n50 Armor\n10 Ability Haste\n\nImmolate\nAfter taking or dealing damage, deal magic damage per second to nearby enemies for 3 seconds.",
+      "incomplete": false,
+      "stats": {
+        "FlatHPPoolMod": 350,
+        "FlatArmorMod": 50
+      },
+      "buildsFrom": [
+        "6660",
+        "1031",
+        "1028"
+      ],
+      "buildsInto": [],
+      "groups": [],
+      "mayhem": true,
+      "purchasable": true,
+      "allowedIdentities": [
+        "tank"
+      ],
+      "patch": "26.21",
+      "source": [
+        {
+          "label": "Riot Data Dragon PT-BR",
+          "url": "https://ddragon.leagueoflegends.com/cdn/16.21.1/data/pt_BR/item.json",
+          "patch": "26.21",
+          "checkedAt": "2026-10-31"
+        },
+        {
+          "label": "Riot Data Dragon EN",
+          "url": "https://ddragon.leagueoflegends.com/cdn/16.21.1/data/en_US/item.json",
+          "patch": "26.21",
+          "checkedAt": "2026-10-31"
+        },
+        {
+          "label": "Catálogo Mayhem · CC BY 4.0",
+          "url": "https://arammayhem.com/data/v1/latest/items.json",
+          "patch": "26.21",
+          "checkedAt": "2026-10-31"
+        }
+      ]
+    },
+    "3070": {
+      "id": "3070",
+      "name": "Lágrima da Deusa",
+      "english": "Tear of the Goddess",
+      "icon": "https://ddragon.leagueoflegends.com/cdn/16.21.1/img/item/3070.png",
+      "cost": 400,
+      "description": "240 de Mana\n\nFluxo de Mana (8s, máximo de 4 cargas)\nAcertar Habilidades concede 3 de Mana máximo (dobrado contra Campeões), até 360.\n\nAjudinha\nAtaques causam 5 de Dano Físico adicional a tropas.",
+      "descriptionEN": "240 Mana\n\nManaflow (8s, max 4 charges)\nLanding Abilities grants 3 max Mana (doubled vs. champions), up to 360.\n\nHelping Hand\nAttacks deal an additional 5 physical damage to minions.",
+      "incomplete": false,
+      "stats": {
+        "FlatMPPoolMod": 240
+      },
+      "buildsFrom": [],
+      "buildsInto": [
+        "3003",
+        "3004",
+        "2526",
+        "3119"
+      ],
+      "groups": [],
+      "mayhem": true,
+      "purchasable": true,
+      "allowedIdentities": [
+        "mage",
+        "fighter",
+        "tank",
+        "enchanter",
+        "attack"
+      ],
+      "patch": "26.21",
+      "source": [
+        {
+          "label": "Riot Data Dragon PT-BR",
+          "url": "https://ddragon.leagueoflegends.com/cdn/16.21.1/data/pt_BR/item.json",
+          "patch": "26.21",
+          "checkedAt": "2026-10-31"
+        },
+        {
+          "label": "Riot Data Dragon EN",
+          "url": "https://ddragon.leagueoflegends.com/cdn/16.21.1/data/en_US/item.json",
+          "patch": "26.21",
+          "checkedAt": "2026-10-31"
+        },
+        {
+          "label": "Catálogo Mayhem · CC BY 4.0",
+          "url": "https://arammayhem.com/data/v1/latest/items.json",
+          "patch": "26.21",
+          "checkedAt": "2026-10-31"
+        }
+      ]
+    },
+    "3071": {
+      "id": "3071",
+      "name": "Cutelo Negro",
+      "english": "Black Cleaver",
+      "icon": "https://ddragon.leagueoflegends.com/cdn/16.21.1/img/item/3071.png",
+      "cost": 3000,
+      "description": "45 de Dano de Ataque\n400 de Vida\n20 de Aceleração de Habilidade\n\nTalhar\nCausar Dano Físico a Campeões reduz a Armadura do alvo em 6% por 6s (acumula 5x).\n\nFervor\nCausar Dano Físico concede 0 de Velocidade de Movimento por 2s.",
+      "descriptionEN": "45 Attack Damage\n400 Health\n20 Ability Haste\n\nCarve\nDealing physical damage to champions reduces the target's Armor by 6% for 6 seconds. (stacks 5 times).\n\nFervor\nDealing physical damage grants  Move Speed for 2 seconds.",
+      "incomplete": false,
+      "stats": {
+        "FlatHPPoolMod": 400,
+        "FlatPhysicalDamageMod": 45
+      },
+      "buildsFrom": [
+        "3044",
+        "3067",
+        "1037"
+      ],
+      "buildsInto": [],
+      "groups": [
+        "percent-armor-penetration"
+      ],
+      "mayhem": true,
+      "purchasable": true,
+      "allowedIdentities": [
+        "mage",
+        "fighter",
+        "tank",
+        "attack"
+      ],
+      "patch": "26.21",
+      "source": [
+        {
+          "label": "Riot Data Dragon PT-BR",
+          "url": "https://ddragon.leagueoflegends.com/cdn/16.21.1/data/pt_BR/item.json",
+          "patch": "26.21",
+          "checkedAt": "2026-10-31"
+        },
+        {
+          "label": "Riot Data Dragon EN",
+          "url": "https://ddragon.leagueoflegends.com/cdn/16.21.1/data/en_US/item.json",
+          "patch": "26.21",
+          "checkedAt": "2026-10-31"
+        },
+        {
+          "label": "Catálogo Mayhem · CC BY 4.0",
+          "url": "https://arammayhem.com/data/v1/latest/items.json",
+          "patch": "26.21",
+          "checkedAt": "2026-10-31"
+        }
+      ]
+    },
+    "3072": {
+      "id": "3072",
+      "name": "Sedenta por Sangue",
+      "english": "Bloodthirster",
+      "icon": "https://ddragon.leagueoflegends.com/cdn/16.21.1/img/item/3072.png",
+      "cost": 3400,
+      "description": "80 de Dano de Ataque\n15% de Roubo de Vida\n\nÍcor-escudo\nConverte a cura excedente do Roubo de Vida em um Escudo.",
+      "descriptionEN": "80 Attack Damage\n15% Life Steal\n\nIchorshield\nConvert excess healing from your Lifesteal to a Shield.",
+      "incomplete": false,
+      "stats": {
+        "FlatPhysicalDamageMod": 80,
+        "PercentLifeStealMod": 0.15
+      },
+      "buildsFrom": [
+        "1038",
+        "1037",
+        "1053"
+      ],
+      "buildsInto": [],
+      "groups": [],
+      "mayhem": true,
+      "purchasable": true,
+      "allowedIdentities": [
+        "attack"
+      ],
+      "patch": "26.21",
+      "source": [
+        {
+          "label": "Riot Data Dragon PT-BR",
+          "url": "https://ddragon.leagueoflegends.com/cdn/16.21.1/data/pt_BR/item.json",
+          "patch": "26.21",
+          "checkedAt": "2026-10-31"
+        },
+        {
+          "label": "Riot Data Dragon EN",
+          "url": "https://ddragon.leagueoflegends.com/cdn/16.21.1/data/en_US/item.json",
+          "patch": "26.21",
+          "checkedAt": "2026-10-31"
+        },
+        {
+          "label": "Catálogo Mayhem · CC BY 4.0",
+          "url": "https://arammayhem.com/data/v1/latest/items.json",
+          "patch": "26.21",
+          "checkedAt": "2026-10-31"
+        }
+      ]
+    },
+    "3073": {
+      "id": "3073",
+      "name": "Hexoplaca Experimental",
+      "english": "Experimental Hexplate",
+      "icon": "https://ddragon.leagueoflegends.com/cdn/16.21.1/img/item/3073.png",
+      "cost": 3000,
+      "description": "40 de Dano de Ataque\n20% de Velocidade de Ataque\n450 de Vida\n\nHexcarregado\nRecebe 30 de Aceleração da Habilidade Ultimate.\n\nTurbo\nDepois de conjurar sua ultimate, recebe 0% de Velocidade de Ataque e 0% de Velocidade de Movimento por 8s.",
+      "descriptionEN": "40 Attack Damage\n20% Attack Speed\n450 Health\n\nHexcharged\nGain 30 Ultimate Ability Haste.\n\nOverdrive\nAfter casting your Ultimate, gain % Attack Speed and % Move Speed for 8 seconds.",
+      "incomplete": false,
+      "stats": {
+        "FlatHPPoolMod": 450,
+        "FlatPhysicalDamageMod": 40,
+        "PercentAttackSpeedMod": 0.2
+      },
+      "buildsFrom": [
+        "2021",
+        "1042",
+        "3044"
+      ],
+      "buildsInto": [],
+      "groups": [],
+      "mayhem": true,
+      "purchasable": true,
+      "allowedIdentities": [
+        "fighter"
+      ],
+      "patch": "26.21",
+      "source": [
+        {
+          "label": "Riot Data Dragon PT-BR",
+          "url": "https://ddragon.leagueoflegends.com/cdn/16.21.1/data/pt_BR/item.json",
+          "patch": "26.21",
+          "checkedAt": "2026-10-31"
+        },
+        {
+          "label": "Riot Data Dragon EN",
+          "url": "https://ddragon.leagueoflegends.com/cdn/16.21.1/data/en_US/item.json",
+          "patch": "26.21",
+          "checkedAt": "2026-10-31"
+        },
+        {
+          "label": "Catálogo Mayhem · CC BY 4.0",
+          "url": "https://arammayhem.com/data/v1/latest/items.json",
+          "patch": "26.21",
+          "checkedAt": "2026-10-31"
+        }
+      ]
+    },
+    "3074": {
+      "id": "3074",
+      "name": "Hidra Raivosa",
+      "english": "Ravenous Hydra",
+      "icon": "https://ddragon.leagueoflegends.com/cdn/16.21.1/img/item/3074.png",
+      "cost": 3300,
+      "description": "65 de Dano de Ataque\n15 de Aceleração de Habilidade\n12% de Roubo de Vida\n\nFenda\nAtaques causam Dano Físico a inimigos próximos.Crescente Raivosa\nCausa Dano Físico a inimigos ao seu redor. \nSeu Roubo de Vida se aplica a esse dano.",
+      "descriptionEN": "65 Attack Damage\n15 Ability Haste\n12% Life Steal\n\nCleave\nAttacks deal physical damage to nearby enemies.Ravenous Crescent\nDeal physical damage to enemies around you. \nYour Life Steal applies to this damage.",
+      "incomplete": false,
+      "stats": {
+        "FlatPhysicalDamageMod": 65,
+        "PercentLifeStealMod": 0.12
+      },
+      "buildsFrom": [
+        "3077",
+        "1053",
+        "3133"
+      ],
+      "buildsInto": [],
+      "groups": [],
+      "mayhem": true,
+      "purchasable": true,
+      "allowedIdentities": [
+        "fighter"
+      ],
+      "patch": "26.21",
+      "source": [
+        {
+          "label": "Riot Data Dragon PT-BR",
+          "url": "https://ddragon.leagueoflegends.com/cdn/16.21.1/data/pt_BR/item.json",
+          "patch": "26.21",
+          "checkedAt": "2026-10-31"
+        },
+        {
+          "label": "Riot Data Dragon EN",
+          "url": "https://ddragon.leagueoflegends.com/cdn/16.21.1/data/en_US/item.json",
+          "patch": "26.21",
+          "checkedAt": "2026-10-31"
+        },
+        {
+          "label": "Catálogo Mayhem · CC BY 4.0",
+          "url": "https://arammayhem.com/data/v1/latest/items.json",
+          "patch": "26.21",
+          "checkedAt": "2026-10-31"
+        }
+      ]
+    },
+    "3075": {
+      "id": "3075",
+      "name": "Armadura de Espinhos",
+      "english": "Thornmail",
+      "icon": "https://ddragon.leagueoflegends.com/cdn/16.21.1/img/item/3075.png",
+      "cost": 2450,
+      "description": "150 de Vida\n75 de Armadura\n\nEspinhos\nAo ser atingido por um Ataque, causa Dano Mágico ao atacante e aplica 40% de Ferimentos por 3s se ele for um Campeão.",
+      "descriptionEN": "150 Health\n75 Armor\n\nThorns\nWhen struck by an Attack, deal magic damage to the attacker and apply 40% Wounds for 3 seconds if they are a champion.",
+      "incomplete": false,
+      "stats": {
+        "FlatHPPoolMod": 150,
+        "FlatArmorMod": 75
+      },
+      "buildsFrom": [
+        "3076",
+        "1031",
+        "1028"
+      ],
+      "buildsInto": [],
+      "groups": [],
+      "mayhem": true,
+      "purchasable": true,
+      "allowedIdentities": [
+        "tank"
+      ],
+      "patch": "26.21",
+      "source": [
+        {
+          "label": "Riot Data Dragon PT-BR",
+          "url": "https://ddragon.leagueoflegends.com/cdn/16.21.1/data/pt_BR/item.json",
+          "patch": "26.21",
+          "checkedAt": "2026-10-31"
+        },
+        {
+          "label": "Riot Data Dragon EN",
+          "url": "https://ddragon.leagueoflegends.com/cdn/16.21.1/data/en_US/item.json",
+          "patch": "26.21",
+          "checkedAt": "2026-10-31"
+        },
+        {
+          "label": "Catálogo Mayhem · CC BY 4.0",
+          "url": "https://arammayhem.com/data/v1/latest/items.json",
+          "patch": "26.21",
+          "checkedAt": "2026-10-31"
+        }
+      ]
+    },
+    "3077": {
+      "id": "3077",
+      "name": "Tiamat",
+      "english": "Tiamat",
+      "icon": "https://ddragon.leagueoflegends.com/cdn/16.21.1/img/item/3077.png",
+      "cost": 1200,
+      "description": "25 de Dano de Ataque\n\nFenda\nAtaques causam Dano Físico a inimigos próximos.\nCrescente\nCausa Dano Físico a inimigos ao seu redor.",
+      "descriptionEN": "25 Attack Damage\n\nCleave\nAttacks deal physical damage to nearby enemies.\nCrescent\nDeal physical damage to enemies around you.",
+      "incomplete": false,
+      "stats": {
+        "FlatPhysicalDamageMod": 25
+      },
+      "buildsFrom": [
+        "1036",
+        "1036"
+      ],
+      "buildsInto": [
+        "3074",
+        "3748",
+        "6698",
+        "6631"
+      ],
+      "groups": [],
+      "mayhem": true,
+      "purchasable": true,
+      "allowedIdentities": [
+        "mage",
+        "fighter",
+        "tank",
+        "enchanter",
+        "attack"
+      ],
+      "patch": "26.21",
+      "source": [
+        {
+          "label": "Riot Data Dragon PT-BR",
+          "url": "https://ddragon.leagueoflegends.com/cdn/16.21.1/data/pt_BR/item.json",
+          "patch": "26.21",
+          "checkedAt": "2026-10-31"
+        },
+        {
+          "label": "Riot Data Dragon EN",
+          "url": "https://ddragon.leagueoflegends.com/cdn/16.21.1/data/en_US/item.json",
+          "patch": "26.21",
+          "checkedAt": "2026-10-31"
+        },
+        {
+          "label": "Catálogo Mayhem · CC BY 4.0",
+          "url": "https://arammayhem.com/data/v1/latest/items.json",
+          "patch": "26.21",
+          "checkedAt": "2026-10-31"
+        }
+      ]
+    },
+    "3078": {
+      "id": "3078",
+      "name": "Força da Trindade",
+      "english": "Trinity Force",
+      "icon": "https://ddragon.leagueoflegends.com/cdn/16.21.1/img/item/3078.png",
+      "cost": 3333,
+      "description": "36 de Dano de Ataque\n30% de Velocidade de Ataque\n333 de Vida\n15 de Aceleração de Habilidade\n\nLâmina Arcana\nApós usar uma Habilidade, seu próximo Ataque causa Dano Físico adicional ao contato.\n \nApressar\nAtaques concedem 20 de Velocidade de Movimento por 2s.",
+      "descriptionEN": "36 Attack Damage\n30% Attack Speed\n333 Health\n15 Ability Haste\n\nSpellblade\nAfter using an Ability, your next Attack deals bonus physical damage On-Hit.\n \nQuicken\nAttacking grants 20 Move Speed for 2 seconds.",
+      "incomplete": false,
+      "stats": {
+        "FlatHPPoolMod": 333,
+        "FlatPhysicalDamageMod": 36,
+        "PercentAttackSpeedMod": 0.3
+      },
+      "buildsFrom": [
+        "3057",
+        "3044",
+        "3051"
+      ],
+      "buildsInto": [],
+      "groups": [
+        "spellblade"
+      ],
+      "mayhem": true,
+      "purchasable": true,
+      "allowedIdentities": [
+        "fighter",
+        "attack"
+      ],
+      "patch": "26.21",
+      "source": [
+        {
+          "label": "Riot Data Dragon PT-BR",
+          "url": "https://ddragon.leagueoflegends.com/cdn/16.21.1/data/pt_BR/item.json",
+          "patch": "26.21",
+          "checkedAt": "2026-10-31"
+        },
+        {
+          "label": "Riot Data Dragon EN",
+          "url": "https://ddragon.leagueoflegends.com/cdn/16.21.1/data/en_US/item.json",
+          "patch": "26.21",
+          "checkedAt": "2026-10-31"
+        },
+        {
+          "label": "Catálogo Mayhem · CC BY 4.0",
+          "url": "https://arammayhem.com/data/v1/latest/items.json",
+          "patch": "26.21",
+          "checkedAt": "2026-10-31"
+        }
+      ]
+    },
+    "3083": {
+      "id": "3083",
+      "name": "Armadura de Warmog",
+      "english": "Warmog's Armor",
+      "icon": "https://ddragon.leagueoflegends.com/cdn/16.21.1/img/item/3083.png",
+      "cost": 3100,
+      "description": "1000 de Vida\n100% de Regeneração de Vida base\n\nCoração de Warmog \nCaso você tenha 2000 de Vida adicional e não tenha sofrido dano nos últimos 8s, restaura [valor calculado no jogo] de Vida por segundo.\n\nVitalidade de Warmog\nRecebe Vida adicional equivalente a 12% da sua Vida de itens ([valor calculado no jogo]).",
+      "descriptionEN": "1000 Health\n100% Base Health Regen\n\nWarmog's Heart \nIf you have 2000 bonus Health and have not taken damage within 8 seconds, restore  Health per second.\n\nWarmog's Vitality\nGain bonus Health equal to 12% of your Item Health ([calculated in game]).",
+      "incomplete": true,
+      "stats": {
+        "FlatHPPoolMod": 1000
+      },
+      "buildsFrom": [
+        "1011",
+        "1011",
+        "3801"
+      ],
+      "buildsInto": [],
+      "groups": [],
+      "mayhem": true,
+      "purchasable": true,
+      "allowedIdentities": [
+        "tank"
+      ],
+      "patch": "26.21",
+      "source": [
+        {
+          "label": "Riot Data Dragon PT-BR",
+          "url": "https://ddragon.leagueoflegends.com/cdn/16.21.1/data/pt_BR/item.json",
+          "patch": "26.21",
+          "checkedAt": "2026-10-31"
+        },
+        {
+          "label": "Riot Data Dragon EN",
+          "url": "https://ddragon.leagueoflegends.com/cdn/16.21.1/data/en_US/item.json",
+          "patch": "26.21",
+          "checkedAt": "2026-10-31"
+        },
+        {
+          "label": "Catálogo Mayhem · CC BY 4.0",
+          "url": "https://arammayhem.com/data/v1/latest/items.json",
+          "patch": "26.21",
+          "checkedAt": "2026-10-31"
+        }
+      ]
+    },
+    "3084": {
+      "id": "3084",
+      "name": "Coração de Aço",
+      "english": "Heartsteel",
+      "icon": "https://ddragon.leagueoflegends.com/cdn/16.21.1/img/item/3084.png",
+      "cost": 3000,
+      "description": "900 de Vida\n100% de Regeneração de Vida base\n\nConsumo Colossal (recarga calculada no jogo) por alvo\nSe um Campeão inimigo permanecer próximo por alguns segundos, seu próximo Ataque contra ele causará 70 mais 6% da sua Vida máxima como Dano Físico adicional e concederá 10% do dano como Vida máxima.\n\nGolias\nPara cada 1000 de Vida máxima, recebe 3% de aumento de tamanho, chegando a até 30%.",
+      "descriptionEN": "900 Health\n100% Base Health Regen\n\nColossal Consumption (cooldown calculated in game) per target\nIf an enemy champion is nearby for a few seconds, your next Attack against them deals 70 plus 6% of your max Health as bonus physical damage and grants 10% of the damage as max Health.\n\nGoliath\nFor each 1000 max Health, gain 3% increased size, up to 30%.",
+      "incomplete": true,
+      "stats": {
+        "FlatHPPoolMod": 900
+      },
+      "buildsFrom": [
+        "1011",
+        "3801",
+        "1011"
+      ],
+      "buildsInto": [],
+      "groups": [],
+      "mayhem": true,
+      "purchasable": true,
+      "allowedIdentities": [
+        "tank"
+      ],
+      "patch": "26.21",
+      "source": [
+        {
+          "label": "Riot Data Dragon PT-BR",
+          "url": "https://ddragon.leagueoflegends.com/cdn/16.21.1/data/pt_BR/item.json",
+          "patch": "26.21",
+          "checkedAt": "2026-10-31"
+        },
+        {
+          "label": "Riot Data Dragon EN",
+          "url": "https://ddragon.leagueoflegends.com/cdn/16.21.1/data/en_US/item.json",
+          "patch": "26.21",
+          "checkedAt": "2026-10-31"
+        },
+        {
+          "label": "Catálogo Mayhem · CC BY 4.0",
+          "url": "https://arammayhem.com/data/v1/latest/items.json",
+          "patch": "26.21",
+          "checkedAt": "2026-10-31"
+        }
+      ]
+    },
+    "3085": {
+      "id": "3085",
+      "name": "Furacão de Runaan",
+      "english": "Runaan's Hurricane",
+      "icon": "https://ddragon.leagueoflegends.com/cdn/16.21.1/img/item/3085.png",
+      "cost": 2650,
+      "description": "40% de Velocidade de Ataque\n25% de Chance de Acerto Crítico\n5% de Velocidade de Movimento\n\nFúria do Vento\nAtaques disparam projéteis em 2 inimigos adicionais próximos ao alvo.\nCada projétil causa Dano Físico e aplica efeitos ao contato.",
+      "descriptionEN": "40% Attack Speed\n25% Critical Strike Chance\n5% Move Speed\n\nWind's Fury\nAttacks fire bolts at 2 additional enemies near the target.\nEach bolt deals physical damage and applies On-Hit effects.",
+      "incomplete": false,
+      "stats": {
+        "FlatCritChanceMod": 0.25,
+        "PercentAttackSpeedMod": 0.4,
+        "PercentMovementSpeedMod": 0.05
+      },
+      "buildsFrom": [
+        "3086",
+        "3144"
+      ],
+      "buildsInto": [],
+      "groups": [],
+      "mayhem": true,
+      "purchasable": true,
+      "allowedIdentities": [
+        "attack"
+      ],
+      "patch": "26.21",
+      "source": [
+        {
+          "label": "Riot Data Dragon PT-BR",
+          "url": "https://ddragon.leagueoflegends.com/cdn/16.21.1/data/pt_BR/item.json",
+          "patch": "26.21",
+          "checkedAt": "2026-10-31"
+        },
+        {
+          "label": "Riot Data Dragon EN",
+          "url": "https://ddragon.leagueoflegends.com/cdn/16.21.1/data/en_US/item.json",
+          "patch": "26.21",
+          "checkedAt": "2026-10-31"
+        },
+        {
+          "label": "Catálogo Mayhem · CC BY 4.0",
+          "url": "https://arammayhem.com/data/v1/latest/items.json",
+          "patch": "26.21",
+          "checkedAt": "2026-10-31"
+        }
+      ]
+    },
+    "3089": {
+      "id": "3089",
+      "name": "Capuz da Morte de Rabadon",
+      "english": "Rabadon's Deathcap",
+      "icon": "https://ddragon.leagueoflegends.com/cdn/16.21.1/img/item/3089.png",
+      "cost": 3500,
+      "description": "130 de Poder de Habilidade\n\nApogeu Mágico\nAumenta o Poder de Habilidade total em 30%.",
+      "descriptionEN": "130 Ability Power\n\nMagical Opus\nIncreases your total Ability Power by 30%.",
+      "incomplete": false,
+      "stats": {
+        "FlatMagicDamageMod": 130
+      },
+      "buildsFrom": [
+        "1058",
+        "1058"
+      ],
+      "buildsInto": [],
+      "groups": [],
+      "mayhem": true,
+      "purchasable": true,
+      "allowedIdentities": [
+        "mage"
+      ],
+      "patch": "26.21",
+      "source": [
+        {
+          "label": "Riot Data Dragon PT-BR",
+          "url": "https://ddragon.leagueoflegends.com/cdn/16.21.1/data/pt_BR/item.json",
+          "patch": "26.21",
+          "checkedAt": "2026-10-31"
+        },
+        {
+          "label": "Riot Data Dragon EN",
+          "url": "https://ddragon.leagueoflegends.com/cdn/16.21.1/data/en_US/item.json",
+          "patch": "26.21",
+          "checkedAt": "2026-10-31"
+        },
+        {
+          "label": "Catálogo Mayhem · CC BY 4.0",
+          "url": "https://arammayhem.com/data/v1/latest/items.json",
+          "patch": "26.21",
+          "checkedAt": "2026-10-31"
+        }
+      ]
+    },
+    "3091": {
+      "id": "3091",
+      "name": "Limite da Razão",
+      "english": "Wit's End",
+      "icon": "https://ddragon.leagueoflegends.com/cdn/16.21.1/img/item/3091.png",
+      "cost": 2800,
+      "description": "50% de Velocidade de Ataque\n45 de Resistência Mágica\n20% de Tenacidade\n\nDuelo\nSeus Ataques causam Dano Mágico adicional ao contato.",
+      "descriptionEN": "50% Attack Speed\n45 Magic Resist\n20% Tenacity\n\nFray\nAttacks deal bonus magic damage On-Hit.",
+      "incomplete": false,
+      "stats": {
+        "FlatSpellBlockMod": 45,
+        "PercentAttackSpeedMod": 0.5
+      },
+      "buildsFrom": [
+        "1043",
+        "1057",
+        "1043"
+      ],
+      "buildsInto": [],
+      "groups": [],
+      "mayhem": true,
+      "purchasable": true,
+      "allowedIdentities": [
+        "fighter",
+        "attack"
+      ],
+      "patch": "26.21",
+      "source": [
+        {
+          "label": "Riot Data Dragon PT-BR",
+          "url": "https://ddragon.leagueoflegends.com/cdn/16.21.1/data/pt_BR/item.json",
+          "patch": "26.21",
+          "checkedAt": "2026-10-31"
+        },
+        {
+          "label": "Riot Data Dragon EN",
+          "url": "https://ddragon.leagueoflegends.com/cdn/16.21.1/data/en_US/item.json",
+          "patch": "26.21",
+          "checkedAt": "2026-10-31"
+        },
+        {
+          "label": "Catálogo Mayhem · CC BY 4.0",
+          "url": "https://arammayhem.com/data/v1/latest/items.json",
+          "patch": "26.21",
+          "checkedAt": "2026-10-31"
+        }
+      ]
+    },
+    "3094": {
+      "id": "3094",
+      "name": "Canhão Fumegante",
+      "english": "Rapid Firecannon",
+      "icon": "https://ddragon.leagueoflegends.com/cdn/16.21.1/img/item/3094.png",
+      "cost": 2650,
+      "description": "35% de Velocidade de Ataque\n25% de Chance de Acerto Crítico\n4% de Velocidade de Movimento\n\nAtirador de Elite\nSeu Ataque Energizado causa 40 de Dano Mágico adicional e recebe 35% de Alcance de Ataque adicional.",
+      "descriptionEN": "35% Attack Speed\n25% Critical Strike Chance\n4% Move Speed\n\nSharpshooter\nYour Energized Attack deals 40 bonus magic damage and gains 35% bonus Attack Range.",
+      "incomplete": false,
+      "stats": {
+        "FlatCritChanceMod": 0.25,
+        "PercentAttackSpeedMod": 0.35,
+        "PercentMovementSpeedMod": 0.04
+      },
+      "buildsFrom": [
+        "3086",
+        "3144"
+      ],
+      "buildsInto": [],
+      "groups": [],
+      "mayhem": true,
+      "purchasable": true,
+      "allowedIdentities": [
+        "attack"
+      ],
+      "patch": "26.21",
+      "source": [
+        {
+          "label": "Riot Data Dragon PT-BR",
+          "url": "https://ddragon.leagueoflegends.com/cdn/16.21.1/data/pt_BR/item.json",
+          "patch": "26.21",
+          "checkedAt": "2026-10-31"
+        },
+        {
+          "label": "Riot Data Dragon EN",
+          "url": "https://ddragon.leagueoflegends.com/cdn/16.21.1/data/en_US/item.json",
+          "patch": "26.21",
+          "checkedAt": "2026-10-31"
+        },
+        {
+          "label": "Catálogo Mayhem · CC BY 4.0",
+          "url": "https://arammayhem.com/data/v1/latest/items.json",
+          "patch": "26.21",
+          "checkedAt": "2026-10-31"
+        }
+      ]
+    },
+    "3100": {
+      "id": "3100",
+      "name": "Perdição de Lich",
+      "english": "Lich Bane",
+      "icon": "https://ddragon.leagueoflegends.com/cdn/16.21.1/img/item/3100.png",
+      "cost": 2900,
+      "description": "100 de Poder de Habilidade\n6% de Velocidade de Movimento\n10 de Aceleração de Habilidade\n\nLâmina Arcana\nApós usar uma Habilidade, seu próximo Ataque causa Dano Mágico adicional ao contato.",
+      "descriptionEN": "100 Ability Power\n6% Move Speed\n10 Ability Haste\n\nSpellblade\nAfter using an Ability, your next Attack deals bonus magic damage On-Hit.",
+      "incomplete": false,
+      "stats": {
+        "FlatMagicDamageMod": 100,
+        "PercentMovementSpeedMod": 0.06
+      },
+      "buildsFrom": [
+        "3057",
+        "3113",
+        "1026"
+      ],
+      "buildsInto": [],
+      "groups": [
+        "spellblade"
+      ],
+      "mayhem": true,
+      "purchasable": true,
+      "allowedIdentities": [
+        "mage"
+      ],
+      "patch": "26.21",
+      "source": [
+        {
+          "label": "Riot Data Dragon PT-BR",
+          "url": "https://ddragon.leagueoflegends.com/cdn/16.21.1/data/pt_BR/item.json",
+          "patch": "26.21",
+          "checkedAt": "2026-10-31"
+        },
+        {
+          "label": "Riot Data Dragon EN",
+          "url": "https://ddragon.leagueoflegends.com/cdn/16.21.1/data/en_US/item.json",
+          "patch": "26.21",
+          "checkedAt": "2026-10-31"
+        },
+        {
+          "label": "Catálogo Mayhem · CC BY 4.0",
+          "url": "https://arammayhem.com/data/v1/latest/items.json",
+          "patch": "26.21",
+          "checkedAt": "2026-10-31"
+        }
+      ]
+    },
+    "3102": {
+      "id": "3102",
+      "name": "Véu da Banshee",
+      "english": "Banshee's Veil",
+      "icon": "https://ddragon.leagueoflegends.com/cdn/16.21.1/img/item/3102.png",
+      "cost": 3000,
+      "description": "105 de Poder de Habilidade\n40 de Resistência Mágica\n\nAnular\nConcede um Escudo de Feitiço que bloqueia a próxima Habilidade inimiga.",
+      "descriptionEN": "105 Ability Power\n40 Magic Resist\n\nAnnul\nGrants a Spell Shield that blocks the next enemy Ability.",
+      "incomplete": false,
+      "stats": {
+        "FlatSpellBlockMod": 40,
+        "FlatMagicDamageMod": 105
+      },
+      "buildsFrom": [
+        "1058",
+        "4632"
+      ],
+      "buildsInto": [],
+      "groups": [],
+      "mayhem": true,
+      "purchasable": true,
+      "allowedIdentities": [
+        "mage",
+        "enchanter"
+      ],
+      "patch": "26.21",
+      "source": [
+        {
+          "label": "Riot Data Dragon PT-BR",
+          "url": "https://ddragon.leagueoflegends.com/cdn/16.21.1/data/pt_BR/item.json",
+          "patch": "26.21",
+          "checkedAt": "2026-10-31"
+        },
+        {
+          "label": "Riot Data Dragon EN",
+          "url": "https://ddragon.leagueoflegends.com/cdn/16.21.1/data/en_US/item.json",
+          "patch": "26.21",
+          "checkedAt": "2026-10-31"
+        },
+        {
+          "label": "Catálogo Mayhem · CC BY 4.0",
+          "url": "https://arammayhem.com/data/v1/latest/items.json",
+          "patch": "26.21",
+          "checkedAt": "2026-10-31"
+        }
+      ]
+    },
+    "3107": {
+      "id": "3107",
+      "name": "Redenção",
+      "english": "Redemption",
+      "icon": "https://ddragon.leagueoflegends.com/cdn/16.21.1/img/item/3107.png",
+      "cost": 2300,
+      "description": "30 de Poder de Habilidade\n15 de Aceleração de Habilidade\n100% de Regeneração de Mana base\n10% de Cura e Resistência do Escudo\n\nIntervenção\nDepois de 2,5s, restaura 150 - 350 da Vida das unidades aliadas e causa 10% da Vida máxima como Dano Verdadeiro a Campeões inimigos.",
+      "descriptionEN": "30 Ability Power\n15 Ability Haste\n100% Base Mana Regen\n10% Heal and Shield Power\n\nIntervention\nRestore 150 - 350 Health to allied units and deal 10% max Health true damage to enemy champions after 2.5 seconds.",
+      "incomplete": false,
+      "stats": {
+        "FlatMagicDamageMod": 30
+      },
+      "buildsFrom": [
+        "3108",
+        "3114"
+      ],
+      "buildsInto": [],
+      "groups": [],
+      "mayhem": true,
+      "purchasable": true,
+      "allowedIdentities": [
+        "tank",
+        "enchanter"
+      ],
+      "patch": "26.21",
+      "source": [
+        {
+          "label": "Riot Data Dragon PT-BR",
+          "url": "https://ddragon.leagueoflegends.com/cdn/16.21.1/data/pt_BR/item.json",
+          "patch": "26.21",
+          "checkedAt": "2026-10-31"
+        },
+        {
+          "label": "Riot Data Dragon EN",
+          "url": "https://ddragon.leagueoflegends.com/cdn/16.21.1/data/en_US/item.json",
+          "patch": "26.21",
+          "checkedAt": "2026-10-31"
+        },
+        {
+          "label": "Catálogo Mayhem · CC BY 4.0",
+          "url": "https://arammayhem.com/data/v1/latest/items.json",
+          "patch": "26.21",
+          "checkedAt": "2026-10-31"
+        }
+      ]
+    },
+    "3109": {
+      "id": "3109",
+      "name": "Juramento do Cavaleiro",
+      "english": "Knight's Vow",
+      "icon": "https://ddragon.leagueoflegends.com/cdn/16.21.1/img/item/3109.png",
+      "cost": 2300,
+      "description": "200 de Vida\n40 de Armadura\n10 de Aceleração de Habilidade\n100% de Regeneração de Vida base\n\nSacrifício\nEnquanto seu aliado Digno estiver próximo, você sofre 14% do dano sofrido por ele e se cura em 12% do dano causado por ele a Campeões.Pacto (recarga calculada no jogo)\nDesigna um aliado como Digno.",
+      "descriptionEN": "200 Health\n40 Armor\n10 Ability Haste\n100% Base Health Regen\n\nSacrifice\nWhile near your Worthy ally, take 14% of the damage they receive and heal for 12% of the damage they deal to champions.Pledge (cooldown calculated in game)\nDesignate an ally as Worthy.",
+      "incomplete": true,
+      "stats": {
+        "FlatHPPoolMod": 200,
+        "FlatArmorMod": 40
+      },
+      "buildsFrom": [
+        "3067",
+        "1031",
+        "1006"
+      ],
+      "buildsInto": [],
+      "groups": [],
+      "mayhem": true,
+      "purchasable": true,
+      "allowedIdentities": [
+        "tank",
+        "enchanter"
+      ],
+      "patch": "26.21",
+      "source": [
+        {
+          "label": "Riot Data Dragon PT-BR",
+          "url": "https://ddragon.leagueoflegends.com/cdn/16.21.1/data/pt_BR/item.json",
+          "patch": "26.21",
+          "checkedAt": "2026-10-31"
+        },
+        {
+          "label": "Riot Data Dragon EN",
+          "url": "https://ddragon.leagueoflegends.com/cdn/16.21.1/data/en_US/item.json",
+          "patch": "26.21",
+          "checkedAt": "2026-10-31"
+        },
+        {
+          "label": "Catálogo Mayhem · CC BY 4.0",
+          "url": "https://arammayhem.com/data/v1/latest/items.json",
+          "patch": "26.21",
+          "checkedAt": "2026-10-31"
+        }
+      ]
+    },
+    "3110": {
+      "id": "3110",
+      "name": "Coração Congelado",
+      "english": "Frozen Heart",
+      "icon": "https://ddragon.leagueoflegends.com/cdn/16.21.1/img/item/3110.png",
+      "cost": 2500,
+      "description": "75 de Armadura\n400 de Mana\n20 de Aceleração de Habilidade\n\nCarícia do Inverno\nReduz a Velocidade de Ataque dos Campeões próximos em 20%.",
+      "descriptionEN": "75 Armor\n400 Mana\n20 Ability Haste\n\nWinter's Caress\nReduce the Attack Speed of nearby champions by 20%.",
+      "incomplete": false,
+      "stats": {
+        "FlatMPPoolMod": 400,
+        "FlatArmorMod": 75
+      },
+      "buildsFrom": [
+        "3082",
+        "3024"
+      ],
+      "buildsInto": [],
+      "groups": [],
+      "mayhem": true,
+      "purchasable": true,
+      "allowedIdentities": [
+        "tank",
+        "enchanter"
+      ],
+      "patch": "26.21",
+      "source": [
+        {
+          "label": "Riot Data Dragon PT-BR",
+          "url": "https://ddragon.leagueoflegends.com/cdn/16.21.1/data/pt_BR/item.json",
+          "patch": "26.21",
+          "checkedAt": "2026-10-31"
+        },
+        {
+          "label": "Riot Data Dragon EN",
+          "url": "https://ddragon.leagueoflegends.com/cdn/16.21.1/data/en_US/item.json",
+          "patch": "26.21",
+          "checkedAt": "2026-10-31"
+        },
+        {
+          "label": "Catálogo Mayhem · CC BY 4.0",
+          "url": "https://arammayhem.com/data/v1/latest/items.json",
+          "patch": "26.21",
+          "checkedAt": "2026-10-31"
+        }
+      ]
+    },
+    "3111": {
+      "id": "3111",
+      "name": "Passos de Mercúrio",
+      "english": "Mercury's Treads",
+      "icon": "https://ddragon.leagueoflegends.com/cdn/16.21.1/img/item/3111.png",
+      "cost": 1250,
+      "description": "20 de Resistência Mágica\n45 de Velocidade de Movimento\n30% de Tenacidade",
+      "descriptionEN": "20 Magic Resist\n45 Move Speed\n30% Tenacity",
+      "incomplete": false,
+      "stats": {
+        "FlatSpellBlockMod": 20,
+        "FlatMovementSpeedMod": 45
+      },
+      "buildsFrom": [
+        "1001",
+        "1033"
+      ],
+      "buildsInto": [
+        "3173"
+      ],
+      "groups": [
+        "boots"
+      ],
+      "mayhem": true,
+      "purchasable": true,
+      "allowedIdentities": [
+        "mage",
+        "fighter",
+        "tank",
+        "enchanter",
+        "attack"
+      ],
+      "patch": "26.21",
+      "source": [
+        {
+          "label": "Riot Data Dragon PT-BR",
+          "url": "https://ddragon.leagueoflegends.com/cdn/16.21.1/data/pt_BR/item.json",
+          "patch": "26.21",
+          "checkedAt": "2026-10-31"
+        },
+        {
+          "label": "Riot Data Dragon EN",
+          "url": "https://ddragon.leagueoflegends.com/cdn/16.21.1/data/en_US/item.json",
+          "patch": "26.21",
+          "checkedAt": "2026-10-31"
+        },
+        {
+          "label": "Catálogo Mayhem · CC BY 4.0",
+          "url": "https://arammayhem.com/data/v1/latest/items.json",
+          "patch": "26.21",
+          "checkedAt": "2026-10-31"
+        }
+      ]
+    },
+    "3114": {
+      "id": "3114",
+      "name": "Ídolo Proibido",
+      "english": "Forbidden Idol",
+      "icon": "https://ddragon.leagueoflegends.com/cdn/16.21.1/img/item/3114.png",
+      "cost": 600,
+      "description": "50% de Regeneração de Mana base\n8% de Cura e Resistência do Escudo",
+      "descriptionEN": "50% Base Mana Regen\n8% Heal and Shield Power",
+      "incomplete": false,
+      "stats": {},
+      "buildsFrom": [
+        "1004"
+      ],
+      "buildsInto": [
+        "124011",
+        "326621",
+        "223011",
+        "323222",
+        "323107",
+        "322526",
+        "2526",
+        "3011",
+        "326616",
+        "3107",
+        "3222",
+        "323504",
+        "3504",
+        "6616",
+        "6621"
+      ],
+      "groups": [],
+      "mayhem": true,
+      "purchasable": true,
+      "allowedIdentities": [
+        "mage",
+        "fighter",
+        "tank",
+        "enchanter",
+        "attack"
+      ],
+      "patch": "26.21",
+      "source": [
+        {
+          "label": "Riot Data Dragon PT-BR",
+          "url": "https://ddragon.leagueoflegends.com/cdn/16.21.1/data/pt_BR/item.json",
+          "patch": "26.21",
+          "checkedAt": "2026-10-31"
+        },
+        {
+          "label": "Riot Data Dragon EN",
+          "url": "https://ddragon.leagueoflegends.com/cdn/16.21.1/data/en_US/item.json",
+          "patch": "26.21",
+          "checkedAt": "2026-10-31"
+        },
+        {
+          "label": "Catálogo Mayhem · CC BY 4.0",
+          "url": "https://arammayhem.com/data/v1/latest/items.json",
+          "patch": "26.21",
+          "checkedAt": "2026-10-31"
+        }
+      ]
+    },
+    "3115": {
+      "id": "3115",
+      "name": "Dente de Na'Shor",
+      "english": "Nashor's Tooth",
+      "icon": "https://ddragon.leagueoflegends.com/cdn/16.21.1/img/item/3115.png",
+      "cost": 2900,
+      "description": "80 de Poder de Habilidade\n50% de Velocidade de Ataque\n15 de Aceleração de Habilidade\n\nMordida Icathiana\nSeus Ataques causam Dano Mágico adicional ao contato.",
+      "descriptionEN": "80 Ability Power\n50% Attack Speed\n15 Ability Haste\n\nIcathian Bite\nAttacks deal bonus magic damage On-Hit.",
+      "incomplete": false,
+      "stats": {
+        "FlatMagicDamageMod": 80,
+        "PercentAttackSpeedMod": 0.5
+      },
+      "buildsFrom": [
+        "1043",
+        "1026",
+        "3108"
+      ],
+      "buildsInto": [],
+      "groups": [],
+      "mayhem": true,
+      "purchasable": true,
+      "allowedIdentities": [
+        "mage"
+      ],
+      "patch": "26.21",
+      "source": [
+        {
+          "label": "Riot Data Dragon PT-BR",
+          "url": "https://ddragon.leagueoflegends.com/cdn/16.21.1/data/pt_BR/item.json",
+          "patch": "26.21",
+          "checkedAt": "2026-10-31"
+        },
+        {
+          "label": "Riot Data Dragon EN",
+          "url": "https://ddragon.leagueoflegends.com/cdn/16.21.1/data/en_US/item.json",
+          "patch": "26.21",
+          "checkedAt": "2026-10-31"
+        },
+        {
+          "label": "Catálogo Mayhem · CC BY 4.0",
+          "url": "https://arammayhem.com/data/v1/latest/items.json",
+          "patch": "26.21",
+          "checkedAt": "2026-10-31"
+        }
+      ]
+    },
+    "3116": {
+      "id": "3116",
+      "name": "Cetro de Cristal de Rylai",
+      "english": "Rylai's Crystal Scepter",
+      "icon": "https://ddragon.leagueoflegends.com/cdn/16.21.1/img/item/3116.png",
+      "cost": 2600,
+      "description": "65 de Poder de Habilidade\n400 de Vida\n\nGeada\nHabilidades de dano também causam 30% de Lentidão aos inimigos por 1s.",
+      "descriptionEN": "65 Ability Power\n400 Health\n\nRimefrost\nDamaging Abilities Slow enemies by 30% for 1 second.",
+      "incomplete": false,
+      "stats": {
+        "FlatHPPoolMod": 400,
+        "FlatMagicDamageMod": 65
+      },
+      "buildsFrom": [
+        "1026",
+        "1011",
+        "1052"
+      ],
+      "buildsInto": [],
+      "groups": [],
+      "mayhem": true,
+      "purchasable": true,
+      "allowedIdentities": [
+        "mage",
+        "tank",
+        "enchanter"
+      ],
+      "patch": "26.21",
+      "source": [
+        {
+          "label": "Riot Data Dragon PT-BR",
+          "url": "https://ddragon.leagueoflegends.com/cdn/16.21.1/data/pt_BR/item.json",
+          "patch": "26.21",
+          "checkedAt": "2026-10-31"
+        },
+        {
+          "label": "Riot Data Dragon EN",
+          "url": "https://ddragon.leagueoflegends.com/cdn/16.21.1/data/en_US/item.json",
+          "patch": "26.21",
+          "checkedAt": "2026-10-31"
+        },
+        {
+          "label": "Catálogo Mayhem · CC BY 4.0",
+          "url": "https://arammayhem.com/data/v1/latest/items.json",
+          "patch": "26.21",
+          "checkedAt": "2026-10-31"
+        }
+      ]
+    },
+    "3118": {
+      "id": "3118",
+      "name": "Malevolência",
+      "english": "Malignance",
+      "icon": "https://ddragon.leagueoflegends.com/cdn/16.21.1/img/item/3118.png",
+      "cost": 2700,
+      "description": "90 de Poder de Habilidade\n600 de Mana\n15 de Aceleração de Habilidade\n\nEscárnio\nRecebe 20 de Aceleração de Habilidade da Ultimate.\n\nNévoa Odiosa\nCausar dano a um Campeão com sua Ultimate queima o chão abaixo dele por 3s, causando Dano Mágico por segundo e reduzindo-lhe a Resistência Mágica.",
+      "descriptionEN": "90 Ability Power\n600 Mana\n15 Ability Haste\n\nScorn\nGain 20 Ultimate Ability Haste.\n\nHatefog\nDamaging a champion with your Ultimate burns the ground beneath them for 3s, dealing magic damage per second and reducing their Magic Resist.",
+      "incomplete": false,
+      "stats": {
+        "FlatMPPoolMod": 600,
+        "FlatMagicDamageMod": 90
+      },
+      "buildsFrom": [
+        "3802",
+        "1026"
+      ],
+      "buildsInto": [],
+      "groups": [],
+      "mayhem": true,
+      "purchasable": true,
+      "allowedIdentities": [
+        "mage",
+        "enchanter"
+      ],
+      "patch": "26.21",
+      "source": [
+        {
+          "label": "Riot Data Dragon PT-BR",
+          "url": "https://ddragon.leagueoflegends.com/cdn/16.21.1/data/pt_BR/item.json",
+          "patch": "26.21",
+          "checkedAt": "2026-10-31"
+        },
+        {
+          "label": "Riot Data Dragon EN",
+          "url": "https://ddragon.leagueoflegends.com/cdn/16.21.1/data/en_US/item.json",
+          "patch": "26.21",
+          "checkedAt": "2026-10-31"
+        },
+        {
+          "label": "Catálogo Mayhem · CC BY 4.0",
+          "url": "https://arammayhem.com/data/v1/latest/items.json",
+          "patch": "26.21",
+          "checkedAt": "2026-10-31"
+        }
+      ]
+    },
+    "3119": {
+      "id": "3119",
+      "name": "Aproximação Invernal",
+      "english": "Winter's Approach",
+      "icon": "https://ddragon.leagueoflegends.com/cdn/16.21.1/img/item/3119.png",
+      "cost": 2400,
+      "description": "550 de Vida\n500 de Mana\n15 de Aceleração de Habilidade\n\nFascínio\nRecebe [valor calculado no jogo].\n\nFluxo de Mana (8s, máximo de 4 cargas)\nAcertar Ataques e Habilidades concede 3 de Mana máximo (dobrado contra Campeões).\nTransforma-se em Fimbulwinter com 360 de Mana máximo.",
+      "descriptionEN": "550 Health\n500 Mana\n15 Ability Haste\n\nAwe\nGain  Health.\n\nManaflow (8s, max 4 charges)\nLanding Attacks and Abilities grant 3 max Mana (doubled vs. champions).\nTransforms into Fimbulwinter at 360 max Mana.",
+      "incomplete": true,
+      "stats": {
+        "FlatMPPoolMod": 500,
+        "FlatHPPoolMod": 550
+      },
+      "buildsFrom": [
+        "3070",
+        "1011",
+        "3067"
+      ],
+      "buildsInto": [],
+      "groups": [
+        "tear"
+      ],
+      "mayhem": true,
+      "purchasable": true,
+      "allowedIdentities": [
+        "tank"
+      ],
+      "patch": "26.21",
+      "source": [
+        {
+          "label": "Riot Data Dragon PT-BR",
+          "url": "https://ddragon.leagueoflegends.com/cdn/16.21.1/data/pt_BR/item.json",
+          "patch": "26.21",
+          "checkedAt": "2026-10-31"
+        },
+        {
+          "label": "Riot Data Dragon EN",
+          "url": "https://ddragon.leagueoflegends.com/cdn/16.21.1/data/en_US/item.json",
+          "patch": "26.21",
+          "checkedAt": "2026-10-31"
+        },
+        {
+          "label": "Catálogo Mayhem · CC BY 4.0",
+          "url": "https://arammayhem.com/data/v1/latest/items.json",
+          "patch": "26.21",
+          "checkedAt": "2026-10-31"
+        }
+      ]
+    },
+    "3124": {
+      "id": "3124",
+      "name": "Lâmina da Fúria de Guinsoo",
+      "english": "Guinsoo's Rageblade",
+      "icon": "https://ddragon.leagueoflegends.com/cdn/16.21.1/img/item/3124.png",
+      "cost": 3000,
+      "description": "30 de Dano de Ataque\n30 de Poder de Habilidade\n25% de Velocidade de Ataque\n\nIra\nAtaques causam 30 de Dano Mágico adicional ao contato.\n\nGolpe Fervente\nAtaques concedem 8% de Velocidade de Ataque por 4s (acumula 4x). \nEnquanto estiver com o máximo de acúmulos, cada terceiro Ataque aplica efeitos ao contato duas vezes.",
+      "descriptionEN": "30 Attack Damage\n30 Ability Power\n25% Attack Speed\n\nWrath\nAttacks deal 30 bonus magic damage On-Hit.\n\nSeething Strike\nAttacks grant 8% Attack Speed for 4 seconds. (stacks 4 times). \nWhile fully stacked, every third Attack applies On-Hit effects twice.",
+      "incomplete": false,
+      "stats": {
+        "FlatMagicDamageMod": 30,
+        "FlatPhysicalDamageMod": 30,
+        "PercentAttackSpeedMod": 0.25
+      },
+      "buildsFrom": [
+        "1052",
+        "1043",
+        "1037"
+      ],
+      "buildsInto": [],
+      "groups": [],
+      "mayhem": true,
+      "purchasable": true,
+      "allowedIdentities": [
+        "attack"
+      ],
+      "patch": "26.21",
+      "source": [
+        {
+          "label": "Riot Data Dragon PT-BR",
+          "url": "https://ddragon.leagueoflegends.com/cdn/16.21.1/data/pt_BR/item.json",
+          "patch": "26.21",
+          "checkedAt": "2026-10-31"
+        },
+        {
+          "label": "Riot Data Dragon EN",
+          "url": "https://ddragon.leagueoflegends.com/cdn/16.21.1/data/en_US/item.json",
+          "patch": "26.21",
+          "checkedAt": "2026-10-31"
+        },
+        {
+          "label": "Catálogo Mayhem · CC BY 4.0",
+          "url": "https://arammayhem.com/data/v1/latest/items.json",
+          "patch": "26.21",
+          "checkedAt": "2026-10-31"
+        }
+      ]
+    },
+    "3135": {
+      "id": "3135",
+      "name": "Cajado do Vazio",
+      "english": "Void Staff",
+      "icon": "https://ddragon.leagueoflegends.com/cdn/16.21.1/img/item/3135.png",
+      "cost": 3000,
+      "description": "95 de Poder de Habilidade\n40% de Penetração Mágica",
+      "descriptionEN": "95 Ability Power\n40% Magic Penetration",
+      "incomplete": false,
+      "stats": {
+        "FlatMagicDamageMod": 95
+      },
+      "buildsFrom": [
+        "4630",
+        "1026"
+      ],
+      "buildsInto": [],
+      "groups": [
+        "percent-magic-penetration"
+      ],
+      "mayhem": true,
+      "purchasable": true,
+      "allowedIdentities": [
+        "mage"
+      ],
+      "patch": "26.21",
+      "source": [
+        {
+          "label": "Riot Data Dragon PT-BR",
+          "url": "https://ddragon.leagueoflegends.com/cdn/16.21.1/data/pt_BR/item.json",
+          "patch": "26.21",
+          "checkedAt": "2026-10-31"
+        },
+        {
+          "label": "Riot Data Dragon EN",
+          "url": "https://ddragon.leagueoflegends.com/cdn/16.21.1/data/en_US/item.json",
+          "patch": "26.21",
+          "checkedAt": "2026-10-31"
+        },
+        {
+          "label": "Catálogo Mayhem · CC BY 4.0",
+          "url": "https://arammayhem.com/data/v1/latest/items.json",
+          "patch": "26.21",
+          "checkedAt": "2026-10-31"
+        }
+      ]
+    },
+    "3137": {
+      "id": "3137",
+      "name": "Criptoflora",
+      "english": "Cryptbloom",
+      "icon": "https://ddragon.leagueoflegends.com/cdn/16.21.1/img/item/3137.png",
+      "cost": 3000,
+      "description": "75 de Poder de Habilidade\n30% de Penetração Mágica\n20 de Aceleração de Habilidade\n\nVida na Morte\nQuando um Campeão a quem você tenha causado dano nos últimos 3s for abatido, uma explosão de cura se propagará do cadáver.",
+      "descriptionEN": "75 Ability Power\n30% Magic Penetration\n20 Ability Haste\n\nLife from Death\nWhen a champion that you damaged within 3 seconds dies, a nova spreads from their corpse that heals.",
+      "incomplete": false,
+      "stats": {
+        "FlatMagicDamageMod": 75
+      },
+      "buildsFrom": [
+        "4630",
+        "3108",
+        "3108"
+      ],
+      "buildsInto": [],
+      "groups": [
+        "percent-magic-penetration"
+      ],
+      "mayhem": true,
+      "purchasable": true,
+      "allowedIdentities": [
+        "mage"
+      ],
+      "patch": "26.21",
+      "source": [
+        {
+          "label": "Riot Data Dragon PT-BR",
+          "url": "https://ddragon.leagueoflegends.com/cdn/16.21.1/data/pt_BR/item.json",
+          "patch": "26.21",
+          "checkedAt": "2026-10-31"
+        },
+        {
+          "label": "Riot Data Dragon EN",
+          "url": "https://ddragon.leagueoflegends.com/cdn/16.21.1/data/en_US/item.json",
+          "patch": "26.21",
+          "checkedAt": "2026-10-31"
+        },
+        {
+          "label": "Catálogo Mayhem · CC BY 4.0",
+          "url": "https://arammayhem.com/data/v1/latest/items.json",
+          "patch": "26.21",
+          "checkedAt": "2026-10-31"
+        }
+      ]
+    },
+    "3139": {
+      "id": "3139",
+      "name": "Cimitarra Mercurial",
+      "english": "Mercurial Scimitar",
+      "icon": "https://ddragon.leagueoflegends.com/cdn/16.21.1/img/item/3139.png",
+      "cost": 3200,
+      "description": "50 de Dano de Ataque\n35 de Resistência Mágica\n10% de Roubo de Vida\n\nATIVOS\nMercúrio\nRemove todos os efeitos negativos de Controle de Grupo (exceto Arremesso ao ar) e concede Velocidade de Movimento.",
+      "descriptionEN": "50 Attack Damage\n35 Magic Resist\n10% Life Steal\n\nACTIVE\nQuicksilver\nRemoves all crowd control debuffs (excluding Airborne) and grants Move Speed.",
+      "incomplete": false,
+      "stats": {
+        "FlatSpellBlockMod": 35,
+        "FlatPhysicalDamageMod": 50,
+        "PercentLifeStealMod": 0.1
+      },
+      "buildsFrom": [
+        "3140",
+        "1037",
+        "1053"
+      ],
+      "buildsInto": [],
+      "groups": [],
+      "mayhem": true,
+      "purchasable": true,
+      "allowedIdentities": [
+        "attack"
+      ],
+      "patch": "26.21",
+      "source": [
+        {
+          "label": "Riot Data Dragon PT-BR",
+          "url": "https://ddragon.leagueoflegends.com/cdn/16.21.1/data/pt_BR/item.json",
+          "patch": "26.21",
+          "checkedAt": "2026-10-31"
+        },
+        {
+          "label": "Riot Data Dragon EN",
+          "url": "https://ddragon.leagueoflegends.com/cdn/16.21.1/data/en_US/item.json",
+          "patch": "26.21",
+          "checkedAt": "2026-10-31"
+        },
+        {
+          "label": "Catálogo Mayhem · CC BY 4.0",
+          "url": "https://arammayhem.com/data/v1/latest/items.json",
+          "patch": "26.21",
+          "checkedAt": "2026-10-31"
+        }
+      ]
+    },
+    "3142": {
+      "id": "3142",
+      "name": "Lâmina Fantasma de Youmuu",
+      "english": "Youmuu's Ghostblade",
+      "icon": "https://ddragon.leagueoflegends.com/cdn/16.21.1/img/item/3142.png",
+      "cost": 2800,
+      "description": "55 de Dano de Ataque\n18 de Letalidade\n4% de Velocidade de Movimento\n\nAssombrar \nRecebe 0 de Velocidade de Movimento fora de combate.\n\nPasso Espectral\nRecebe Velocidade de Movimento e efeito Fantasma por 0s.",
+      "descriptionEN": "55 Attack Damage\n18 Lethality\n4% Move Speed\n\nHaunt \nGain  Move Speed while out of combat.\n\nWraith Step\nGain Move Speed and Ghosting for  seconds.",
+      "incomplete": false,
+      "stats": {
+        "FlatPhysicalDamageMod": 55,
+        "PercentMovementSpeedMod": 0.04
+      },
+      "buildsFrom": [
+        "3134",
+        "6690",
+        "1036"
+      ],
+      "buildsInto": [],
+      "groups": [],
+      "mayhem": true,
+      "purchasable": true,
+      "allowedIdentities": [
+        "fighter",
+        "attack"
+      ],
+      "patch": "26.21",
+      "source": [
+        {
+          "label": "Riot Data Dragon PT-BR",
+          "url": "https://ddragon.leagueoflegends.com/cdn/16.21.1/data/pt_BR/item.json",
+          "patch": "26.21",
+          "checkedAt": "2026-10-31"
+        },
+        {
+          "label": "Riot Data Dragon EN",
+          "url": "https://ddragon.leagueoflegends.com/cdn/16.21.1/data/en_US/item.json",
+          "patch": "26.21",
+          "checkedAt": "2026-10-31"
+        },
+        {
+          "label": "Catálogo Mayhem · CC BY 4.0",
+          "url": "https://arammayhem.com/data/v1/latest/items.json",
+          "patch": "26.21",
+          "checkedAt": "2026-10-31"
+        }
+      ]
+    },
+    "3143": {
+      "id": "3143",
+      "name": "Presságio de Randuin",
+      "english": "Randuin's Omen",
+      "icon": "https://ddragon.leagueoflegends.com/cdn/16.21.1/img/item/3143.png",
+      "cost": 2700,
+      "description": "350 de Vida\n75 de Armadura\n\nResiliência\nSofre 30% a menos de dano de Acertos Críticos.\nHumildade\nCausa 70% de Lentidão a inimigos próximos por 2s.",
+      "descriptionEN": "350 Health\n75 Armor\n\nResilience\nReceive 30% less damage from Critical Strikes.\nHumility\nSlow nearby enemies by 70% for 2 seconds.",
+      "incomplete": false,
+      "stats": {
+        "FlatHPPoolMod": 350,
+        "FlatArmorMod": 75
+      },
+      "buildsFrom": [
+        "3082",
+        "1011"
+      ],
+      "buildsInto": [],
+      "groups": [],
+      "mayhem": true,
+      "purchasable": true,
+      "allowedIdentities": [
+        "tank"
+      ],
+      "patch": "26.21",
+      "source": [
+        {
+          "label": "Riot Data Dragon PT-BR",
+          "url": "https://ddragon.leagueoflegends.com/cdn/16.21.1/data/pt_BR/item.json",
+          "patch": "26.21",
+          "checkedAt": "2026-10-31"
+        },
+        {
+          "label": "Riot Data Dragon EN",
+          "url": "https://ddragon.leagueoflegends.com/cdn/16.21.1/data/en_US/item.json",
+          "patch": "26.21",
+          "checkedAt": "2026-10-31"
+        },
+        {
+          "label": "Catálogo Mayhem · CC BY 4.0",
+          "url": "https://arammayhem.com/data/v1/latest/items.json",
+          "patch": "26.21",
+          "checkedAt": "2026-10-31"
+        }
+      ]
+    },
+    "3146": {
+      "id": "3146",
+      "name": "Pistola Laminar Hextec",
+      "english": "Hextech Gunblade",
+      "icon": "https://ddragon.leagueoflegends.com/cdn/16.21.1/img/item/3146.png",
+      "cost": 3000,
+      "description": "80 de Poder de Habilidade\n40 de Dano de Ataque\n10% de Vampirismo Universal\n\nATIVOS (recarga calculada no jogo)\nDisparo Elétrico\nDá um choque no Campeão-alvo inimigo, causando 0 de Dano Mágico e 25% de Lentidão por 1.5s.",
+      "descriptionEN": "80 Ability Power\n40 Attack Damage\n10% Omnivamp\n\nACTIVE (cooldown calculated in game)\nLightning Bolt\nShocks the target enemy champion, dealing  magic damage and slowing them by 25% for 1.5 seconds.",
+      "incomplete": true,
+      "stats": {
+        "FlatMagicDamageMod": 80,
+        "FlatPhysicalDamageMod": 40
+      },
+      "buildsFrom": [
+        "1053",
+        "3145",
+        "1052"
+      ],
+      "buildsInto": [],
+      "groups": [],
+      "mayhem": true,
+      "purchasable": true,
+      "allowedIdentities": [
+        "mage"
+      ],
+      "patch": "26.21",
+      "source": [
+        {
+          "label": "Riot Data Dragon PT-BR",
+          "url": "https://ddragon.leagueoflegends.com/cdn/16.21.1/data/pt_BR/item.json",
+          "patch": "26.21",
+          "checkedAt": "2026-10-31"
+        },
+        {
+          "label": "Riot Data Dragon EN",
+          "url": "https://ddragon.leagueoflegends.com/cdn/16.21.1/data/en_US/item.json",
+          "patch": "26.21",
+          "checkedAt": "2026-10-31"
+        },
+        {
+          "label": "Catálogo Mayhem · CC BY 4.0",
+          "url": "https://arammayhem.com/data/v1/latest/items.json",
+          "patch": "26.21",
+          "checkedAt": "2026-10-31"
+        }
+      ]
+    },
+    "3152": {
+      "id": "3152",
+      "name": "Explocinturão Hextec",
+      "english": "Hextech Rocketbelt",
+      "icon": "https://ddragon.leagueoflegends.com/cdn/16.21.1/img/item/3152.png",
+      "cost": 2650,
+      "description": "60 de Poder de Habilidade\n350 de Vida\n10 de Aceleração de Habilidade\n\nSupersônico\nAvança na direção-alvo, disparando projéteis que causam Dano Mágico.",
+      "descriptionEN": "60 Ability Power\n350 Health\n10 Ability Haste\n\nSupersonic\nDash in target direction, unleashing missiles that deal magic damage.",
+      "incomplete": false,
+      "stats": {
+        "FlatHPPoolMod": 350,
+        "FlatMagicDamageMod": 60
+      },
+      "buildsFrom": [
+        "3145",
+        "3067",
+        "1028"
+      ],
+      "buildsInto": [],
+      "groups": [],
+      "mayhem": true,
+      "purchasable": true,
+      "allowedIdentities": [
+        "mage"
+      ],
+      "patch": "26.21",
+      "source": [
+        {
+          "label": "Riot Data Dragon PT-BR",
+          "url": "https://ddragon.leagueoflegends.com/cdn/16.21.1/data/pt_BR/item.json",
+          "patch": "26.21",
+          "checkedAt": "2026-10-31"
+        },
+        {
+          "label": "Riot Data Dragon EN",
+          "url": "https://ddragon.leagueoflegends.com/cdn/16.21.1/data/en_US/item.json",
+          "patch": "26.21",
+          "checkedAt": "2026-10-31"
+        },
+        {
+          "label": "Catálogo Mayhem · CC BY 4.0",
+          "url": "https://arammayhem.com/data/v1/latest/items.json",
+          "patch": "26.21",
+          "checkedAt": "2026-10-31"
+        }
+      ]
+    },
+    "3153": {
+      "id": "3153",
+      "name": "Espada do Rei Destruído",
+      "english": "Blade of The Ruined King",
+      "icon": "https://ddragon.leagueoflegends.com/cdn/16.21.1/img/item/3153.png",
+      "cost": 3200,
+      "description": "40 de Dano de Ataque\n25% de Velocidade de Ataque\n10% de Roubo de Vida\n\nGume da Névoa\nAtaques causam uma porcentagem da Vida atual do inimigo como Dano Físico adicional ao contato.\n\nSombras da Tirania\nAtacar um Campeão 3 vezes causa 30% de Lentidão por 1s.",
+      "descriptionEN": "40 Attack Damage\n25% Attack Speed\n10% Life Steal\n\nMist's Edge\nAttacks deal a percentage of enemy's current Health as bonus physical damage On-Hit.\n\nClawing Shadows\nAttacking a champion 3 times Slows them by 30% for 1 second.",
+      "incomplete": false,
+      "stats": {
+        "FlatPhysicalDamageMod": 40,
+        "PercentAttackSpeedMod": 0.25,
+        "PercentLifeStealMod": 0.1
+      },
+      "buildsFrom": [
+        "1053",
+        "1043",
+        "1037"
+      ],
+      "buildsInto": [],
+      "groups": [],
+      "mayhem": true,
+      "purchasable": true,
+      "allowedIdentities": [
+        "mage",
+        "fighter",
+        "attack"
+      ],
+      "patch": "26.21",
+      "source": [
+        {
+          "label": "Riot Data Dragon PT-BR",
+          "url": "https://ddragon.leagueoflegends.com/cdn/16.21.1/data/pt_BR/item.json",
+          "patch": "26.21",
+          "checkedAt": "2026-10-31"
+        },
+        {
+          "label": "Riot Data Dragon EN",
+          "url": "https://ddragon.leagueoflegends.com/cdn/16.21.1/data/en_US/item.json",
+          "patch": "26.21",
+          "checkedAt": "2026-10-31"
+        },
+        {
+          "label": "Catálogo Mayhem · CC BY 4.0",
+          "url": "https://arammayhem.com/data/v1/latest/items.json",
+          "patch": "26.21",
+          "checkedAt": "2026-10-31"
+        }
+      ]
+    },
+    "3156": {
+      "id": "3156",
+      "name": "Mandíbula de Malmortius",
+      "english": "Maw of Malmortius",
+      "icon": "https://ddragon.leagueoflegends.com/cdn/16.21.1/img/item/3156.png",
+      "cost": 3100,
+      "description": "60 de Dano de Ataque\n15 de Aceleração de Habilidade\n40 de Resistência Mágica\n\nSalva-Vidas\nAo sofrer Dano Mágico suficiente para reduzir sua Vida a menos de 30%, recebe um Escudo contra Dano Mágico por 3s e 10% de Vampirismo Universal até o fim do combate.",
+      "descriptionEN": "60 Attack Damage\n15 Ability Haste\n40 Magic Resist\n\nLifeline\nTaking magic damage that would reduce your Health below 30% grants a magic damage Shield for 3 seconds and 10% Omnivamp until end of combat.",
+      "incomplete": false,
+      "stats": {
+        "FlatSpellBlockMod": 40,
+        "FlatPhysicalDamageMod": 60
+      },
+      "buildsFrom": [
+        "3155",
+        "3133"
+      ],
+      "buildsInto": [],
+      "groups": [
+        "lifeline"
+      ],
+      "mayhem": true,
+      "purchasable": true,
+      "allowedIdentities": [
+        "fighter",
+        "tank",
+        "attack"
+      ],
+      "patch": "26.21",
+      "source": [
+        {
+          "label": "Riot Data Dragon PT-BR",
+          "url": "https://ddragon.leagueoflegends.com/cdn/16.21.1/data/pt_BR/item.json",
+          "patch": "26.21",
+          "checkedAt": "2026-10-31"
+        },
+        {
+          "label": "Riot Data Dragon EN",
+          "url": "https://ddragon.leagueoflegends.com/cdn/16.21.1/data/en_US/item.json",
+          "patch": "26.21",
+          "checkedAt": "2026-10-31"
+        },
+        {
+          "label": "Catálogo Mayhem · CC BY 4.0",
+          "url": "https://arammayhem.com/data/v1/latest/items.json",
+          "patch": "26.21",
+          "checkedAt": "2026-10-31"
+        }
+      ]
+    },
+    "3157": {
+      "id": "3157",
+      "name": "Ampulheta de Zhonya",
+      "english": "Zhonya's Hourglass",
+      "icon": "https://ddragon.leagueoflegends.com/cdn/16.21.1/img/item/3157.png",
+      "cost": 3250,
+      "description": "105 de Poder de Habilidade\n50 de Armadura\n\nTempo Paralisado\nEntra em Estase por 2.5s.",
+      "descriptionEN": "105 Ability Power\n50 Armor\n\nTime Stop\nEnter Stasis for 2.5 seconds.",
+      "incomplete": false,
+      "stats": {
+        "FlatMagicDamageMod": 105,
+        "FlatArmorMod": 50
+      },
+      "buildsFrom": [
+        "1058",
+        "2420"
+      ],
+      "buildsInto": [],
+      "groups": [],
+      "mayhem": true,
+      "purchasable": true,
+      "allowedIdentities": [
+        "mage"
+      ],
+      "patch": "26.21",
+      "source": [
+        {
+          "label": "Riot Data Dragon PT-BR",
+          "url": "https://ddragon.leagueoflegends.com/cdn/16.21.1/data/pt_BR/item.json",
+          "patch": "26.21",
+          "checkedAt": "2026-10-31"
+        },
+        {
+          "label": "Riot Data Dragon EN",
+          "url": "https://ddragon.leagueoflegends.com/cdn/16.21.1/data/en_US/item.json",
+          "patch": "26.21",
+          "checkedAt": "2026-10-31"
+        },
+        {
+          "label": "Catálogo Mayhem · CC BY 4.0",
+          "url": "https://arammayhem.com/data/v1/latest/items.json",
+          "patch": "26.21",
+          "checkedAt": "2026-10-31"
+        }
+      ]
+    },
+    "3158": {
+      "id": "3158",
+      "name": "Botas Ionianas da Lucidez",
+      "english": "Ionian Boots of Lucidity",
+      "icon": "https://ddragon.leagueoflegends.com/cdn/16.21.1/img/item/3158.png",
+      "cost": 900,
+      "description": "10 de Aceleração de Habilidade\n45 de Velocidade de Movimento\n\nPerspicácia Ioniana\nRecebe 10 de Aceleração de Feitiços de Invocador.",
+      "descriptionEN": "10 Ability Haste\n45 Move Speed\n\nIonian Insight\nGain 10 Summoner Spell Haste.",
+      "incomplete": false,
+      "stats": {
+        "FlatMovementSpeedMod": 45
+      },
+      "buildsFrom": [
+        "1001",
+        "2022"
+      ],
+      "buildsInto": [
+        "3171"
+      ],
+      "groups": [
+        "boots"
+      ],
+      "mayhem": true,
+      "purchasable": true,
+      "allowedIdentities": [
+        "mage",
+        "fighter",
+        "tank",
+        "enchanter",
+        "attack"
+      ],
+      "patch": "26.21",
+      "source": [
+        {
+          "label": "Riot Data Dragon PT-BR",
+          "url": "https://ddragon.leagueoflegends.com/cdn/16.21.1/data/pt_BR/item.json",
+          "patch": "26.21",
+          "checkedAt": "2026-10-31"
+        },
+        {
+          "label": "Riot Data Dragon EN",
+          "url": "https://ddragon.leagueoflegends.com/cdn/16.21.1/data/en_US/item.json",
+          "patch": "26.21",
+          "checkedAt": "2026-10-31"
+        },
+        {
+          "label": "Catálogo Mayhem · CC BY 4.0",
+          "url": "https://arammayhem.com/data/v1/latest/items.json",
+          "patch": "26.21",
+          "checkedAt": "2026-10-31"
+        }
+      ]
+    },
+    "3161": {
+      "id": "3161",
+      "name": "Lança de Shojin",
+      "english": "Spear of Shojin",
+      "icon": "https://ddragon.leagueoflegends.com/cdn/16.21.1/img/item/3161.png",
+      "cost": 3100,
+      "description": "45 de Dano de Ataque\n450 de Vida\n\nForça Dracônica \nRecebe 25 de Aceleração de Habilidade Básica.\n\nDeterminação Concentrada \nCausar dano com Habilidades aumenta o dano de Habilidade e o dano da Passiva do seu Campeão em 3% por 6s (acumula 4x).",
+      "descriptionEN": "45 Attack Damage\n450 Health\n\nDragonforce \nGain 25 Basic Ability Haste.\n\nFocused Will \nDealing damage with Abilities increases your Champion's Ability and Passive damage by 3% for 6 seconds. (stacks 4 times).",
+      "incomplete": false,
+      "stats": {
+        "FlatHPPoolMod": 450,
+        "FlatPhysicalDamageMod": 45
+      },
+      "buildsFrom": [
+        "1037",
+        "2021",
+        "1028"
+      ],
+      "buildsInto": [],
+      "groups": [],
+      "mayhem": true,
+      "purchasable": true,
+      "allowedIdentities": [
+        "fighter",
+        "attack"
+      ],
+      "patch": "26.21",
+      "source": [
+        {
+          "label": "Riot Data Dragon PT-BR",
+          "url": "https://ddragon.leagueoflegends.com/cdn/16.21.1/data/pt_BR/item.json",
+          "patch": "26.21",
+          "checkedAt": "2026-10-31"
+        },
+        {
+          "label": "Riot Data Dragon EN",
+          "url": "https://ddragon.leagueoflegends.com/cdn/16.21.1/data/en_US/item.json",
+          "patch": "26.21",
+          "checkedAt": "2026-10-31"
+        },
+        {
+          "label": "Catálogo Mayhem · CC BY 4.0",
+          "url": "https://arammayhem.com/data/v1/latest/items.json",
+          "patch": "26.21",
+          "checkedAt": "2026-10-31"
+        }
+      ]
+    },
+    "3165": {
+      "id": "3165",
+      "name": "Morellonomicon",
+      "english": "Morellonomicon",
+      "icon": "https://ddragon.leagueoflegends.com/cdn/16.21.1/img/item/3165.png",
+      "cost": 2850,
+      "description": "75 de Poder de Habilidade\n350 de Vida\n15 de Aceleração de Habilidade\n\nFeridas Dolorosas\nCausar Dano Mágico a Campeões aplica 40% de Ferimento por 3s.",
+      "descriptionEN": "75 Ability Power\n350 Health\n15 Ability Haste\n\nGrievous Wounds\nDealing magic damage to champions applies 40% Wounds for 3 seconds.",
+      "incomplete": false,
+      "stats": {
+        "FlatHPPoolMod": 350,
+        "FlatMagicDamageMod": 75
+      },
+      "buildsFrom": [
+        "3916",
+        "1026",
+        "3067"
+      ],
+      "buildsInto": [],
+      "groups": [],
+      "mayhem": true,
+      "purchasable": true,
+      "allowedIdentities": [
+        "mage",
+        "tank",
+        "enchanter"
+      ],
+      "patch": "26.21",
+      "source": [
+        {
+          "label": "Riot Data Dragon PT-BR",
+          "url": "https://ddragon.leagueoflegends.com/cdn/16.21.1/data/pt_BR/item.json",
+          "patch": "26.21",
+          "checkedAt": "2026-10-31"
+        },
+        {
+          "label": "Riot Data Dragon EN",
+          "url": "https://ddragon.leagueoflegends.com/cdn/16.21.1/data/en_US/item.json",
+          "patch": "26.21",
+          "checkedAt": "2026-10-31"
+        },
+        {
+          "label": "Catálogo Mayhem · CC BY 4.0",
+          "url": "https://arammayhem.com/data/v1/latest/items.json",
+          "patch": "26.21",
+          "checkedAt": "2026-10-31"
+        }
+      ]
+    },
+    "3190": {
+      "id": "3190",
+      "name": "Medalhão dos Solari de Ferro",
+      "english": "Locket of the Iron Solari",
+      "icon": "https://ddragon.leagueoflegends.com/cdn/16.21.1/img/item/3190.png",
+      "cost": 2200,
+      "description": "200 de Vida\n30 de Armadura\n30 de Resistência Mágica\n10 de Aceleração de Habilidade\n\nDevoção\nConcede a aliados próximos 290 - 360 de Escudo, e esse valor decai ao longo de 2.5s.",
+      "descriptionEN": "200 Health\n30 Armor\n30 Magic Resist\n10 Ability Haste\n\nDevotion\nGrant nearby allies a 290 - 360 Shield that decays over 2.5 seconds.",
+      "incomplete": false,
+      "stats": {
+        "FlatSpellBlockMod": 30,
+        "FlatHPPoolMod": 200,
+        "FlatArmorMod": 30
+      },
+      "buildsFrom": [
+        "3067",
+        "1029",
+        "1033"
+      ],
+      "buildsInto": [],
+      "groups": [],
+      "mayhem": true,
+      "purchasable": true,
+      "allowedIdentities": [
+        "tank",
+        "enchanter"
+      ],
+      "patch": "26.21",
+      "source": [
+        {
+          "label": "Riot Data Dragon PT-BR",
+          "url": "https://ddragon.leagueoflegends.com/cdn/16.21.1/data/pt_BR/item.json",
+          "patch": "26.21",
+          "checkedAt": "2026-10-31"
+        },
+        {
+          "label": "Riot Data Dragon EN",
+          "url": "https://ddragon.leagueoflegends.com/cdn/16.21.1/data/en_US/item.json",
+          "patch": "26.21",
+          "checkedAt": "2026-10-31"
+        },
+        {
+          "label": "Catálogo Mayhem · CC BY 4.0",
+          "url": "https://arammayhem.com/data/v1/latest/items.json",
+          "patch": "26.21",
+          "checkedAt": "2026-10-31"
+        }
+      ]
+    },
+    "3211": {
+      "id": "3211",
+      "name": "Capuz do Espectro",
+      "english": "Spectre's Cowl",
+      "icon": "https://ddragon.leagueoflegends.com/cdn/16.21.1/img/item/3211.png",
+      "cost": 1250,
+      "description": "200 de Vida\n35 de Resistência Mágica\n100% de Regeneração de Vida base",
+      "descriptionEN": "200 Health\n35 Magic Resist\n100% Base Health Regen",
+      "incomplete": false,
+      "stats": {
+        "FlatSpellBlockMod": 35,
+        "FlatHPPoolMod": 200
+      },
+      "buildsFrom": [
+        "1028",
+        "1033",
+        "1006"
+      ],
+      "buildsInto": [
+        "2504",
+        "3065",
+        "6664"
+      ],
+      "groups": [],
+      "mayhem": true,
+      "purchasable": true,
+      "allowedIdentities": [
+        "mage",
+        "fighter",
+        "tank",
+        "enchanter",
+        "attack"
+      ],
+      "patch": "26.21",
+      "source": [
+        {
+          "label": "Riot Data Dragon PT-BR",
+          "url": "https://ddragon.leagueoflegends.com/cdn/16.21.1/data/pt_BR/item.json",
+          "patch": "26.21",
+          "checkedAt": "2026-10-31"
+        },
+        {
+          "label": "Riot Data Dragon EN",
+          "url": "https://ddragon.leagueoflegends.com/cdn/16.21.1/data/en_US/item.json",
+          "patch": "26.21",
+          "checkedAt": "2026-10-31"
+        },
+        {
+          "label": "Catálogo Mayhem · CC BY 4.0",
+          "url": "https://arammayhem.com/data/v1/latest/items.json",
+          "patch": "26.21",
+          "checkedAt": "2026-10-31"
+        }
+      ]
+    },
+    "3222": {
+      "id": "3222",
+      "name": "Bênção de Mikael",
+      "english": "Mikael's Blessing",
+      "icon": "https://ddragon.leagueoflegends.com/cdn/16.21.1/img/item/3222.png",
+      "cost": 2300,
+      "description": "250 de Vida\n100% de Regeneração de Mana base\n12% de Cura e Resistência do Escudo\n15 de Aceleração de Habilidade\n\nPurificar\nRemove todos os efeitos de Controle de Grupo de um Campeão aliado (exceto Arremesso ao Ar e Supressão) e restaura 100 - 250 de Vida.",
+      "descriptionEN": "250 Health\n100% Base Mana Regen\n12% Heal and Shield Power\n15 Ability Haste\n\nPurify\nRemove all crowd control debuffs (excluding Airborne and Suppression) from an ally champion and restore 100 - 250 Health.",
+      "incomplete": false,
+      "stats": {
+        "FlatHPPoolMod": 250
+      },
+      "buildsFrom": [
+        "3067",
+        "3114"
+      ],
+      "buildsInto": [],
+      "groups": [],
+      "mayhem": true,
+      "purchasable": true,
+      "allowedIdentities": [
+        "tank",
+        "enchanter"
+      ],
+      "patch": "26.21",
+      "source": [
+        {
+          "label": "Riot Data Dragon PT-BR",
+          "url": "https://ddragon.leagueoflegends.com/cdn/16.21.1/data/pt_BR/item.json",
+          "patch": "26.21",
+          "checkedAt": "2026-10-31"
+        },
+        {
+          "label": "Riot Data Dragon EN",
+          "url": "https://ddragon.leagueoflegends.com/cdn/16.21.1/data/en_US/item.json",
+          "patch": "26.21",
+          "checkedAt": "2026-10-31"
+        },
+        {
+          "label": "Catálogo Mayhem · CC BY 4.0",
+          "url": "https://arammayhem.com/data/v1/latest/items.json",
+          "patch": "26.21",
+          "checkedAt": "2026-10-31"
+        }
+      ]
+    },
+    "3302": {
+      "id": "3302",
+      "name": "Terminus",
+      "english": "Terminus",
+      "icon": "https://ddragon.leagueoflegends.com/cdn/16.21.1/img/item/3302.png",
+      "cost": 3000,
+      "description": "30 de Dano de Ataque\n35% de Velocidade de Ataque\n\nSombra\nAtaques causam 0 de Dano Mágico adicional ao contato.\n\nJustaposição\nAlterna entre Luz e Sombra ao atacar Campeões: \nAtaques de Luz concedem Armadura e Resistência Mágica por 5s. \nAtaques de Sombra concedem 10% de Penetração de Armadura e Penetração Mágica por 5s.",
+      "descriptionEN": "30 Attack Damage\n35% Attack Speed\n\nShadow\nAttacks deal  bonus magic damage On-Hit.\n\nJuxtaposition\nAlternate between Light and Dark Attacks against champions: \nLight Attacks grant Armor and Magic Resist for 5s. \nDark Attacks grant 10% Armor Penetration and Magic Penetration for 5s.",
+      "incomplete": false,
+      "stats": {
+        "FlatPhysicalDamageMod": 30,
+        "PercentAttackSpeedMod": 0.35
+      },
+      "buildsFrom": [
+        "3051",
+        "1043"
+      ],
+      "buildsInto": [],
+      "groups": [
+        "percent-armor-penetration"
+      ],
+      "mayhem": true,
+      "purchasable": true,
+      "allowedIdentities": [
+        "attack"
+      ],
+      "patch": "26.21",
+      "source": [
+        {
+          "label": "Riot Data Dragon PT-BR",
+          "url": "https://ddragon.leagueoflegends.com/cdn/16.21.1/data/pt_BR/item.json",
+          "patch": "26.21",
+          "checkedAt": "2026-10-31"
+        },
+        {
+          "label": "Riot Data Dragon EN",
+          "url": "https://ddragon.leagueoflegends.com/cdn/16.21.1/data/en_US/item.json",
+          "patch": "26.21",
+          "checkedAt": "2026-10-31"
+        },
+        {
+          "label": "Catálogo Mayhem · CC BY 4.0",
+          "url": "https://arammayhem.com/data/v1/latest/items.json",
+          "patch": "26.21",
+          "checkedAt": "2026-10-31"
+        }
+      ]
+    },
+    "3504": {
+      "id": "3504",
+      "name": "Turíbulo Ardente",
+      "english": "Ardent Censer",
+      "icon": "https://ddragon.leagueoflegends.com/cdn/16.21.1/img/item/3504.png",
+      "cost": 2200,
+      "description": "45 de Poder de Habilidade\n10% de Cura e Resistência do Escudo\n125% de Regeneração de Mana base\n4% de Velocidade de Movimento\n\nSantificar\nCurar um aliado ou conceder-lhe Escudo fortalece vocês dois por 6s, concedendo 25% de Velocidade de Ataque e 20 de Dano Mágico ao contato.",
+      "descriptionEN": "45 Ability Power\n10% Heal and Shield Power\n125% Base Mana Regen\n4% Move Speed\n\nSanctify\nHealing or Shielding an ally enhances you both for 6 seconds, granting 25% Attack Speed and 20 magic damage On-Hit.",
+      "incomplete": false,
+      "stats": {
+        "FlatMagicDamageMod": 45,
+        "PercentMovementSpeedMod": 0.04
+      },
+      "buildsFrom": [
+        "3113",
+        "3114"
+      ],
+      "buildsInto": [],
+      "groups": [],
+      "mayhem": true,
+      "purchasable": true,
+      "allowedIdentities": [
+        "enchanter"
+      ],
+      "patch": "26.21",
+      "source": [
+        {
+          "label": "Riot Data Dragon PT-BR",
+          "url": "https://ddragon.leagueoflegends.com/cdn/16.21.1/data/pt_BR/item.json",
+          "patch": "26.21",
+          "checkedAt": "2026-10-31"
+        },
+        {
+          "label": "Riot Data Dragon EN",
+          "url": "https://ddragon.leagueoflegends.com/cdn/16.21.1/data/en_US/item.json",
+          "patch": "26.21",
+          "checkedAt": "2026-10-31"
+        },
+        {
+          "label": "Catálogo Mayhem · CC BY 4.0",
+          "url": "https://arammayhem.com/data/v1/latest/items.json",
+          "patch": "26.21",
+          "checkedAt": "2026-10-31"
+        }
+      ]
+    },
+    "3508": {
+      "id": "3508",
+      "name": "Colhedor de Essência",
+      "english": "Essence Reaver",
+      "icon": "https://ddragon.leagueoflegends.com/cdn/16.21.1/img/item/3508.png",
+      "cost": 3050,
+      "description": "50 de Dano de Ataque\n20 de Aceleração de Habilidade\n25% de Chance de Acerto Crítico\n\nLâmina Arcana\nApós usar uma habilidade, seu próximo ataque causa Dano Físico adicional e concede Mana ao contato.",
+      "descriptionEN": "50 Attack Damage\n20 Ability Haste\n25% Critical Strike Chance\n\nSpellblade\nAfter using an Ability, your next Attack deals bonus physical damage and grants Mana On-Hit.",
+      "incomplete": false,
+      "stats": {
+        "FlatCritChanceMod": 0.25,
+        "FlatPhysicalDamageMod": 50
+      },
+      "buildsFrom": [
+        "3057",
+        "3133",
+        "1018"
+      ],
+      "buildsInto": [],
+      "groups": [],
+      "mayhem": true,
+      "purchasable": true,
+      "allowedIdentities": [
+        "attack"
+      ],
+      "patch": "26.21",
+      "source": [
+        {
+          "label": "Riot Data Dragon PT-BR",
+          "url": "https://ddragon.leagueoflegends.com/cdn/16.21.1/data/pt_BR/item.json",
+          "patch": "26.21",
+          "checkedAt": "2026-10-31"
+        },
+        {
+          "label": "Riot Data Dragon EN",
+          "url": "https://ddragon.leagueoflegends.com/cdn/16.21.1/data/en_US/item.json",
+          "patch": "26.21",
+          "checkedAt": "2026-10-31"
+        },
+        {
+          "label": "Catálogo Mayhem · CC BY 4.0",
+          "url": "https://arammayhem.com/data/v1/latest/items.json",
+          "patch": "26.21",
+          "checkedAt": "2026-10-31"
+        }
+      ]
+    },
+    "3742": {
+      "id": "3742",
+      "name": "Couraça do Defunto",
+      "english": "Dead Man's Plate",
+      "icon": "https://ddragon.leagueoflegends.com/cdn/16.21.1/img/item/3742.png",
+      "cost": 2900,
+      "description": "350 de Vida\n55 de Armadura\n4% de Velocidade de Movimento\n\nNaufrágio\nEnquanto estiver se movendo, acumula até 20 de Velocidade de Movimento adicional. Seu próximo Ataque descarrega a Velocidade de Movimento acumulada para causar Dano Físico adicional.\n\nInafundável\nReduz a eficácia de efeitos de Lentidão em 15%.",
+      "descriptionEN": "350 Health\n55 Armor\n4% Move Speed\n\nShipwrecker\nWhile moving, build up to 20 bonus Move Speed. Your next Attack discharges built up Move Speed to deal bonus physical damage.\n\nUnsinkable\nReduce the effectiveness of Slows by 15%.",
+      "incomplete": false,
+      "stats": {
+        "FlatHPPoolMod": 350,
+        "FlatArmorMod": 55,
+        "PercentMovementSpeedMod": 0.04
+      },
+      "buildsFrom": [
+        "3066",
+        "1028",
+        "1031"
+      ],
+      "buildsInto": [],
+      "groups": [],
+      "mayhem": true,
+      "purchasable": true,
+      "allowedIdentities": [
+        "fighter",
+        "tank"
+      ],
+      "patch": "26.21",
+      "source": [
+        {
+          "label": "Riot Data Dragon PT-BR",
+          "url": "https://ddragon.leagueoflegends.com/cdn/16.21.1/data/pt_BR/item.json",
+          "patch": "26.21",
+          "checkedAt": "2026-10-31"
+        },
+        {
+          "label": "Riot Data Dragon EN",
+          "url": "https://ddragon.leagueoflegends.com/cdn/16.21.1/data/en_US/item.json",
+          "patch": "26.21",
+          "checkedAt": "2026-10-31"
+        },
+        {
+          "label": "Catálogo Mayhem · CC BY 4.0",
+          "url": "https://arammayhem.com/data/v1/latest/items.json",
+          "patch": "26.21",
+          "checkedAt": "2026-10-31"
+        }
+      ]
+    },
+    "3748": {
+      "id": "3748",
+      "name": "Hidra Titânica",
+      "english": "Titanic Hydra",
+      "icon": "https://ddragon.leagueoflegends.com/cdn/16.21.1/img/item/3748.png",
+      "cost": 3300,
+      "description": "40 de Dano de Ataque\n600 de Vida\n\nFenda\nAtaques causam Dano Físico ao contato e atingem os inimigos atrás do alvo.\nCrescente Titânica\nFortalece sua próxima Fenda para causar Dano Físico adicional ao contato, além de Dano Físico adicional aos inimigos atrás do alvo.",
+      "descriptionEN": "40 Attack Damage\n600 Health\n\nCleave\nAttacks deal physical damage on-hit and to enemies behind the target.\nTitanic Crescent\nEmpower your next Cleave to deal bonus physical damage On-Hit and deal bonus physical damage to enemies behind the target.",
+      "incomplete": false,
+      "stats": {
+        "FlatHPPoolMod": 600,
+        "FlatPhysicalDamageMod": 40
+      },
+      "buildsFrom": [
+        "3077",
+        "2021",
+        "1011"
+      ],
+      "buildsInto": [],
+      "groups": [],
+      "mayhem": true,
+      "purchasable": true,
+      "allowedIdentities": [
+        "fighter",
+        "tank",
+        "attack"
+      ],
+      "patch": "26.21",
+      "source": [
+        {
+          "label": "Riot Data Dragon PT-BR",
+          "url": "https://ddragon.leagueoflegends.com/cdn/16.21.1/data/pt_BR/item.json",
+          "patch": "26.21",
+          "checkedAt": "2026-10-31"
+        },
+        {
+          "label": "Riot Data Dragon EN",
+          "url": "https://ddragon.leagueoflegends.com/cdn/16.21.1/data/en_US/item.json",
+          "patch": "26.21",
+          "checkedAt": "2026-10-31"
+        },
+        {
+          "label": "Catálogo Mayhem · CC BY 4.0",
+          "url": "https://arammayhem.com/data/v1/latest/items.json",
+          "patch": "26.21",
+          "checkedAt": "2026-10-31"
+        }
+      ]
+    },
+    "3801": {
+      "id": "3801",
+      "name": "Braçadeira Cristalina",
+      "english": "Crystalline Bracer",
+      "icon": "https://ddragon.leagueoflegends.com/cdn/16.21.1/img/item/3801.png",
+      "cost": 800,
+      "description": "200 de Vida\n100% de Regeneração de Vida base",
+      "descriptionEN": "200 Health\n100% Base Health Regen",
+      "incomplete": false,
+      "stats": {
+        "FlatHPPoolMod": 200
+      },
+      "buildsFrom": [
+        "1028",
+        "1006"
+      ],
+      "buildsInto": [
+        "3084",
+        "3083"
+      ],
+      "groups": [],
+      "mayhem": true,
+      "purchasable": true,
+      "allowedIdentities": [
+        "mage",
+        "fighter",
+        "tank",
+        "enchanter",
+        "attack"
+      ],
+      "patch": "26.21",
+      "source": [
+        {
+          "label": "Riot Data Dragon PT-BR",
+          "url": "https://ddragon.leagueoflegends.com/cdn/16.21.1/data/pt_BR/item.json",
+          "patch": "26.21",
+          "checkedAt": "2026-10-31"
+        },
+        {
+          "label": "Riot Data Dragon EN",
+          "url": "https://ddragon.leagueoflegends.com/cdn/16.21.1/data/en_US/item.json",
+          "patch": "26.21",
+          "checkedAt": "2026-10-31"
+        },
+        {
+          "label": "Catálogo Mayhem · CC BY 4.0",
+          "url": "https://arammayhem.com/data/v1/latest/items.json",
+          "patch": "26.21",
+          "checkedAt": "2026-10-31"
+        }
+      ]
+    },
+    "3814": {
+      "id": "3814",
+      "name": "Limiar da Noite",
+      "english": "Edge of Night",
+      "icon": "https://ddragon.leagueoflegends.com/cdn/16.21.1/img/item/3814.png",
+      "cost": 3000,
+      "description": "50 de Dano de Ataque\n15 de Letalidade\n250 de Vida\n\nAnular\nConcede um Escudo de Feitiço que bloqueia a próxima Habilidade inimiga.",
+      "descriptionEN": "50 Attack Damage\n15 Lethality\n250 Health\n\nAnnul\nGrants a Spell Shield that blocks the next enemy Ability.",
+      "incomplete": false,
+      "stats": {
+        "FlatHPPoolMod": 250,
+        "FlatPhysicalDamageMod": 50
+      },
+      "buildsFrom": [
+        "3134",
+        "2021"
+      ],
+      "buildsInto": [],
+      "groups": [],
+      "mayhem": true,
+      "purchasable": true,
+      "allowedIdentities": [
+        "fighter",
+        "tank",
+        "attack"
+      ],
+      "patch": "26.21",
+      "source": [
+        {
+          "label": "Riot Data Dragon PT-BR",
+          "url": "https://ddragon.leagueoflegends.com/cdn/16.21.1/data/pt_BR/item.json",
+          "patch": "26.21",
+          "checkedAt": "2026-10-31"
+        },
+        {
+          "label": "Riot Data Dragon EN",
+          "url": "https://ddragon.leagueoflegends.com/cdn/16.21.1/data/en_US/item.json",
+          "patch": "26.21",
+          "checkedAt": "2026-10-31"
+        },
+        {
+          "label": "Catálogo Mayhem · CC BY 4.0",
+          "url": "https://arammayhem.com/data/v1/latest/items.json",
+          "patch": "26.21",
+          "checkedAt": "2026-10-31"
+        }
+      ]
+    },
+    "3916": {
+      "id": "3916",
+      "name": "Orbe do Oblívio",
+      "english": "Oblivion Orb",
+      "icon": "https://ddragon.leagueoflegends.com/cdn/16.21.1/img/item/3916.png",
+      "cost": 800,
+      "description": "25 de Poder de Habilidade\n\nFeridas Dolorosas\nCausar Dano Mágico a Campeões aplica 40% de Ferimento por 3s.",
+      "descriptionEN": "25 Ability Power\n\nGrievous Wounds\nDealing magic damage to champions applies 40% Wounds for 3 seconds.",
+      "incomplete": false,
+      "stats": {
+        "FlatMagicDamageMod": 25
+      },
+      "buildsFrom": [
+        "1052"
+      ],
+      "buildsInto": [
+        "223011",
+        "3165",
+        "3011"
+      ],
+      "groups": [],
+      "mayhem": true,
+      "purchasable": true,
+      "allowedIdentities": [
+        "mage",
+        "fighter",
+        "tank",
+        "enchanter",
+        "attack"
+      ],
+      "patch": "26.21",
+      "source": [
+        {
+          "label": "Riot Data Dragon PT-BR",
+          "url": "https://ddragon.leagueoflegends.com/cdn/16.21.1/data/pt_BR/item.json",
+          "patch": "26.21",
+          "checkedAt": "2026-10-31"
+        },
+        {
+          "label": "Riot Data Dragon EN",
+          "url": "https://ddragon.leagueoflegends.com/cdn/16.21.1/data/en_US/item.json",
+          "patch": "26.21",
+          "checkedAt": "2026-10-31"
+        },
+        {
+          "label": "Catálogo Mayhem · CC BY 4.0",
+          "url": "https://arammayhem.com/data/v1/latest/items.json",
+          "patch": "26.21",
+          "checkedAt": "2026-10-31"
+        }
+      ]
+    },
+    "4005": {
+      "id": "4005",
+      "name": "Mandato Imperial",
+      "english": "Imperial Mandate",
+      "icon": "https://ddragon.leagueoflegends.com/cdn/16.21.1/img/item/4005.png",
+      "cost": 2400,
+      "description": "60 de Poder de Habilidade\n15 de Aceleração de Habilidade\n150% de Regeneração de Mana base\n\nControle\nRecebe 20 de Aceleração de Habilidade para suas habilidades com efeitos de Imobilização.\n\nComando\nAo Imobilizar um Campeão inimigo, você aplica uma marca que o deixa 7% Vulnerável por 4s.",
+      "descriptionEN": "60 Ability Power\n15 Ability Haste\n150% Base Mana Regen\n\nControl\nGain 20 Ability Haste for your abilities with Immobilizing effects.\n\nCommand\nOn Immobilizing an enemy champion, mark them as 7% Vulnerable for 4 seconds.",
+      "incomplete": false,
+      "stats": {
+        "FlatMagicDamageMod": 60
+      },
+      "buildsFrom": [
+        "1052",
+        "4642",
+        "1052"
+      ],
+      "buildsInto": [],
+      "groups": [],
+      "mayhem": true,
+      "purchasable": true,
+      "allowedIdentities": [
+        "enchanter"
+      ],
+      "patch": "26.21",
+      "source": [
+        {
+          "label": "Riot Data Dragon PT-BR",
+          "url": "https://ddragon.leagueoflegends.com/cdn/16.21.1/data/pt_BR/item.json",
+          "patch": "26.21",
+          "checkedAt": "2026-10-31"
+        },
+        {
+          "label": "Riot Data Dragon EN",
+          "url": "https://ddragon.leagueoflegends.com/cdn/16.21.1/data/en_US/item.json",
+          "patch": "26.21",
+          "checkedAt": "2026-10-31"
+        },
+        {
+          "label": "Catálogo Mayhem · CC BY 4.0",
+          "url": "https://arammayhem.com/data/v1/latest/items.json",
+          "patch": "26.21",
+          "checkedAt": "2026-10-31"
+        }
+      ]
+    },
+    "4401": {
+      "id": "4401",
+      "name": "Força da Natureza",
+      "english": "Force of Nature",
+      "icon": "https://ddragon.leagueoflegends.com/cdn/16.21.1/img/item/4401.png",
+      "cost": 2800,
+      "description": "400 de Vida\n55 de Resistência Mágica\n4% de Velocidade de Movimento\n\nImpassível\nRecebe 70 de Resistência Mágica e 6% de Velocidade de Movimento adicional depois de sofrer Dano Mágico de Campeões 8x.",
+      "descriptionEN": "400 Health\n55 Magic Resist\n4% Move Speed\n\nSteadfast\nGain 70 Magic Resist and 6% bonus Move Speed after taking magic damage from Champions 8 times.",
+      "incomplete": false,
+      "stats": {
+        "FlatSpellBlockMod": 55,
+        "FlatHPPoolMod": 400,
+        "PercentMovementSpeedMod": 0.04
+      },
+      "buildsFrom": [
+        "1057",
+        "1028",
+        "3066"
+      ],
+      "buildsInto": [],
+      "groups": [],
+      "mayhem": true,
+      "purchasable": true,
+      "allowedIdentities": [
+        "tank"
+      ],
+      "patch": "26.21",
+      "source": [
+        {
+          "label": "Riot Data Dragon PT-BR",
+          "url": "https://ddragon.leagueoflegends.com/cdn/16.21.1/data/pt_BR/item.json",
+          "patch": "26.21",
+          "checkedAt": "2026-10-31"
+        },
+        {
+          "label": "Riot Data Dragon EN",
+          "url": "https://ddragon.leagueoflegends.com/cdn/16.21.1/data/en_US/item.json",
+          "patch": "26.21",
+          "checkedAt": "2026-10-31"
+        },
+        {
+          "label": "Catálogo Mayhem · CC BY 4.0",
+          "url": "https://arammayhem.com/data/v1/latest/items.json",
+          "patch": "26.21",
+          "checkedAt": "2026-10-31"
+        }
+      ]
+    },
+    "4628": {
+      "id": "4628",
+      "name": "Foco do Horizonte",
+      "english": "Horizon Focus",
+      "icon": "https://ddragon.leagueoflegends.com/cdn/16.21.1/img/item/4628.png",
+      "cost": 2700,
+      "description": "75 de Poder de Habilidade\n25 de Aceleração de Habilidade\n\nHiperdisparo\nCausar Dano de Habilidade a Campeões a 600 de alcance ou mais irá Revelá-los por 6s. \n\nFoco\nQuando Hiperdisparo é acionado, Revela todos os demais Campeões inimigos em até 1400 de alcance por 3s.",
+      "descriptionEN": "75 Ability Power\n25 Ability Haste\n\nHypershot\nDealing Ability damage to champions at 600 range or greater Reveals them for 6 seconds. \n\nFocus\nWhen Hypershot is triggered, Reveal all other enemy champions within 1400 range of them for 3 seconds.",
+      "incomplete": false,
+      "stats": {
+        "FlatMagicDamageMod": 75
+      },
+      "buildsFrom": [
+        "3108",
+        "3108",
+        "1052"
+      ],
+      "buildsInto": [],
+      "groups": [],
+      "mayhem": true,
+      "purchasable": true,
+      "allowedIdentities": [
+        "mage"
+      ],
+      "patch": "26.21",
+      "source": [
+        {
+          "label": "Riot Data Dragon PT-BR",
+          "url": "https://ddragon.leagueoflegends.com/cdn/16.21.1/data/pt_BR/item.json",
+          "patch": "26.21",
+          "checkedAt": "2026-10-31"
+        },
+        {
+          "label": "Riot Data Dragon EN",
+          "url": "https://ddragon.leagueoflegends.com/cdn/16.21.1/data/en_US/item.json",
+          "patch": "26.21",
+          "checkedAt": "2026-10-31"
+        },
+        {
+          "label": "Catálogo Mayhem · CC BY 4.0",
+          "url": "https://arammayhem.com/data/v1/latest/items.json",
+          "patch": "26.21",
+          "checkedAt": "2026-10-31"
+        }
+      ]
+    },
+    "4629": {
+      "id": "4629",
+      "name": "Ímpeto Cósmico",
+      "english": "Cosmic Drive",
+      "icon": "https://ddragon.leagueoflegends.com/cdn/16.21.1/img/item/4629.png",
+      "cost": 3000,
+      "description": "70 de Poder de Habilidade\n350 de Vida\n25 de Aceleração de Habilidade\n4% de Velocidade de Movimento\n\nDança Enfeitiçada\nCausar Dano Mágico ou Dano Verdadeiro a Campeões concede Velocidade de Movimento por 4s.",
+      "descriptionEN": "70 Ability Power\n350 Health\n25 Ability Haste\n4% Move Speed\n\nSpelldance\nDealing magic or true damage to champions grants Move Speed for 4 seconds.",
+      "incomplete": false,
+      "stats": {
+        "FlatHPPoolMod": 350,
+        "FlatMagicDamageMod": 70,
+        "PercentMovementSpeedMod": 0.04
+      },
+      "buildsFrom": [
+        "3067",
+        "3113",
+        "3108"
+      ],
+      "buildsInto": [],
+      "groups": [],
+      "mayhem": true,
+      "purchasable": true,
+      "allowedIdentities": [
+        "mage"
+      ],
+      "patch": "26.21",
+      "source": [
+        {
+          "label": "Riot Data Dragon PT-BR",
+          "url": "https://ddragon.leagueoflegends.com/cdn/16.21.1/data/pt_BR/item.json",
+          "patch": "26.21",
+          "checkedAt": "2026-10-31"
+        },
+        {
+          "label": "Riot Data Dragon EN",
+          "url": "https://ddragon.leagueoflegends.com/cdn/16.21.1/data/en_US/item.json",
+          "patch": "26.21",
+          "checkedAt": "2026-10-31"
+        },
+        {
+          "label": "Catálogo Mayhem · CC BY 4.0",
+          "url": "https://arammayhem.com/data/v1/latest/items.json",
+          "patch": "26.21",
+          "checkedAt": "2026-10-31"
+        }
+      ]
+    },
+    "4633": {
+      "id": "4633",
+      "name": "Criafendas",
+      "english": "Riftmaker",
+      "icon": "https://ddragon.leagueoflegends.com/cdn/16.21.1/img/item/4633.png",
+      "cost": 3100,
+      "description": "70 de Poder de Habilidade\n350 de Vida\n15 de Aceleração de Habilidade\n\nCorrupção do Vazio\nPara cada segundo em combate contra Campeões inimigos, causa 2% de dano adicional, com limite de 8%. Com força máxima, recebe Vampirismo Universal.\n\nInfusão do Vazio\nRecebe 2% da sua Vida adicional como Poder de Habilidade.",
+      "descriptionEN": "70 Ability Power\n350 Health\n15 Ability Haste\n\nVoid Corruption\nFor each second in combat with enemy champions, deal 2% bonus damage, up to 8%. At maximum strength, gain Omnivamp.\n\nVoid Infusion\nGain 2% of your bonus Health as Ability Power.",
+      "incomplete": false,
+      "stats": {
+        "FlatHPPoolMod": 350,
+        "FlatMagicDamageMod": 70
+      },
+      "buildsFrom": [
+        "3147",
+        "3108"
+      ],
+      "buildsInto": [],
+      "groups": [],
+      "mayhem": true,
+      "purchasable": true,
+      "allowedIdentities": [
+        "mage"
+      ],
+      "patch": "26.21",
+      "source": [
+        {
+          "label": "Riot Data Dragon PT-BR",
+          "url": "https://ddragon.leagueoflegends.com/cdn/16.21.1/data/pt_BR/item.json",
+          "patch": "26.21",
+          "checkedAt": "2026-10-31"
+        },
+        {
+          "label": "Riot Data Dragon EN",
+          "url": "https://ddragon.leagueoflegends.com/cdn/16.21.1/data/en_US/item.json",
+          "patch": "26.21",
+          "checkedAt": "2026-10-31"
+        },
+        {
+          "label": "Catálogo Mayhem · CC BY 4.0",
+          "url": "https://arammayhem.com/data/v1/latest/items.json",
+          "patch": "26.21",
+          "checkedAt": "2026-10-31"
+        }
+      ]
+    },
+    "4642": {
+      "id": "4642",
+      "name": "Espelho de Bandópolis",
+      "english": "Bandleglass Mirror",
+      "icon": "https://ddragon.leagueoflegends.com/cdn/16.21.1/img/item/4642.png",
+      "cost": 900,
+      "description": "20 de Poder de Habilidade\n100% de Regeneração de Mana base\n10 de Aceleração de Habilidade",
+      "descriptionEN": "20 Ability Power\n100% Base Mana Regen\n10 Ability Haste",
+      "incomplete": false,
+      "stats": {
+        "FlatMagicDamageMod": 20
+      },
+      "buildsFrom": [
+        "1004",
+        "1052",
+        "2022"
+      ],
+      "buildsInto": [
+        "2065",
+        "322065",
+        "6620",
+        "326617",
+        "324005",
+        "4005",
+        "6617",
+        "326620"
+      ],
+      "groups": [],
+      "mayhem": true,
+      "purchasable": true,
+      "allowedIdentities": [
+        "mage",
+        "fighter",
+        "tank",
+        "enchanter",
+        "attack"
+      ],
+      "patch": "26.21",
+      "source": [
+        {
+          "label": "Riot Data Dragon PT-BR",
+          "url": "https://ddragon.leagueoflegends.com/cdn/16.21.1/data/pt_BR/item.json",
+          "patch": "26.21",
+          "checkedAt": "2026-10-31"
+        },
+        {
+          "label": "Riot Data Dragon EN",
+          "url": "https://ddragon.leagueoflegends.com/cdn/16.21.1/data/en_US/item.json",
+          "patch": "26.21",
+          "checkedAt": "2026-10-31"
+        },
+        {
+          "label": "Catálogo Mayhem · CC BY 4.0",
+          "url": "https://arammayhem.com/data/v1/latest/items.json",
+          "patch": "26.21",
+          "checkedAt": "2026-10-31"
+        }
+      ]
+    },
+    "4645": {
+      "id": "4645",
+      "name": "Chama Sombria",
+      "english": "Shadowflame",
+      "icon": "https://ddragon.leagueoflegends.com/cdn/16.21.1/img/item/4645.png",
+      "cost": 3200,
+      "description": "110 de Poder de Habilidade\n15 de Penetração Mágica\n\nFloregris\nDano Mágico e Dano Verdadeiro causam Acertos Críticos a inimigos com menos de 40% de Vida, causando 20% de dano aumentado.",
+      "descriptionEN": "110 Ability Power\n15 Magic Penetration\n\nCinderbloom\nMagic and true damage Critically Strike enemies below 40% Health, dealing 20% increased damage.",
+      "incomplete": false,
+      "stats": {
+        "FlatMagicDamageMod": 110
+      },
+      "buildsFrom": [
+        "3145",
+        "1058"
+      ],
+      "buildsInto": [],
+      "groups": [],
+      "mayhem": true,
+      "purchasable": true,
+      "allowedIdentities": [
+        "mage"
+      ],
+      "patch": "26.21",
+      "source": [
+        {
+          "label": "Riot Data Dragon PT-BR",
+          "url": "https://ddragon.leagueoflegends.com/cdn/16.21.1/data/pt_BR/item.json",
+          "patch": "26.21",
+          "checkedAt": "2026-10-31"
+        },
+        {
+          "label": "Riot Data Dragon EN",
+          "url": "https://ddragon.leagueoflegends.com/cdn/16.21.1/data/en_US/item.json",
+          "patch": "26.21",
+          "checkedAt": "2026-10-31"
+        },
+        {
+          "label": "Catálogo Mayhem · CC BY 4.0",
+          "url": "https://arammayhem.com/data/v1/latest/items.json",
+          "patch": "26.21",
+          "checkedAt": "2026-10-31"
+        }
+      ]
+    },
+    "4646": {
+      "id": "4646",
+      "name": "Ápice da Tempestade",
+      "english": "Stormsurge",
+      "icon": "https://ddragon.leagueoflegends.com/cdn/16.21.1/img/item/4646.png",
+      "cost": 2800,
+      "description": "90 de Poder de Habilidade\n15 de Penetração Mágica\n6% de Velocidade de Movimento\n\nInvasor da Tempestade\nCausar dano equivalente a 25% da Vida máxima de um Campeão dentro de 2.5s aplica Dilúvio a ele.\n\nDilúvio\nDepois de 2s, causa Dano Mágico. Se o alvo morrer antes que Dilúvio seja acionado, causa dano a inimigos próximos.",
+      "descriptionEN": "90 Ability Power\n15 Magic Penetration\n6% Move Speed\n\nStormraider\nDealing 25% of a champion's maximum Health within 2.5s applies Squall to them.\n\nSquall\nAfter 2 seconds, deal magic damage. If the target dies before Squall triggers, it damages nearby enemies.",
+      "incomplete": false,
+      "stats": {
+        "FlatMagicDamageMod": 90,
+        "PercentMovementSpeedMod": 0.06
+      },
+      "buildsFrom": [
+        "3145",
+        "3113"
+      ],
+      "buildsInto": [],
+      "groups": [],
+      "mayhem": true,
+      "purchasable": true,
+      "allowedIdentities": [
+        "mage"
+      ],
+      "patch": "26.21",
+      "source": [
+        {
+          "label": "Riot Data Dragon PT-BR",
+          "url": "https://ddragon.leagueoflegends.com/cdn/16.21.1/data/pt_BR/item.json",
+          "patch": "26.21",
+          "checkedAt": "2026-10-31"
+        },
+        {
+          "label": "Riot Data Dragon EN",
+          "url": "https://ddragon.leagueoflegends.com/cdn/16.21.1/data/en_US/item.json",
+          "patch": "26.21",
+          "checkedAt": "2026-10-31"
+        },
+        {
+          "label": "Catálogo Mayhem · CC BY 4.0",
+          "url": "https://arammayhem.com/data/v1/latest/items.json",
+          "patch": "26.21",
+          "checkedAt": "2026-10-31"
+        }
+      ]
+    },
+    "6333": {
+      "id": "6333",
+      "name": "Dança da Morte",
+      "english": "Death's Dance",
+      "icon": "https://ddragon.leagueoflegends.com/cdn/16.21.1/img/item/6333.png",
+      "cost": 3300,
+      "description": "60 de Dano de Ataque\n50 de Armadura\n15 de Aceleração de Habilidade\n\nDor Ignorada\nUma porcentagem do dano sofrido é causada a você ao longo de 3s.\n\nDesafiar\nAo eliminar um Campeão inimigo a quem você tenha causado dano nos últimos 3s, purifica o restante do dano de Dor Ignorada e restaura Vida ao longo de 2s.",
+      "descriptionEN": "60 Attack Damage\n50 Armor\n15 Ability Haste\n\nIgnore Pain\nA percentage of damage taken is dealt to you over 3 seconds instead.\n\nDefy\nWhen a champion that you damaged within 3 seconds dies, cleanse Ignore Pain's remaining damage and restore Health over 2 seconds.",
+      "incomplete": false,
+      "stats": {
+        "FlatArmorMod": 50,
+        "FlatPhysicalDamageMod": 60
+      },
+      "buildsFrom": [
+        "2019",
+        "1037",
+        "3133"
+      ],
+      "buildsInto": [],
+      "groups": [],
+      "mayhem": true,
+      "purchasable": true,
+      "allowedIdentities": [
+        "fighter",
+        "tank",
+        "attack"
+      ],
+      "patch": "26.21",
+      "source": [
+        {
+          "label": "Riot Data Dragon PT-BR",
+          "url": "https://ddragon.leagueoflegends.com/cdn/16.21.1/data/pt_BR/item.json",
+          "patch": "26.21",
+          "checkedAt": "2026-10-31"
+        },
+        {
+          "label": "Riot Data Dragon EN",
+          "url": "https://ddragon.leagueoflegends.com/cdn/16.21.1/data/en_US/item.json",
+          "patch": "26.21",
+          "checkedAt": "2026-10-31"
+        },
+        {
+          "label": "Catálogo Mayhem · CC BY 4.0",
+          "url": "https://arammayhem.com/data/v1/latest/items.json",
+          "patch": "26.21",
+          "checkedAt": "2026-10-31"
+        }
+      ]
+    },
+    "6609": {
+      "id": "6609",
+      "name": "Serrespada Quimiopunk",
+      "english": "Chempunk Chainsword",
+      "icon": "https://ddragon.leagueoflegends.com/cdn/16.21.1/img/item/6609.png",
+      "cost": 3000,
+      "description": "45 de Dano de Ataque\n450 de Vida\n15 de Aceleração de Habilidade\n\nCisalhar\nCausar Dano Físico aplica 40% de Ferimentos a Campeões inimigos por 3s.",
+      "descriptionEN": "45 Attack Damage\n450 Health\n15 Ability Haste\n\nHackshorn\nDealing physical damage applies 40% Wounds to enemy champions for 3 seconds.",
+      "incomplete": false,
+      "stats": {
+        "FlatHPPoolMod": 450,
+        "FlatPhysicalDamageMod": 45
+      },
+      "buildsFrom": [
+        "3123",
+        "1011",
+        "3133"
+      ],
+      "buildsInto": [],
+      "groups": [],
+      "mayhem": true,
+      "purchasable": true,
+      "allowedIdentities": [
+        "mage",
+        "fighter",
+        "tank",
+        "attack"
+      ],
+      "patch": "26.21",
+      "source": [
+        {
+          "label": "Riot Data Dragon PT-BR",
+          "url": "https://ddragon.leagueoflegends.com/cdn/16.21.1/data/pt_BR/item.json",
+          "patch": "26.21",
+          "checkedAt": "2026-10-31"
+        },
+        {
+          "label": "Riot Data Dragon EN",
+          "url": "https://ddragon.leagueoflegends.com/cdn/16.21.1/data/en_US/item.json",
+          "patch": "26.21",
+          "checkedAt": "2026-10-31"
+        },
+        {
+          "label": "Catálogo Mayhem · CC BY 4.0",
+          "url": "https://arammayhem.com/data/v1/latest/items.json",
+          "patch": "26.21",
+          "checkedAt": "2026-10-31"
+        }
+      ]
+    },
+    "6610": {
+      "id": "6610",
+      "name": "Céu Dividido",
+      "english": "Sundered Sky",
+      "icon": "https://ddragon.leagueoflegends.com/cdn/16.21.1/img/item/6610.png",
+      "cost": 3100,
+      "description": "40 de Dano de Ataque\n400 de Vida\n10 de Aceleração de Habilidade\n\nGolpe de Lumescudo\nSeu primeiro Ataque contra um Campeão causa Acerto Crítico e restaura Vida.",
+      "descriptionEN": "40 Attack Damage\n400 Health\n10 Ability Haste\n\nLightshield Strike\nYour first Attack against a champion Critically Strikes and restores Health.",
+      "incomplete": false,
+      "stats": {
+        "FlatHPPoolMod": 400,
+        "FlatPhysicalDamageMod": 40
+      },
+      "buildsFrom": [
+        "2021",
+        "3133"
+      ],
+      "buildsInto": [],
+      "groups": [],
+      "mayhem": true,
+      "purchasable": true,
+      "allowedIdentities": [
+        "fighter",
+        "attack"
+      ],
+      "patch": "26.21",
+      "source": [
+        {
+          "label": "Riot Data Dragon PT-BR",
+          "url": "https://ddragon.leagueoflegends.com/cdn/16.21.1/data/pt_BR/item.json",
+          "patch": "26.21",
+          "checkedAt": "2026-10-31"
+        },
+        {
+          "label": "Riot Data Dragon EN",
+          "url": "https://ddragon.leagueoflegends.com/cdn/16.21.1/data/en_US/item.json",
+          "patch": "26.21",
+          "checkedAt": "2026-10-31"
+        },
+        {
+          "label": "Catálogo Mayhem · CC BY 4.0",
+          "url": "https://arammayhem.com/data/v1/latest/items.json",
+          "patch": "26.21",
+          "checkedAt": "2026-10-31"
+        }
+      ]
+    },
+    "6616": {
+      "id": "6616",
+      "name": "Cajado Aquafluxo",
+      "english": "Staff of Flowing Water",
+      "icon": "https://ddragon.leagueoflegends.com/cdn/16.21.1/img/item/6616.png",
+      "cost": 2250,
+      "description": "35 de Poder de Habilidade\n10% de Cura e Resistência do Escudo\n125% de Regeneração de Mana base\n10 de Aceleração de Habilidade\n\nCorredeira\nConceder cura ou Escudo a um aliado concede a vocês dois 40 de Poder de Habilidade e 15 de Aceleração de Habilidade por 6s.",
+      "descriptionEN": "35 Ability Power\n10% Heal and Shield Power\n125% Base Mana Regen\n10 Ability Haste\n\nRapids\nHealing or Shielding an ally grants you both 40 Ability Power and 15 Ability Haste for 6 seconds.",
+      "incomplete": false,
+      "stats": {
+        "FlatMagicDamageMod": 35
+      },
+      "buildsFrom": [
+        "3108",
+        "3114"
+      ],
+      "buildsInto": [],
+      "groups": [],
+      "mayhem": true,
+      "purchasable": true,
+      "allowedIdentities": [
+        "enchanter"
+      ],
+      "patch": "26.21",
+      "source": [
+        {
+          "label": "Riot Data Dragon PT-BR",
+          "url": "https://ddragon.leagueoflegends.com/cdn/16.21.1/data/pt_BR/item.json",
+          "patch": "26.21",
+          "checkedAt": "2026-10-31"
+        },
+        {
+          "label": "Riot Data Dragon EN",
+          "url": "https://ddragon.leagueoflegends.com/cdn/16.21.1/data/en_US/item.json",
+          "patch": "26.21",
+          "checkedAt": "2026-10-31"
+        },
+        {
+          "label": "Catálogo Mayhem · CC BY 4.0",
+          "url": "https://arammayhem.com/data/v1/latest/items.json",
+          "patch": "26.21",
+          "checkedAt": "2026-10-31"
+        }
+      ]
+    },
+    "6617": {
+      "id": "6617",
+      "name": "Regenerador de Pedra Lunar",
+      "english": "Moonstone Renewer",
+      "icon": "https://ddragon.leagueoflegends.com/cdn/16.21.1/img/item/6617.png",
+      "cost": 2200,
+      "description": "25 de Poder de Habilidade\n200 de Vida\n20 de Aceleração de Habilidade\n125% de Regeneração de Mana base\n\nGraça Estrelada\nCurar um aliado ou conceder Escudo a ele ativa um efeito em cadeia em outro aliado (menos em si), curando-o em 30% ou concedendo a ele um Escudo de 35% do valor original.",
+      "descriptionEN": "25 Ability Power\n200 Health\n20 Ability Haste\n125% Base Mana Regen\n\nStarlit Grace\nHealing or shielding an ally chains the effect to another ally (excluding yourself), healing 30% or shielding 35% of the original amount.",
+      "incomplete": false,
+      "stats": {
+        "FlatHPPoolMod": 200,
+        "FlatMagicDamageMod": 25
+      },
+      "buildsFrom": [
+        "3067",
+        "4642"
+      ],
+      "buildsInto": [],
+      "groups": [],
+      "mayhem": true,
+      "purchasable": true,
+      "allowedIdentities": [
+        "enchanter"
+      ],
+      "patch": "26.21",
+      "source": [
+        {
+          "label": "Riot Data Dragon PT-BR",
+          "url": "https://ddragon.leagueoflegends.com/cdn/16.21.1/data/pt_BR/item.json",
+          "patch": "26.21",
+          "checkedAt": "2026-10-31"
+        },
+        {
+          "label": "Riot Data Dragon EN",
+          "url": "https://ddragon.leagueoflegends.com/cdn/16.21.1/data/en_US/item.json",
+          "patch": "26.21",
+          "checkedAt": "2026-10-31"
+        },
+        {
+          "label": "Catálogo Mayhem · CC BY 4.0",
+          "url": "https://arammayhem.com/data/v1/latest/items.json",
+          "patch": "26.21",
+          "checkedAt": "2026-10-31"
+        }
+      ]
+    },
+    "6620": {
+      "id": "6620",
+      "name": "Ecos de Helia",
+      "english": "Echoes of Helia",
+      "icon": "https://ddragon.leagueoflegends.com/cdn/16.21.1/img/item/6620.png",
+      "cost": 2200,
+      "description": "35 de Poder de Habilidade\n200 de Vida\n20 de Aceleração de Habilidade\n125% de Regeneração de Mana base\n\nSifão da Alma\nRecebe 30% do dano pré-mitigação causado a Campeões como Cargas de Alma. Conceder curas ou Escudos a um aliado consome todas as Cargas de Alma para restaurar Vida.",
+      "descriptionEN": "35 Ability Power\n200 Health\n20 Ability Haste\n125% Base Mana Regen\n\nSoul Siphon\nGain 30% of pre-mitigation damage dealt to champions as Soul Charges. Healing or Shielding an ally consumes all Soul Charges to restore Health.",
+      "incomplete": false,
+      "stats": {
+        "FlatHPPoolMod": 200,
+        "FlatMagicDamageMod": 35
+      },
+      "buildsFrom": [
+        "3067",
+        "4642"
+      ],
+      "buildsInto": [],
+      "groups": [],
+      "mayhem": true,
+      "purchasable": true,
+      "allowedIdentities": [
+        "enchanter"
+      ],
+      "patch": "26.21",
+      "source": [
+        {
+          "label": "Riot Data Dragon PT-BR",
+          "url": "https://ddragon.leagueoflegends.com/cdn/16.21.1/data/pt_BR/item.json",
+          "patch": "26.21",
+          "checkedAt": "2026-10-31"
+        },
+        {
+          "label": "Riot Data Dragon EN",
+          "url": "https://ddragon.leagueoflegends.com/cdn/16.21.1/data/en_US/item.json",
+          "patch": "26.21",
+          "checkedAt": "2026-10-31"
+        },
+        {
+          "label": "Catálogo Mayhem · CC BY 4.0",
+          "url": "https://arammayhem.com/data/v1/latest/items.json",
+          "patch": "26.21",
+          "checkedAt": "2026-10-31"
+        }
+      ]
+    },
+    "6621": {
+      "id": "6621",
+      "name": "Auronúcleo",
+      "english": "Dawncore",
+      "icon": "https://ddragon.leagueoflegends.com/cdn/16.21.1/img/item/6621.png",
+      "cost": 2500,
+      "description": "45 de Poder de Habilidade\n16% de Cura e Resistência do Escudo\n100% de Regeneração de Mana base\n\nPrimeira Luz\nRecebe 2% de cura e Resistência do Escudo e 15 de Poder de Habilidade a cada 100% de Regeneração de Mana base.",
+      "descriptionEN": "45 Ability Power\n16% Heal and Shield Power\n100% Base Mana Regen\n\nFirst Light\nGain 2% Heal and Shield Power and 15 Ability Power per 100% Base Mana Regen.",
+      "incomplete": false,
+      "stats": {
+        "FlatMagicDamageMod": 45
+      },
+      "buildsFrom": [
+        "1026",
+        "3114",
+        "3114"
+      ],
+      "buildsInto": [],
+      "groups": [],
+      "mayhem": true,
+      "purchasable": true,
+      "allowedIdentities": [
+        "enchanter"
+      ],
+      "patch": "26.21",
+      "source": [
+        {
+          "label": "Riot Data Dragon PT-BR",
+          "url": "https://ddragon.leagueoflegends.com/cdn/16.21.1/data/pt_BR/item.json",
+          "patch": "26.21",
+          "checkedAt": "2026-10-31"
+        },
+        {
+          "label": "Riot Data Dragon EN",
+          "url": "https://ddragon.leagueoflegends.com/cdn/16.21.1/data/en_US/item.json",
+          "patch": "26.21",
+          "checkedAt": "2026-10-31"
+        },
+        {
+          "label": "Catálogo Mayhem · CC BY 4.0",
+          "url": "https://arammayhem.com/data/v1/latest/items.json",
+          "patch": "26.21",
+          "checkedAt": "2026-10-31"
+        }
+      ]
+    },
+    "6631": {
+      "id": "6631",
+      "name": "Quebrapassos",
+      "english": "Stridebreaker",
+      "icon": "https://ddragon.leagueoflegends.com/cdn/16.21.1/img/item/6631.png",
+      "cost": 3300,
+      "description": "40 de Dano de Ataque\n25% de Velocidade de Ataque\n450 de Vida\n\nFenda\nAtaques causam Dano Físico a inimigos próximos.\nOnda de Choque Estonteante\nCausa Dano Físico e 35% de Lentidão a inimigos próximos.\nRecebe 35% de Velocidade de Movimento que decai ao longo do tempo a cada Campeão atingido por 3s.",
+      "descriptionEN": "40 Attack Damage\n25% Attack Speed\n450 Health\n\nCleave\nAttacks deal physical damage to nearby enemies.\nBreaking Shockwave\nDeal physical damage and Slow nearby enemies by 35%.\nGain 35% decaying Move Speed per champion hit for 3 seconds.",
+      "incomplete": false,
+      "stats": {
+        "FlatHPPoolMod": 450,
+        "FlatPhysicalDamageMod": 40,
+        "PercentAttackSpeedMod": 0.25
+      },
+      "buildsFrom": [
+        "3077",
+        "3044",
+        "1042"
+      ],
+      "buildsInto": [],
+      "groups": [],
+      "mayhem": true,
+      "purchasable": true,
+      "allowedIdentities": [
+        "fighter",
+        "attack"
+      ],
+      "patch": "26.21",
+      "source": [
+        {
+          "label": "Riot Data Dragon PT-BR",
+          "url": "https://ddragon.leagueoflegends.com/cdn/16.21.1/data/pt_BR/item.json",
+          "patch": "26.21",
+          "checkedAt": "2026-10-31"
+        },
+        {
+          "label": "Riot Data Dragon EN",
+          "url": "https://ddragon.leagueoflegends.com/cdn/16.21.1/data/en_US/item.json",
+          "patch": "26.21",
+          "checkedAt": "2026-10-31"
+        },
+        {
+          "label": "Catálogo Mayhem · CC BY 4.0",
+          "url": "https://arammayhem.com/data/v1/latest/items.json",
+          "patch": "26.21",
+          "checkedAt": "2026-10-31"
+        }
+      ]
+    },
+    "6653": {
+      "id": "6653",
+      "name": "Tormento de Liandry",
+      "english": "Liandry's Torment",
+      "icon": "https://ddragon.leagueoflegends.com/cdn/16.21.1/img/item/6653.png",
+      "cost": 3000,
+      "description": "60 de Poder de Habilidade\n300 de Vida\n\nTormento\nHabilidades de dano queimam inimigos em 2% da Vida máxima como Dano Mágico por segundo durante 3s.\n\nSofrimento\nPara cada segundo em combate com Campeões inimigos, causa 2% de dano adicional, até um máximo de 6%.",
+      "descriptionEN": "60 Ability Power\n300 Health\n\nTorment\nDamaging Abilities burn enemies for 2% max Health magic damage per second for 3 seconds.\n\nSuffering\nFor each second in combat with enemy champions, deal 2% bonus damage, up to 6%.",
+      "incomplete": false,
+      "stats": {
+        "FlatHPPoolMod": 300,
+        "FlatMagicDamageMod": 60
+      },
+      "buildsFrom": [
+        "3147",
+        "2508"
+      ],
+      "buildsInto": [],
+      "groups": [],
+      "mayhem": true,
+      "purchasable": true,
+      "allowedIdentities": [
+        "mage",
+        "tank",
+        "enchanter"
+      ],
+      "patch": "26.21",
+      "source": [
+        {
+          "label": "Riot Data Dragon PT-BR",
+          "url": "https://ddragon.leagueoflegends.com/cdn/16.21.1/data/pt_BR/item.json",
+          "patch": "26.21",
+          "checkedAt": "2026-10-31"
+        },
+        {
+          "label": "Riot Data Dragon EN",
+          "url": "https://ddragon.leagueoflegends.com/cdn/16.21.1/data/en_US/item.json",
+          "patch": "26.21",
+          "checkedAt": "2026-10-31"
+        },
+        {
+          "label": "Catálogo Mayhem · CC BY 4.0",
+          "url": "https://arammayhem.com/data/v1/latest/items.json",
+          "patch": "26.21",
+          "checkedAt": "2026-10-31"
+        }
+      ]
+    },
+    "6655": {
+      "id": "6655",
+      "name": "Eco de Luden",
+      "english": "Luden's Echo",
+      "icon": "https://ddragon.leagueoflegends.com/cdn/16.21.1/img/item/6655.png",
+      "cost": 2750,
+      "description": "100 de Poder de Habilidade\n600 de Mana\n10 de Aceleração de Habilidade\n\nEco\nHabilidades de dano lançam 6 Ecos que causam Dano Mágico adicional ao alvo e a inimigos próximos. Ecos restantes atingem o alvo primeiro, causando 20% de dano.",
+      "descriptionEN": "100 Ability Power\n600 Mana\n10 Ability Haste\n\nEcho\nDamaging Abilities fire 6 Echoes that deal bonus magic damage to the target and nearby enemies. Remaining Echoes fire on the primary target, dealing 20% damage.",
+      "incomplete": false,
+      "stats": {
+        "FlatMPPoolMod": 600,
+        "FlatMagicDamageMod": 100
+      },
+      "buildsFrom": [
+        "3802",
+        "3145"
+      ],
+      "buildsInto": [],
+      "groups": [],
+      "mayhem": true,
+      "purchasable": true,
+      "allowedIdentities": [
+        "mage"
+      ],
+      "patch": "26.21",
+      "source": [
+        {
+          "label": "Riot Data Dragon PT-BR",
+          "url": "https://ddragon.leagueoflegends.com/cdn/16.21.1/data/pt_BR/item.json",
+          "patch": "26.21",
+          "checkedAt": "2026-10-31"
+        },
+        {
+          "label": "Riot Data Dragon EN",
+          "url": "https://ddragon.leagueoflegends.com/cdn/16.21.1/data/en_US/item.json",
+          "patch": "26.21",
+          "checkedAt": "2026-10-31"
+        },
+        {
+          "label": "Catálogo Mayhem · CC BY 4.0",
+          "url": "https://arammayhem.com/data/v1/latest/items.json",
+          "patch": "26.21",
+          "checkedAt": "2026-10-31"
+        }
+      ]
+    },
+    "6657": {
+      "id": "6657",
+      "name": "Bastão das Eras",
+      "english": "Rod of Ages",
+      "icon": "https://ddragon.leagueoflegends.com/cdn/16.21.1/img/item/6657.png",
+      "cost": 2600,
+      "description": "45 de Poder de Habilidade\n350 de Vida\n500 de Mana\n\nAtemporal\nEste item ganha 10 de Vida, 30 de Mana e 3 de Poder de Habilidade a cada 60s até 10 vezes. Com o máximo de acúmulos, recebe um nível.\n\nEternidade\nSofrer dano de Campeões restaura 10% do dano como Mana. \nConjurar uma Habilidade cura o equivalente a 25% do Mana gasto.",
+      "descriptionEN": "45 Ability Power\n350 Health\n500 Mana\n\nTimeless\nThis item gains 10 Health, 30 Mana and 3 Ability Power every 60 seconds up to 10 times. Upon reaching max stacks, gain a level.\n\nEternity\nTaking damage from champions restores 10% of the damage as Mana. \nCasting an ability heals for 25% of Mana spent.",
+      "incomplete": false,
+      "stats": {
+        "FlatMPPoolMod": 500,
+        "FlatHPPoolMod": 350,
+        "FlatMagicDamageMod": 45
+      },
+      "buildsFrom": [
+        "1026",
+        "3803"
+      ],
+      "buildsInto": [],
+      "groups": [],
+      "mayhem": true,
+      "purchasable": true,
+      "allowedIdentities": [
+        "mage"
+      ],
+      "patch": "26.21",
+      "source": [
+        {
+          "label": "Riot Data Dragon PT-BR",
+          "url": "https://ddragon.leagueoflegends.com/cdn/16.21.1/data/pt_BR/item.json",
+          "patch": "26.21",
+          "checkedAt": "2026-10-31"
+        },
+        {
+          "label": "Riot Data Dragon EN",
+          "url": "https://ddragon.leagueoflegends.com/cdn/16.21.1/data/en_US/item.json",
+          "patch": "26.21",
+          "checkedAt": "2026-10-31"
+        },
+        {
+          "label": "Catálogo Mayhem · CC BY 4.0",
+          "url": "https://arammayhem.com/data/v1/latest/items.json",
+          "patch": "26.21",
+          "checkedAt": "2026-10-31"
+        }
+      ]
+    },
+    "6662": {
+      "id": "6662",
+      "name": "Manopla dos Glacinatas",
+      "english": "Iceborn Gauntlet",
+      "icon": "https://ddragon.leagueoflegends.com/cdn/16.21.1/img/item/6662.png",
+      "cost": 2900,
+      "description": "300 de Vida\n50 de Armadura\n15 de Aceleração de Habilidade\n\nLâmina Arcana\nDepois de usar uma Habilidade, seu próximo Ataque causará Dano Físico adicional ao contato e criará um campo congelado por 2s, causando Lentidão.",
+      "descriptionEN": "300 Health\n50 Armor\n15 Ability Haste\n\nSpellblade\nAfter using an Ability, your next Attack deals bonus physical damage On-Hit and creates a frost field for 2s that Slows.",
+      "incomplete": false,
+      "stats": {
+        "FlatHPPoolMod": 300,
+        "FlatArmorMod": 50
+      },
+      "buildsFrom": [
+        "3057",
+        "1028",
+        "1031"
+      ],
+      "buildsInto": [],
+      "groups": [
+        "spellblade"
+      ],
+      "mayhem": true,
+      "purchasable": true,
+      "allowedIdentities": [
+        "tank"
+      ],
+      "patch": "26.21",
+      "source": [
+        {
+          "label": "Riot Data Dragon PT-BR",
+          "url": "https://ddragon.leagueoflegends.com/cdn/16.21.1/data/pt_BR/item.json",
+          "patch": "26.21",
+          "checkedAt": "2026-10-31"
+        },
+        {
+          "label": "Riot Data Dragon EN",
+          "url": "https://ddragon.leagueoflegends.com/cdn/16.21.1/data/en_US/item.json",
+          "patch": "26.21",
+          "checkedAt": "2026-10-31"
+        },
+        {
+          "label": "Catálogo Mayhem · CC BY 4.0",
+          "url": "https://arammayhem.com/data/v1/latest/items.json",
+          "patch": "26.21",
+          "checkedAt": "2026-10-31"
+        }
+      ]
+    },
+    "6664": {
+      "id": "6664",
+      "name": "Resplendor Vazio",
+      "english": "Hollow Radiance",
+      "icon": "https://ddragon.leagueoflegends.com/cdn/16.21.1/img/item/6664.png",
+      "cost": 2800,
+      "description": "400 de Vida\n40 de Resistência Mágica\n10 de Aceleração de Habilidade\n100% de Regeneração de Vida base\n\nImolar\nDepois de causar ou sofrer qualquer dano, você causa Dano Mágico por segundo a inimigos próximos por 3s. \n\nDesolar\nAbater um inimigo causa Dano Mágico ao redor dele",
+      "descriptionEN": "400 Health\n40 Magic Resist\n10 Ability Haste\n100% Base Health Regen\n\nImmolate\nAfter taking or dealing damage, deal magic damage per second to nearby enemies for 3 seconds. \n\nDesolate\nKilling an enemy deals magic damage around them.",
+      "incomplete": false,
+      "stats": {
+        "FlatSpellBlockMod": 40,
+        "FlatHPPoolMod": 400
+      },
+      "buildsFrom": [
+        "6660",
+        "3211"
+      ],
+      "buildsInto": [],
+      "groups": [],
+      "mayhem": true,
+      "purchasable": true,
+      "allowedIdentities": [
+        "tank"
+      ],
+      "patch": "26.21",
+      "source": [
+        {
+          "label": "Riot Data Dragon PT-BR",
+          "url": "https://ddragon.leagueoflegends.com/cdn/16.21.1/data/pt_BR/item.json",
+          "patch": "26.21",
+          "checkedAt": "2026-10-31"
+        },
+        {
+          "label": "Riot Data Dragon EN",
+          "url": "https://ddragon.leagueoflegends.com/cdn/16.21.1/data/en_US/item.json",
+          "patch": "26.21",
+          "checkedAt": "2026-10-31"
+        },
+        {
+          "label": "Catálogo Mayhem · CC BY 4.0",
+          "url": "https://arammayhem.com/data/v1/latest/items.json",
+          "patch": "26.21",
+          "checkedAt": "2026-10-31"
+        }
+      ]
+    },
+    "6665": {
+      "id": "6665",
+      "name": "Jak'Sho, o Inconstante",
+      "english": "Jak'Sho, The Protean",
+      "icon": "https://ddragon.leagueoflegends.com/cdn/16.21.1/img/item/6665.png",
+      "cost": 3200,
+      "description": "350 de Vida\n45 de Armadura\n45 de Resistência Mágica\n\nResiliência do Vazio\nDepois de 5s de combate contra Campeões, aumenta sua Armadura e Resistência Mágica adicionais em 30% até o fim do combate.",
+      "descriptionEN": "350 Health\n45 Armor\n45 Magic Resist\n\nVoidborn Resilience\nAfter 5 seconds of champion combat, increase your bonus Armor and Magic Resist by 30% until end of combat.",
+      "incomplete": false,
+      "stats": {
+        "FlatSpellBlockMod": 45,
+        "FlatHPPoolMod": 350,
+        "FlatArmorMod": 45
+      },
+      "buildsFrom": [
+        "1011",
+        "1031",
+        "1057"
+      ],
+      "buildsInto": [],
+      "groups": [],
+      "mayhem": true,
+      "purchasable": true,
+      "allowedIdentities": [
+        "tank"
+      ],
+      "patch": "26.21",
+      "source": [
+        {
+          "label": "Riot Data Dragon PT-BR",
+          "url": "https://ddragon.leagueoflegends.com/cdn/16.21.1/data/pt_BR/item.json",
+          "patch": "26.21",
+          "checkedAt": "2026-10-31"
+        },
+        {
+          "label": "Riot Data Dragon EN",
+          "url": "https://ddragon.leagueoflegends.com/cdn/16.21.1/data/en_US/item.json",
+          "patch": "26.21",
+          "checkedAt": "2026-10-31"
+        },
+        {
+          "label": "Catálogo Mayhem · CC BY 4.0",
+          "url": "https://arammayhem.com/data/v1/latest/items.json",
+          "patch": "26.21",
+          "checkedAt": "2026-10-31"
+        }
+      ]
+    },
+    "6672": {
+      "id": "6672",
+      "name": "Mata-Cráquens",
+      "english": "Kraken Slayer",
+      "icon": "https://ddragon.leagueoflegends.com/cdn/16.21.1/img/item/6672.png",
+      "cost": 3000,
+      "description": "45 de Dano de Ataque\n40% de Velocidade de Ataque\n4% de Velocidade de Movimento\n\nDerrubar\nCada terceiro Ataque causa Dano Físico adicional ao contato, aumentado com base na Vida perdida do alvo.",
+      "descriptionEN": "45 Attack Damage\n40% Attack Speed\n4% Move Speed\n\nBring It Down\nEvery third Attack deals bonus physical damage On-Hit, increased based on their missing Health.",
+      "incomplete": false,
+      "stats": {
+        "FlatPhysicalDamageMod": 45,
+        "PercentAttackSpeedMod": 0.4,
+        "PercentMovementSpeedMod": 0.04
+      },
+      "buildsFrom": [
+        "6690",
+        "3051",
+        "1043"
+      ],
+      "buildsInto": [],
+      "groups": [],
+      "mayhem": true,
+      "purchasable": true,
+      "allowedIdentities": [
+        "attack"
+      ],
+      "patch": "26.21",
+      "source": [
+        {
+          "label": "Riot Data Dragon PT-BR",
+          "url": "https://ddragon.leagueoflegends.com/cdn/16.21.1/data/pt_BR/item.json",
+          "patch": "26.21",
+          "checkedAt": "2026-10-31"
+        },
+        {
+          "label": "Riot Data Dragon EN",
+          "url": "https://ddragon.leagueoflegends.com/cdn/16.21.1/data/en_US/item.json",
+          "patch": "26.21",
+          "checkedAt": "2026-10-31"
+        },
+        {
+          "label": "Catálogo Mayhem · CC BY 4.0",
+          "url": "https://arammayhem.com/data/v1/latest/items.json",
+          "patch": "26.21",
+          "checkedAt": "2026-10-31"
+        }
+      ]
+    },
+    "6673": {
+      "id": "6673",
+      "name": "Arco-escudo Imortal",
+      "english": "Immortal Shieldbow",
+      "icon": "https://ddragon.leagueoflegends.com/cdn/16.21.1/img/item/6673.png",
+      "cost": 3000,
+      "description": "55 de Dano de Ataque\n25% de Chance de Acerto Crítico\n\nSalva-Vidas\nAo sofrer dano suficiente para reduzir sua Vida a menos de 30%, recebe um Escudo por 3s.",
+      "descriptionEN": "55 Attack Damage\n25% Critical Strike Chance\n\nLifeline\nTaking damage that would reduce your Health below 30% grants a Shield for 3 seconds.",
+      "incomplete": false,
+      "stats": {
+        "FlatCritChanceMod": 0.25,
+        "FlatPhysicalDamageMod": 55
+      },
+      "buildsFrom": [
+        "1037",
+        "6670"
+      ],
+      "buildsInto": [],
+      "groups": [
+        "lifeline"
+      ],
+      "mayhem": true,
+      "purchasable": true,
+      "allowedIdentities": [
+        "attack"
+      ],
+      "patch": "26.21",
+      "source": [
+        {
+          "label": "Riot Data Dragon PT-BR",
+          "url": "https://ddragon.leagueoflegends.com/cdn/16.21.1/data/pt_BR/item.json",
+          "patch": "26.21",
+          "checkedAt": "2026-10-31"
+        },
+        {
+          "label": "Riot Data Dragon EN",
+          "url": "https://ddragon.leagueoflegends.com/cdn/16.21.1/data/en_US/item.json",
+          "patch": "26.21",
+          "checkedAt": "2026-10-31"
+        },
+        {
+          "label": "Catálogo Mayhem · CC BY 4.0",
+          "url": "https://arammayhem.com/data/v1/latest/items.json",
+          "patch": "26.21",
+          "checkedAt": "2026-10-31"
+        }
+      ]
+    },
+    "6675": {
+      "id": "6675",
+      "name": "Adaga Oscilante Navori",
+      "english": "Navori Flickerblade",
+      "icon": "https://ddragon.leagueoflegends.com/cdn/16.21.1/img/item/6675.png",
+      "cost": 2650,
+      "description": "40% de Velocidade de Ataque\n25% de Chance de Acerto Crítico\n4% de Velocidade de Movimento\n\nTranscendência\nAtaques reduzem os Tempos de Recarga das Habilidades básicas em 15% do Tempo de Recarga restante.",
+      "descriptionEN": "40% Attack Speed\n25% Critical Strike Chance\n4% Move Speed\n\nTranscendence\nAttacks reduce Basic Ability cooldowns by 15% of their remaining cooldown.",
+      "incomplete": false,
+      "stats": {
+        "FlatCritChanceMod": 0.25,
+        "PercentAttackSpeedMod": 0.4,
+        "PercentMovementSpeedMod": 0.04
+      },
+      "buildsFrom": [
+        "1042",
+        "3086",
+        "1042"
+      ],
+      "buildsInto": [],
+      "groups": [],
+      "mayhem": true,
+      "purchasable": true,
+      "allowedIdentities": [
+        "attack"
+      ],
+      "patch": "26.21",
+      "source": [
+        {
+          "label": "Riot Data Dragon PT-BR",
+          "url": "https://ddragon.leagueoflegends.com/cdn/16.21.1/data/pt_BR/item.json",
+          "patch": "26.21",
+          "checkedAt": "2026-10-31"
+        },
+        {
+          "label": "Riot Data Dragon EN",
+          "url": "https://ddragon.leagueoflegends.com/cdn/16.21.1/data/en_US/item.json",
+          "patch": "26.21",
+          "checkedAt": "2026-10-31"
+        },
+        {
+          "label": "Catálogo Mayhem · CC BY 4.0",
+          "url": "https://arammayhem.com/data/v1/latest/items.json",
+          "patch": "26.21",
+          "checkedAt": "2026-10-31"
+        }
+      ]
+    },
+    "6676": {
+      "id": "6676",
+      "name": "A Coletora",
+      "english": "The Collector",
+      "icon": "https://ddragon.leagueoflegends.com/cdn/16.21.1/img/item/6676.png",
+      "cost": 3000,
+      "description": "50 de Dano de Ataque\n10 de Letalidade\n25% de Chance de Acerto Crítico\n\nMorte\nSeu dano executa Campeões com menos de 5% de Vida.\n\nAbrupta\nAbates de Campeões concedem 25 de ouro adicional.",
+      "descriptionEN": "50 Attack Damage\n10 Lethality\n25% Critical Strike Chance\n\nDeath\nYour damage executes champions that are below 5% Health.\n\nTaxes\nChampion kills grant 25 bonus gold.",
+      "incomplete": false,
+      "stats": {
+        "FlatCritChanceMod": 0.25,
+        "FlatPhysicalDamageMod": 50
+      },
+      "buildsFrom": [
+        "1037",
+        "3134",
+        "1018"
+      ],
+      "buildsInto": [],
+      "groups": [],
+      "mayhem": true,
+      "purchasable": true,
+      "allowedIdentities": [
+        "attack"
+      ],
+      "patch": "26.21",
+      "source": [
+        {
+          "label": "Riot Data Dragon PT-BR",
+          "url": "https://ddragon.leagueoflegends.com/cdn/16.21.1/data/pt_BR/item.json",
+          "patch": "26.21",
+          "checkedAt": "2026-10-31"
+        },
+        {
+          "label": "Riot Data Dragon EN",
+          "url": "https://ddragon.leagueoflegends.com/cdn/16.21.1/data/en_US/item.json",
+          "patch": "26.21",
+          "checkedAt": "2026-10-31"
+        },
+        {
+          "label": "Catálogo Mayhem · CC BY 4.0",
+          "url": "https://arammayhem.com/data/v1/latest/items.json",
+          "patch": "26.21",
+          "checkedAt": "2026-10-31"
+        }
+      ]
+    },
+    "6692": {
+      "id": "6692",
+      "name": "Eclipse",
+      "english": "Eclipse",
+      "icon": "https://ddragon.leagueoflegends.com/cdn/16.21.1/img/item/6692.png",
+      "cost": 2900,
+      "description": "60 de Dano de Ataque\n15 de Aceleração de Habilidade\n\nLua Sempre Crescente\nAtingir um Campeão com 2 Ataques ou Habilidades separados dentro de 2s concede ao usuário um Escudo por 2s.",
+      "descriptionEN": "60 Attack Damage\n15 Ability Haste\n\nEver Rising Moon\nHitting a champion with 2 separate Attacks or Abilities within 2 seconds grants you a Shield for 2 seconds.",
+      "incomplete": false,
+      "stats": {
+        "FlatPhysicalDamageMod": 60
+      },
+      "buildsFrom": [
+        "3133",
+        "1037",
+        "1036"
+      ],
+      "buildsInto": [],
+      "groups": [],
+      "mayhem": true,
+      "purchasable": true,
+      "allowedIdentities": [
+        "fighter"
+      ],
+      "patch": "26.21",
+      "source": [
+        {
+          "label": "Riot Data Dragon PT-BR",
+          "url": "https://ddragon.leagueoflegends.com/cdn/16.21.1/data/pt_BR/item.json",
+          "patch": "26.21",
+          "checkedAt": "2026-10-31"
+        },
+        {
+          "label": "Riot Data Dragon EN",
+          "url": "https://ddragon.leagueoflegends.com/cdn/16.21.1/data/en_US/item.json",
+          "patch": "26.21",
+          "checkedAt": "2026-10-31"
+        },
+        {
+          "label": "Catálogo Mayhem · CC BY 4.0",
+          "url": "https://arammayhem.com/data/v1/latest/items.json",
+          "patch": "26.21",
+          "checkedAt": "2026-10-31"
+        }
+      ]
+    },
+    "6694": {
+      "id": "6694",
+      "name": "Rancor de Serylda",
+      "english": "Serylda's Grudge",
+      "icon": "https://ddragon.leagueoflegends.com/cdn/16.21.1/img/item/6694.png",
+      "cost": 3000,
+      "description": "45 de Dano de Ataque\n35% de Penetração de Armadura\n15 de Aceleração de Habilidade\n\nFrio Agonizante\nHabilidades de dano causam 30% de Lentidão a inimigos com menos de 50% de Vida por 1s.",
+      "descriptionEN": "45 Attack Damage\n35% Armor Penetration\n15 Ability Haste\n\nBitter Cold\nDamaging Abilities Slow enemies below 50% Health by 30% for 1 second.",
+      "incomplete": false,
+      "stats": {
+        "FlatPhysicalDamageMod": 45
+      },
+      "buildsFrom": [
+        "3133",
+        "3035"
+      ],
+      "buildsInto": [],
+      "groups": [
+        "percent-armor-penetration"
+      ],
+      "mayhem": true,
+      "purchasable": true,
+      "allowedIdentities": [
+        "fighter",
+        "attack"
+      ],
+      "patch": "26.21",
+      "source": [
+        {
+          "label": "Riot Data Dragon PT-BR",
+          "url": "https://ddragon.leagueoflegends.com/cdn/16.21.1/data/pt_BR/item.json",
+          "patch": "26.21",
+          "checkedAt": "2026-10-31"
+        },
+        {
+          "label": "Riot Data Dragon EN",
+          "url": "https://ddragon.leagueoflegends.com/cdn/16.21.1/data/en_US/item.json",
+          "patch": "26.21",
+          "checkedAt": "2026-10-31"
+        },
+        {
+          "label": "Catálogo Mayhem · CC BY 4.0",
+          "url": "https://arammayhem.com/data/v1/latest/items.json",
+          "patch": "26.21",
+          "checkedAt": "2026-10-31"
+        }
+      ]
+    },
+    "6696": {
+      "id": "6696",
+      "name": "Arco do Axioma",
+      "english": "Axiom Arc",
+      "icon": "https://ddragon.leagueoflegends.com/cdn/16.21.1/img/item/6696.png",
+      "cost": 2750,
+      "description": "55 de Dano de Ataque\n18 de Letalidade\n20 de Aceleração de Habilidade\n\nFluxo\nQuando um Campeão a quem você tenha causado dano nos últimos 3s for abatido, restaura parte do Tempo de Recarga total da ultimate do usuário.",
+      "descriptionEN": "55 Attack Damage\n18 Lethality\n20 Ability Haste\n\nFlux\nWhen a champion that you damaged within 3 seconds dies, refund some of your Ultimate Ability's total cooldown.",
+      "incomplete": false,
+      "stats": {
+        "FlatPhysicalDamageMod": 55
+      },
+      "buildsFrom": [
+        "2020",
+        "3133"
+      ],
+      "buildsInto": [],
+      "groups": [],
+      "mayhem": true,
+      "purchasable": true,
+      "allowedIdentities": [
+        "fighter",
+        "attack"
+      ],
+      "patch": "26.21",
+      "source": [
+        {
+          "label": "Riot Data Dragon PT-BR",
+          "url": "https://ddragon.leagueoflegends.com/cdn/16.21.1/data/pt_BR/item.json",
+          "patch": "26.21",
+          "checkedAt": "2026-10-31"
+        },
+        {
+          "label": "Riot Data Dragon EN",
+          "url": "https://ddragon.leagueoflegends.com/cdn/16.21.1/data/en_US/item.json",
+          "patch": "26.21",
+          "checkedAt": "2026-10-31"
+        },
+        {
+          "label": "Catálogo Mayhem · CC BY 4.0",
+          "url": "https://arammayhem.com/data/v1/latest/items.json",
+          "patch": "26.21",
+          "checkedAt": "2026-10-31"
+        }
+      ]
+    },
+    "6698": {
+      "id": "6698",
+      "name": "Hidra Profana",
+      "english": "Profane Hydra",
+      "icon": "https://ddragon.leagueoflegends.com/cdn/16.21.1/img/item/6698.png",
+      "cost": 2850,
+      "description": "55 de Dano de Ataque\n18 de Letalidade\n10 de Aceleração de Habilidade\n\nFenda\nAtaques causam Dano Físico a inimigos próximos.\n\nFenda Herege\nCausa Dano Físico ao seu redor.",
+      "descriptionEN": "55 Attack Damage\n18 Lethality\n10 Ability Haste\n\nCleave\nAttacks deal physical damage to nearby enemies.\nHeretical Cleave\nDeal physical damage around you.",
+      "incomplete": false,
+      "stats": {
+        "FlatPhysicalDamageMod": 55
+      },
+      "buildsFrom": [
+        "3077",
+        "2020"
+      ],
+      "buildsInto": [],
+      "groups": [],
+      "mayhem": true,
+      "purchasable": true,
+      "allowedIdentities": [
+        "fighter",
+        "attack"
+      ],
+      "patch": "26.21",
+      "source": [
+        {
+          "label": "Riot Data Dragon PT-BR",
+          "url": "https://ddragon.leagueoflegends.com/cdn/16.21.1/data/pt_BR/item.json",
+          "patch": "26.21",
+          "checkedAt": "2026-10-31"
+        },
+        {
+          "label": "Riot Data Dragon EN",
+          "url": "https://ddragon.leagueoflegends.com/cdn/16.21.1/data/en_US/item.json",
+          "patch": "26.21",
+          "checkedAt": "2026-10-31"
+        },
+        {
+          "label": "Catálogo Mayhem · CC BY 4.0",
+          "url": "https://arammayhem.com/data/v1/latest/items.json",
+          "patch": "26.21",
+          "checkedAt": "2026-10-31"
+        }
+      ]
+    },
+    "8010": {
+      "id": "8010",
+      "name": "Maldição Sanguinária",
+      "english": "Bloodletter's Curse",
+      "icon": "https://ddragon.leagueoflegends.com/cdn/16.21.1/img/item/8010.png",
+      "cost": 2900,
+      "description": "65 de Poder de Habilidade\n400 de Vida\n15 de Aceleração de Habilidade\n\nDecadência Vil\nCausar Dano Mágico com habilidades ou passivas a Campeões reduz a Resistência Mágica deles em 7.5% por 6s (acumula 4x).",
+      "descriptionEN": "65 Ability Power\n400 Health\n15 Ability Haste\n\nVile Decay\nDealing magic damage with abilities or passives to champions reduces their Magic Resist by 7.5% for 6 seconds. (Stacks 4 times).",
+      "incomplete": false,
+      "stats": {
+        "FlatHPPoolMod": 400,
+        "FlatMagicDamageMod": 65
+      },
+      "buildsFrom": [
+        "3147",
+        "3108"
+      ],
+      "buildsInto": [],
+      "groups": [],
+      "mayhem": true,
+      "purchasable": true,
+      "allowedIdentities": [
+        "mage"
+      ],
+      "patch": "26.21",
+      "source": [
+        {
+          "label": "Riot Data Dragon PT-BR",
+          "url": "https://ddragon.leagueoflegends.com/cdn/16.21.1/data/pt_BR/item.json",
+          "patch": "26.21",
+          "checkedAt": "2026-10-31"
+        },
+        {
+          "label": "Riot Data Dragon EN",
+          "url": "https://ddragon.leagueoflegends.com/cdn/16.21.1/data/en_US/item.json",
+          "patch": "26.21",
+          "checkedAt": "2026-10-31"
+        },
+        {
+          "label": "Catálogo Mayhem · CC BY 4.0",
+          "url": "https://arammayhem.com/data/v1/latest/items.json",
+          "patch": "26.21",
+          "checkedAt": "2026-10-31"
+        }
+      ]
+    },
+    "8020": {
+      "id": "8020",
+      "name": "Máscara Abissal",
+      "english": "Abyssal Mask",
+      "icon": "https://ddragon.leagueoflegends.com/cdn/16.21.1/img/item/8020.png",
+      "cost": 2650,
+      "description": "350 de Vida\n45 de Resistência Mágica\n15 de Aceleração de Habilidade\n\nDestroçar\nCampeões inimigos próximos sofrem 12% a mais de Dano Mágico.",
+      "descriptionEN": "350 Health\n45 Magic Resist\n15 Ability Haste\n\nUnmake\nNearby enemy champions take 12% more magic damage.",
+      "incomplete": false,
+      "stats": {
+        "FlatSpellBlockMod": 45,
+        "FlatHPPoolMod": 350
+      },
+      "buildsFrom": [
+        "3067",
+        "1057"
+      ],
+      "buildsInto": [],
+      "groups": [],
+      "mayhem": true,
+      "purchasable": true,
+      "allowedIdentities": [
+        "tank"
+      ],
+      "patch": "26.21",
+      "source": [
+        {
+          "label": "Riot Data Dragon PT-BR",
+          "url": "https://ddragon.leagueoflegends.com/cdn/16.21.1/data/pt_BR/item.json",
+          "patch": "26.21",
+          "checkedAt": "2026-10-31"
+        },
+        {
+          "label": "Riot Data Dragon EN",
+          "url": "https://ddragon.leagueoflegends.com/cdn/16.21.1/data/en_US/item.json",
+          "patch": "26.21",
+          "checkedAt": "2026-10-31"
+        },
+        {
+          "label": "Catálogo Mayhem · CC BY 4.0",
+          "url": "https://arammayhem.com/data/v1/latest/items.json",
+          "patch": "26.21",
+          "checkedAt": "2026-10-31"
+        }
+      ]
+    }
+  }
+}
